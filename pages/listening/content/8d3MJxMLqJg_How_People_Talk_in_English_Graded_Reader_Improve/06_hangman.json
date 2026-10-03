@@ -1,0 +1,223 @@
+{
+  "version": 1,
+  "video_id": "8d3MJxMLqJg",
+  "items": [
+    {
+      "id": "h01",
+      "source_sentence": "Do you want to understand people when they speak English?",
+      "kr_hint": "사람들이 영어로 말할 때 그 내용을 이해하고 싶으신가요?",
+      "correct_chunks": [
+        "Do",
+        "you want",
+        "to understand",
+        "people",
+        "when they speak",
+        "English"
+      ],
+      "distractors": [
+        "did",
+        "has done"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "Do",
+        "alternatives": [
+          "did",
+          "has done"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "?"
+    },
+    {
+      "id": "h02",
+      "source_sentence": "If you know 95% of the words, then the book is good for you.",
+      "kr_hint": "만약 네가 단어의 95%를 안다면, 그 책은 너에게 좋은 책이다.",
+      "correct_chunks": [
+        "If you know",
+        "95",
+        "of the words",
+        "then",
+        "the book",
+        "is",
+        "good",
+        "for you"
+      ],
+      "distractors": [
+        "was",
+        "has been"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "is",
+        "alternatives": [
+          "was",
+          "has been"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h03",
+      "source_sentence": "If you want to learn words in English, read something every day.",
+      "kr_hint": "만약 당신이 영어 단어를 배우고 싶다면 매일 무엇인가를 읽으세요.",
+      "correct_chunks": [
+        "If you want",
+        "to learn",
+        "words",
+        "in English",
+        "read",
+        "something every day"
+      ],
+      "distractors": [
+        "worded",
+        "has worded"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "words",
+        "alternatives": [
+          "worded",
+          "has worded"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h04",
+      "source_sentence": "When you speak a language, your mouth needs to move in a new way.",
+      "kr_hint": "언어를 말할 때 당신의 입은 새로운 방식으로 움직여야 합니다.",
+      "correct_chunks": [
+        "When you speak",
+        "a language",
+        "your mouth",
+        "needs",
+        "to move",
+        "in a new way"
+      ],
+      "distractors": [
+        "needed",
+        "has needed"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "needs",
+        "alternatives": [
+          "needed",
+          "has needed"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h05",
+      "source_sentence": "When you want better pronunciation, [clears throat] be like a shadow.",
+      "kr_hint": "더 나은 발음을 원할 때, 그림자가 되세요.",
+      "correct_chunks": [
+        "When",
+        "you want better pronunciation",
+        "clears",
+        "throat",
+        "be",
+        "like a shadow"
+      ],
+      "distractors": [
+        "cleared",
+        "has cleared"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "clears",
+        "alternatives": [
+          "cleared",
+          "has cleared"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h06",
+      "source_sentence": "If you want to speak English, do not worry too much about grammar.",
+      "kr_hint": "영어를 말하고 싶다면 문법에 대해 너무 걱정하지 마세요.",
+      "correct_chunks": [
+        "If you want",
+        "to speak",
+        "English",
+        "do not",
+        "worry too much",
+        "about grammar"
+      ],
+      "distractors": [
+        "did",
+        "has done"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "do",
+        "alternatives": [
+          "did",
+          "has done"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h07",
+      "source_sentence": "If you want to understand English, don't stop after one listen.",
+      "kr_hint": "영어를 이해하고 싶다면, 한 번 듣고 멈추지 마세요.",
+      "correct_chunks": [
+        "If you want",
+        "to understand",
+        "English don't",
+        "stop",
+        "after one listen"
+      ],
+      "distractors": [
+        "stopped",
+        "has stopped"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "stop",
+        "alternatives": [
+          "stopped",
+          "has stopped"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h08",
+      "source_sentence": "If you speak every day, even a little, you will feel better.",
+      "kr_hint": "매일 조금씩이라도 말하면 기분이 더 좋아질 것이다.",
+      "correct_chunks": [
+        "If you speak",
+        "every day",
+        "even a little",
+        "you",
+        "will feel",
+        "better"
+      ],
+      "distractors": [
+        "would feel",
+        "feels"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "will feel",
+        "alternatives": [
+          "would feel",
+          "feels"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "."
+    }
+  ]
+}

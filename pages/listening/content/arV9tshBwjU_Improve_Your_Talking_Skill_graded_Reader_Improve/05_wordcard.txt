@@ -1,0 +1,89 @@
+[Card 1]
+headword: fluent
+part_of_speech: adjective
+meaning_kr: 유창한
+definition_en: able to speak or write a language easily, well, and without many pauses
+definition_kr_literal: 언어를 쉽고 잘하며 머뭇거림 없이 말하거나 쓸 수 있는 것
+example_en: Little by little, children become fluent in their native language by listening and speaking.
+example_kr_literal: 아이들은 듣고 말함으로써 조금씩 모국어를 유창하게 하게 됩니다.
+
+[Card 2]
+headword: repetition
+part_of_speech: noun
+meaning_kr: 반복
+definition_en: the act of doing or saying something again and again to learn or remember it
+definition_kr_literal: 무언가를 배우거나 기억하기 위해 그것을 반복해서 하거나 말하는 행위
+example_en: Your brain loves repetition because it makes difficult tasks feel much easier over time.
+example_kr_literal: 당신의 뇌는 반복을 좋아하는데, 이는 시간이 지남에 따라 어려운 과업을 훨씬 더 쉽게 느끼게 만들기 때문입니다.
+
+[Card 3]
+headword: translate
+part_of_speech: verb
+meaning_kr: 번역하다
+definition_en: to change words from one language into another
+definition_kr_literal: 단어를 한 언어에서 다른 언어로 바꾸는 것
+example_en: If you try to translate every word in your head, your speaking will become very slow.
+example_kr_literal: 만약 머릿속으로 모든 단어를 번역하려고 한다면, 당신의 말하기는 매우 느려질 것입니다.
+
+[Card 4]
+headword: foundation
+part_of_speech: noun
+meaning_kr: 기반
+definition_en: the base or basic ideas upon which something is built
+definition_kr_literal: 무언가가 구축되는 토대나 기본적인 아이디어
+example_en: Simple conversations are the foundation of your English speaking skills.
+example_kr_literal: 간단한 대화는 당신의 영어 말하기 실력의 토대입니다.
+
+[Card 5]
+headword: gradually
+part_of_speech: adverb
+meaning_kr: 점진적으로
+definition_en: slowly over a long period of time
+definition_kr_literal: 긴 시간에 걸쳐 천천히
+example_en: Your confidence will grow gradually if you practice speaking every single day.
+example_kr_literal: 매일 꾸준히 말하기 연습을 하면 자신감이 점차 커질 것입니다.
+
+[Card 6]
+headword: mindset
+part_of_speech: noun
+meaning_kr: 사고방식
+definition_en: a person's way of thinking and their opinions about things
+definition_kr_literal: 어떤 사람의 사고방식과 사물에 대한 의견
+example_en: If you have a positive mindset, you will believe that you can improve even when learning is hard.
+example_kr_literal: 긍정적인 사고방식을 가지면 배우는 것이 힘들 때도 스스로 발전할 수 있다고 믿게 될 것입니다.
+
+[Card 7]
+headword: strengthen
+part_of_speech: verb
+meaning_kr: 강화하다
+definition_en: to make something stronger or more powerful
+definition_kr_literal: 무언가를 더 강하거나 강력하게 만드는 것
+example_en: Every conversation helps strengthen your understanding of how to use English words.
+example_kr_literal: 모든 대화는 영어 단어를 사용하는 방법에 대한 이해를 강화하는 데 도움이 됩니다.
+
+[Card 8]
+headword: progress
+part_of_speech: noun
+meaning_kr: 진전
+definition_en: the process of improving or developing over time
+definition_kr_literal: 시간이 지나면서 향상되거나 발전하는 과정
+example_en: Small practice moments become big progress if you stay consistent.
+example_kr_literal: 꾸준히 노력하면 작은 연습의 순간들이 큰 발전이 됩니다.
+
+[Card 9]
+headword: immediately
+part_of_speech: adverb
+meaning_kr: 즉시
+definition_en: without any delay; right away
+definition_kr_literal: 지체 없이 바로요.
+example_en: You might not see results immediately, but keep practicing and you will get better.
+example_kr_literal: 즉각적인 결과는 보이지 않을 수도 있지만, 계속 연습하면 더 잘하게 될 거예요.
+
+[Card 10]
+headword: confident
+part_of_speech: adjective
+meaning_kr: 자신감 있는
+definition_en: feeling sure about your own ability to do things well
+definition_kr_literal: 무언가를 잘 해낼 자신의 능력에 대해 확신하는 기분
+example_en: Using simple sentences helps you feel more confident when talking to others.
+example_kr_literal: 간단한 문장을 사용하는 것은 다른 사람들과 대화할 때 더 자신감을 느끼도록 도와줍니다.

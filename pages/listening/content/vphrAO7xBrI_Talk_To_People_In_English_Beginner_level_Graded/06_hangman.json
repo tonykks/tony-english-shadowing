@@ -1,0 +1,231 @@
+{
+  "version": 1,
+  "video_id": "vphrAO7xBrI",
+  "items": [
+    {
+      "id": "h01",
+      "source_sentence": "I want to tell you something important today.",
+      "kr_hint": "오늘 여러분께 중요한 이야기를 하나 하고 싶습니다.",
+      "correct_chunks": [
+        "I want",
+        "to tell",
+        "you",
+        "something important today"
+      ],
+      "distractors": [
+        "youed",
+        "have youed"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "you",
+        "alternatives": [
+          "youed",
+          "have youed"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h02",
+      "source_sentence": "People who practiced speaking, even with mistakes, improved much faster than people who only studied grammar books.",
+      "kr_hint": "실수를 하더라도 직접 말하기 연습을 한 사람들이 문법책만 공부한 사람들보다 훨씬 더 빠르게 향상되었습니다.",
+      "correct_chunks": [
+        "People who practiced speaking",
+        "even",
+        "with mistakes",
+        "improved",
+        "much faster than people",
+        "who only",
+        "studied",
+        "grammar",
+        "books"
+      ],
+      "distractors": [
+        "improvs",
+        "has improved"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "improved",
+        "alternatives": [
+          "improvs",
+          "has improved"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h03",
+      "source_sentence": "Without talking, you can know a thousand words and still feel stuck.",
+      "kr_hint": "말하기 없이는 천 개의 단어를 알아도 여전히 막힌 느낌을 받을 수 있습니다.",
+      "correct_chunks": [
+        "Without talking",
+        "you",
+        "can know",
+        "a thousand",
+        "words",
+        "and still feel",
+        "stuck"
+      ],
+      "distractors": [
+        "could know",
+        "knows"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "can know",
+        "alternatives": [
+          "could know",
+          "knows"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h04",
+      "source_sentence": "He froze up completely when the interviewer asked him a hard question.",
+      "kr_hint": "면접관이 어려운 질문을 던지자 그는 완전히 얼어붙었습니다.",
+      "correct_chunks": [
+        "He froze",
+        "up completely",
+        "when the interviewer asked",
+        "him",
+        "a hard question"
+      ],
+      "distractors": [
+        "himed",
+        "has himed"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "him",
+        "alternatives": [
+          "himed",
+          "has himed"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h05",
+      "source_sentence": "You do not need flawless English in order to talk to people.",
+      "kr_hint": "사람들과 대화하기 위해 완벽한 영어가 필요한 것은 아닙니다.",
+      "correct_chunks": [
+        "You",
+        "do not",
+        "need",
+        "flawless English",
+        "in order",
+        "to talk",
+        "to people"
+      ],
+      "distractors": [
+        "did",
+        "have done"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "do",
+        "alternatives": [
+          "did",
+          "have done"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h06",
+      "source_sentence": "They assume that if they make a mistake, others will laugh at them or consider them foolish.",
+      "kr_hint": "그들은 만약 자신이 실수를 하면 다른 사람들이 비웃거나 자신을 어리석다고 생각할 것이라고 가정합니다.",
+      "correct_chunks": [
+        "They assume",
+        "that if they",
+        "make",
+        "a mistake",
+        "others",
+        "will",
+        "laugh",
+        "at them",
+        "or consider them foolish"
+      ],
+      "distractors": [
+        "othered",
+        "have othered"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "others",
+        "alternatives": [
+          "othered",
+          "have othered"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h07",
+      "source_sentence": "Learners who practice speaking regularly, mistakes and all, progressed far more rapidly than those who confined themselves to grammar textbooks alone.",
+      "kr_hint": "실수를 하더라도 꾸준히 말하기 연습을 하는 학습자들이 문법 교재에만 국한된 사람들보다 훨씬 더 빠르게 발전했습니다.",
+      "correct_chunks": [
+        "Learners who practice speaking",
+        "regularly mistakes and all",
+        "progressed",
+        "far more rapidly than",
+        "those",
+        "who confined themselves",
+        "to grammar",
+        "textbooks",
+        "alone"
+      ],
+      "distractors": [
+        "progresses",
+        "has progressed"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "progressed",
+        "alternatives": [
+          "progresses",
+          "has progressed"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h08",
+      "source_sentence": "She still made mistakes, of course, but she kept talking again and again.",
+      "kr_hint": "물론 여전히 실수는 했지만, 그녀는 계속해서 반복해서 말했다.",
+      "correct_chunks": [
+        "She",
+        "still made",
+        "mistakes",
+        "of course",
+        "but she",
+        "kept",
+        "talking again and again"
+      ],
+      "distractors": [
+        "makes",
+        "has made"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "made",
+        "alternatives": [
+          "makes",
+          "has made"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    }
+  ]
+}

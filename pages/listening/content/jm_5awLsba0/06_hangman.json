@@ -1,0 +1,235 @@
+{
+  "version": 1,
+  "video_id": "jm_5awLsba0",
+  "items": [
+    {
+      "id": "h01",
+      "source_sentence": "Welcome to the video that will change how you see the world and how the world sees you.",
+      "kr_hint": "당신이 세상을 보는 방식과 세상이 당신을 보는 방식을 바꿀 이 영상에 오신 것을 환영합니다.",
+      "correct_chunks": [
+        "Welcome",
+        "to the video",
+        "that will change",
+        "how you",
+        "see",
+        "the world and how",
+        "the world",
+        "sees",
+        "you"
+      ],
+      "distractors": [
+        "saw",
+        "has seen"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "sees",
+        "alternatives": [
+          "saw",
+          "has seen"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h02",
+      "source_sentence": "While the world reacts emotionally, the observer moves with wisdom.",
+      "kr_hint": "세상이 감정적으로 반응할 때 관찰자는 지혜롭게 움직입니다.",
+      "correct_chunks": [
+        "While the world reacts",
+        "emotionally",
+        "the observer",
+        "moves",
+        "with wisdom"
+      ],
+      "distractors": [
+        "moved",
+        "has moved"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "moves",
+        "alternatives": [
+          "moved",
+          "has moved"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h03",
+      "source_sentence": "In every conversation, the eyes reveal if the person is truly happy or pretending, if they are confident or nervous, if they are hiding guilt, sadness, jealousy, fear, or love.",
+      "kr_hint": "모든 대화에서 눈은 그 사람이 진정으로 행복한지 아니면 가식적인지, 자신감이 있는지 아니면 긴장했는지, 죄책감, 슬픔, 질투, 두려움, 또는 사랑을 숨기고 있는지 드러냅니다.",
+      "correct_chunks": [
+        "In every conversation",
+        "the eyes reveal",
+        "if the person is",
+        "truly happy or pretending if they",
+        "are",
+        "confident",
+        "or nervous",
+        "if they are hiding",
+        "guilt sadness jealousy fear or love"
+      ],
+      "distractors": [
+        "is",
+        "was",
+        "has been"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "are",
+        "alternatives": [
+          "is",
+          "was",
+          "has been"
+        ],
+        "note": "verb form"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h04",
+      "source_sentence": "They smile even when angry, look calm even when scared, but they forget to control their feet.",
+      "kr_hint": "그들은 화가 날 때도 미소 짓고 무서울 때도 침착해 보이지만, 발을 통제하는 것은 잊어버리거든요.",
+      "correct_chunks": [
+        "They",
+        "smile even",
+        "when angry look",
+        "calm even",
+        "when scared",
+        "but they",
+        "forget",
+        "to control",
+        "their feet"
+      ],
+      "distractors": [
+        "theyed",
+        "have theyed"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "They",
+        "alternatives": [
+          "theyed",
+          "have theyed"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h05",
+      "source_sentence": "When people repeat a question back, \"What do you mean by that?\" They may be buying time to invent.",
+      "kr_hint": "사람들이 \"그게 무슨 뜻이죠?\"라고 질문을 되물을 때는 꾸며낼 시간을 벌고 있을지도 모릅니다.",
+      "correct_chunks": [
+        "When people repeat",
+        "a question back",
+        "What do you mean",
+        "by that They",
+        "may be buying",
+        "time",
+        "to invent"
+      ],
+      "distractors": [
+        "meant",
+        "has meant"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "What do you mean",
+        "alternatives": [
+          "meant",
+          "has meant"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h06",
+      "source_sentence": "And once you learn this, you can detect nervousness, insecurity, guilt, fear, and fake confidence without needing proof.",
+      "kr_hint": "그리고 일단 이것을 배우면, 당신은 증거가 없어도 불안함, 자신감 부족, 죄책감, 두려움, 그리고 거짓 자신감을 감지할 수 있습니다.",
+      "correct_chunks": [
+        "And once",
+        "you",
+        "learn",
+        "this you",
+        "can",
+        "detect nervousness insecurity guilt fear and fake confidence",
+        "without needing proof"
+      ],
+      "distractors": [
+        "could can",
+        "cans"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "can",
+        "alternatives": [
+          "could can",
+          "cans"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h07",
+      "source_sentence": "If you learn to read what's on the body, you'll learn what's hidden in the heart.",
+      "kr_hint": "몸에 걸친 것을 읽는 법을 배우면, 마음속에 숨겨진 것을 알게 될 것입니다.",
+      "correct_chunks": [
+        "If you learn",
+        "to read",
+        "what's",
+        "on the body you'll",
+        "learn",
+        "what's hidden",
+        "in the heart"
+      ],
+      "distractors": [
+        "learned",
+        "has learned"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "learn",
+        "alternatives": [
+          "learned",
+          "has learned"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h08",
+      "source_sentence": "If they're rude to the waiter, they'll be rude to you someday, too.",
+      "kr_hint": "만약 그들이 웨이터에게 무례하다면, 언젠가는 당신에게도 무례하게 대할 것입니다.",
+      "correct_chunks": [
+        "If they're rude",
+        "to the waiter they'll",
+        "be",
+        "rude",
+        "to you",
+        "someday too"
+      ],
+      "distractors": [
+        "was",
+        "has been"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "be",
+        "alternatives": [
+          "was",
+          "has been"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    }
+  ]
+}

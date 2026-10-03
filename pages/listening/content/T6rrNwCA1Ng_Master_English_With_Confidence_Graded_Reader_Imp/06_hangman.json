@@ -1,0 +1,232 @@
+{
+  "version": 1,
+  "video_id": "T6rrNwCA1Ng",
+  "items": [
+    {
+      "id": "h01",
+      "source_sentence": "Do you know what is secretly stopping you from speaking English?",
+      "kr_hint": "여러분이 영어를 말하지 못하게 몰래 방해하는 것이 무엇인지 아시나요?",
+      "correct_chunks": [
+        "Do",
+        "you",
+        "know",
+        "what is secretly",
+        "stopping you",
+        "from speaking",
+        "English"
+      ],
+      "distractors": [
+        "did",
+        "has done"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "Do",
+        "alternatives": [
+          "did",
+          "has done"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "?"
+    },
+    {
+      "id": "h02",
+      "source_sentence": "Your ears need time to become familiar with English sounds.",
+      "kr_hint": "당신의 귀가 영어 소리에 익숙해질 시간이 필요하다.",
+      "correct_chunks": [
+        "Your ears",
+        "need",
+        "time",
+        "to become",
+        "familiar",
+        "with English",
+        "sounds"
+      ],
+      "distractors": [
+        "sounded",
+        "has sounded"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "sounds",
+        "alternatives": [
+          "sounded",
+          "has sounded"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h03",
+      "source_sentence": "This method helps your ears, your brain, and your mouth work together.",
+      "kr_hint": "이 방법은 여러분의 귀와 뇌, 그리고 입이 함께 작동하도록 돕습니다.",
+      "correct_chunks": [
+        "This method",
+        "helps",
+        "your ears",
+        "your brain and your mouth",
+        "work together"
+      ],
+      "distractors": [
+        "helped",
+        "has helped"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "helps",
+        "alternatives": [
+          "helped",
+          "has helped"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h04",
+      "source_sentence": "The better you understand English, the easier it becomes to answer.",
+      "kr_hint": "영어를 더 잘 이해할수록 대답하기가 더 쉬워집니다.",
+      "correct_chunks": [
+        "The better",
+        "you",
+        "understand",
+        "English",
+        "the easier",
+        "it",
+        "becomes",
+        "to answer"
+      ],
+      "distractors": [
+        "became",
+        "has become"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "becomes",
+        "alternatives": [
+          "became",
+          "has become"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h05",
+      "source_sentence": "Shadowing also teaches you something that grammar books cannot always teach you.",
+      "kr_hint": "섀도잉은 또한 문법책이 항상 가르쳐 줄 수 없는 무언가를 가르쳐 줍니다.",
+      "correct_chunks": [
+        "Shadowing also",
+        "teaches",
+        "you",
+        "something that grammar",
+        "books",
+        "cannot",
+        "always teach",
+        "you"
+      ],
+      "distractors": [
+        "taught",
+        "has taught"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "teaches",
+        "alternatives": [
+          "taught",
+          "has taught"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h06",
+      "source_sentence": "If I always wait for another person, I may not practice enough.",
+      "kr_hint": "항상 다른 사람을 기다리면 충분히 연습하지 못할 수도 있습니다.",
+      "correct_chunks": [
+        "If I always",
+        "wait",
+        "for another person",
+        "I",
+        "may not",
+        "practice enough"
+      ],
+      "distractors": [
+        "might may",
+        "mays"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "may",
+        "alternatives": [
+          "might may",
+          "mays"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h07",
+      "source_sentence": "A big plan is not useful if you cannot continue it.",
+      "kr_hint": "거창한 계획은 계속할 수 없다면 소용이 없다.",
+      "correct_chunks": [
+        "A big",
+        "plan",
+        "is not",
+        "useful",
+        "if you cannot continue",
+        "it"
+      ],
+      "distractors": [
+        "was",
+        "has been"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "is",
+        "alternatives": [
+          "was",
+          "has been"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h08",
+      "source_sentence": "A small sentence spoken with confidence is better than a complicated sentence that you are too afraid to say.",
+      "kr_hint": "자신감을 가지고 말하는 짧은 문장이 너무 두려워서 말하지 못하는 복잡한 문장보다 낫습니다.",
+      "correct_chunks": [
+        "A small sentence",
+        "spoken",
+        "with confidence",
+        "is",
+        "better than a complicated sentence",
+        "that you",
+        "are",
+        "too afraid",
+        "to say"
+      ],
+      "distractors": [
+        "speaks",
+        "spoke",
+        "has spoken"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "spoken",
+        "alternatives": [
+          "speaks",
+          "spoke",
+          "has spoken"
+        ],
+        "note": "verb form"
+      },
+      "final_punctuation": "."
+    }
+  ]
+}

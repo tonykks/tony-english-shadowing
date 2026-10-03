@@ -1,0 +1,89 @@
+[Card 1]
+headword: familiar
+part_of_speech: adjective
+meaning_kr: 익숙한
+definition_en: easy to recognize because you have seen or heard it before
+definition_kr_literal: 이전에 보거나 들은 적이 있어서 알아보기 쉬운
+example_en: Words that once sounded difficult start to feel familiar.
+example_kr_literal: 한때 어렵게 들렸던 단어들이 익숙하게 느껴지기 시작합니다.
+
+[Card 2]
+headword: improve
+part_of_speech: verb
+meaning_kr: 향상되다
+definition_en: to become better at something
+definition_kr_literal: 무언가를 더 잘하게 되는 것
+example_en: What if I told you that your English could improve?
+example_kr_literal: 당신의 영어가 향상될 수 있다고 제가 말한다면 어떨까요?
+
+[Card 3]
+headword: nervous
+part_of_speech: adjective
+meaning_kr: 불안한
+definition_en: feeling worried or afraid about something
+definition_kr_literal: 무언가에 대해 걱정하거나 두려워하는 느낌
+example_en: When a real person speaks to them, they suddenly feel nervous.
+example_kr_literal: 실제 사람이 그들에게 말을 걸면, 그들은 갑자기 긴장을 느낍니다.
+
+[Card 4]
+headword: communicate
+part_of_speech: verb
+meaning_kr: 의사소통하다
+definition_en: to share information or thoughts with others
+definition_kr_literal: 다른 사람들과 정보나 생각을 공유하는 것
+example_en: She did not search for every grammar rule; she simply communicated.
+example_kr_literal: 그녀는 모든 문법 규칙을 찾지 않았고, 그저 의사소통했습니다.
+
+[Card 5]
+headword: confidence
+part_of_speech: noun
+meaning_kr: 자신감
+definition_en: a feeling that you can do something well
+definition_kr_literal: 무언가를 잘 해낼 수 있다는 느낌
+example_en: This is how confidence begins to grow.
+example_kr_literal: 자신감은 이렇게 자라나기 시작합니다.
+
+[Card 6]
+headword: frustrated
+part_of_speech: adjective
+meaning_kr: 좌절감을 느끼는
+definition_en: feeling annoyed or upset because you cannot do something
+definition_kr_literal: 무언가를 할 수 없어서 짜증이 나거나 속상한 느낌
+example_en: They become frustrated because they believe they must understand every single word.
+example_kr_literal: 그들은 모든 단어를 이해해야 한다고 믿기 때문에 좌절하게 됩니다.
+
+[Card 7]
+headword: necessary
+part_of_speech: adjective
+meaning_kr: 필요한
+definition_en: needed for a purpose
+definition_kr_literal: 어떤 목적을 위해 필요한
+example_en: I will show you why understanding every word is not necessary.
+example_kr_literal: 왜 모든 단어를 이해할 필요가 없는지 제가 보여드리겠습니다.
+
+[Card 8]
+headword: message
+part_of_speech: noun
+meaning_kr: 메시지
+definition_en: the main idea or meaning that someone wants to share
+definition_kr_literal: 누군가 공유하고자 하는 핵심 생각이나 의미
+example_en: Do you really need to understand every word to understand the message?
+example_kr_literal: 메시지를 이해하기 위해 정말로 모든 단어를 이해해야 할까요?
+
+[Card 9]
+headword: imagine
+part_of_speech: verb
+meaning_kr: 상상하다
+definition_en: to form a picture in your mind
+definition_kr_literal: 마음속으로 그림을 그리기 위해
+example_en: Imagine that you want to learn swimming.
+example_kr_literal: 당신이 수영을 배우고 싶다고 상상해 보세요.
+
+[Card 10]
+headword: action
+part_of_speech: noun
+meaning_kr: 행동
+definition_en: the process of doing something
+definition_kr_literal: 무언가를 하는 과정
+example_en: Knowledge is good, but action can change your life.
+example_kr_literal: 지식은 좋지만, 행동은 당신의 삶을 바꿀 수 있습니다.

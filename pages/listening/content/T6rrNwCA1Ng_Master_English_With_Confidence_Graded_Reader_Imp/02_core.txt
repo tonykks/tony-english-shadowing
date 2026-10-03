@@ -1,0 +1,31 @@
+[Sentence 1]
+EN: Do you know what is secretly stopping you from speaking English?
+KR: 여러분이 영어를 말하지 못하게 몰래 방해하는 것이 무엇인지 아시나요?
+
+[Sentence 2]
+EN: Your ears need time to become familiar with English sounds.
+KR: 당신의 귀가 영어 소리에 익숙해질 시간이 필요하다.
+
+[Sentence 3]
+EN: This method helps your ears, your brain, and your mouth work together.
+KR: 이 방법은 여러분의 귀와 뇌, 그리고 입이 함께 작동하도록 돕습니다.
+
+[Sentence 4]
+EN: The better you understand English, the easier it becomes to answer.
+KR: 영어를 더 잘 이해할수록 대답하기가 더 쉬워집니다.
+
+[Sentence 5]
+EN: Shadowing also teaches you something that grammar books cannot always teach you.
+KR: 섀도잉은 또한 문법책이 항상 가르쳐 줄 수 없는 무언가를 가르쳐 줍니다.
+
+[Sentence 6]
+EN: If I always wait for another person, I may not practice enough.
+KR: 항상 다른 사람을 기다리면 충분히 연습하지 못할 수도 있습니다.
+
+[Sentence 7]
+EN: A big plan is not useful if you cannot continue it.
+KR: 거창한 계획은 계속할 수 없다면 소용이 없다.
+
+[Sentence 8]
+EN: A small sentence spoken with confidence is better than a complicated sentence that you are too afraid to say.
+KR: 자신감을 가지고 말하는 짧은 문장이 너무 두려워서 말하지 못하는 복잡한 문장보다 낫습니다.

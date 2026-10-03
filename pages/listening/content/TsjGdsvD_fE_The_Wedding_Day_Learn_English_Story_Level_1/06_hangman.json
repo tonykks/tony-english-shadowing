@@ -1,0 +1,224 @@
+{
+  "version": 1,
+  "video_id": "TsjGdsvD_fE",
+  "items": [
+    {
+      "id": "h01",
+      "source_sentence": "The sun was shining and the sky was clear and blue.",
+      "kr_hint": "태양은 빛나고 있었고 하늘은 맑고 푸르렀다.",
+      "correct_chunks": [
+        "The sun",
+        "was shining",
+        "and the sky",
+        "was",
+        "clear and blue"
+      ],
+      "distractors": [
+        "is shining",
+        "will be shining"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "was shining",
+        "alternatives": [
+          "is shining",
+          "will be shining"
+        ],
+        "note": "past progressive"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h02",
+      "source_sentence": "White flowers covered the area and the scent of roses filled the air.",
+      "kr_hint": "하얀 꽃들이 그곳을 덮고 있었고 장미 향기가 공기를 가득 채웠다.",
+      "correct_chunks": [
+        "White",
+        "flowers",
+        "covered",
+        "the area and the scent",
+        "of roses",
+        "filled",
+        "the air"
+      ],
+      "distractors": [
+        "flowered",
+        "has flowered"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "flowers",
+        "alternatives": [
+          "flowered",
+          "has flowered"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h03",
+      "source_sentence": "The guests were arriving dressed in elegant clothes.",
+      "kr_hint": "하객들이 우아한 옷차림으로 도착하고 있었다.",
+      "correct_chunks": [
+        "The guests",
+        "were arriving",
+        "dressed",
+        "in elegant clothes"
+      ],
+      "distractors": [
+        "is arriving",
+        "will be arriving"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "were arriving",
+        "alternatives": [
+          "is arriving",
+          "will be arriving"
+        ],
+        "note": "past progressive"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h04",
+      "source_sentence": "She wanted to believe he was the same man she loved.",
+      "kr_hint": "그녀는 그가 자신이 사랑했던 바로 그 사람이라고 믿고 싶었다.",
+      "correct_chunks": [
+        "She",
+        "wanted",
+        "to believe",
+        "he",
+        "was",
+        "the same man",
+        "she",
+        "loved"
+      ],
+      "distractors": [
+        "wants",
+        "has wanted"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "wanted",
+        "alternatives": [
+          "wants",
+          "has wanted"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h05",
+      "source_sentence": "She wanted to ask him questions, but it was too late.",
+      "kr_hint": "그녀는 그에게 질문을 하고 싶었지만, 너무 늦었다.",
+      "correct_chunks": [
+        "She",
+        "wanted",
+        "to ask",
+        "him questions",
+        "but it",
+        "was",
+        "too late"
+      ],
+      "distractors": [
+        "wants",
+        "has wanted"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "wanted",
+        "alternatives": [
+          "wants",
+          "has wanted"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h06",
+      "source_sentence": "She remembered small things, times when he was distracted, moments when he laughed at things she didn't understand.",
+      "kr_hint": "그녀는 사소한 것들, 그가 딴생각을 하던 시간들, 그녀가 이해하지 못하는 것들에 그가 웃던 순간들을 기억했다.",
+      "correct_chunks": [
+        "She",
+        "remembered",
+        "small things times",
+        "when he was distracted",
+        "moments",
+        "when he laughed",
+        "at things she didn't",
+        "understand"
+      ],
+      "distractors": [
+        "remembers",
+        "has remembered"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "remembered",
+        "alternatives": [
+          "remembers",
+          "has remembered"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h07",
+      "source_sentence": "If she said yes, there would be no turning back.",
+      "kr_hint": "그녀가 승낙한다면, 되돌릴 길은 없을 것이다.",
+      "correct_chunks": [
+        "If she said yes there",
+        "would be",
+        "no turning back"
+      ],
+      "distractors": [
+        "will be",
+        "is"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "would be",
+        "alternatives": [
+          "will be",
+          "is"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h08",
+      "source_sentence": "She had spent years believing in this love, trusting John, but at this moment everything felt wrong.",
+      "kr_hint": "그녀는 이 사랑을 믿고 존을 신뢰하며 수년을 보냈지만, 바로 이 순간 모든 것이 잘못된 것처럼 느껴졌다.",
+      "correct_chunks": [
+        "She",
+        "had spent",
+        "years",
+        "believing in",
+        "this love",
+        "trusting John",
+        "but",
+        "at this moment everything felt wrong"
+      ],
+      "distractors": [
+        "spent",
+        "has spent"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "had spent",
+        "alternatives": [
+          "spent",
+          "has spent"
+        ],
+        "note": "past perfect"
+      },
+      "final_punctuation": "."
+    }
+  ]
+}

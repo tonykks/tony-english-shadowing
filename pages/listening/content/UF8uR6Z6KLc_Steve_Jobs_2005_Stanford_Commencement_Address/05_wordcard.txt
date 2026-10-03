@@ -1,0 +1,89 @@
+[Card 1]
+headword: commencement
+part_of_speech: noun
+meaning_kr: 학위 수여식
+definition_en: a ceremony in which degrees or diplomas are conferred on students
+definition_kr_literal: 학생들에게 학위나 졸업장을 수여하는 의식.
+example_en: I am honored to be with you today at your commencement from one of the finest universities in the world.
+example_kr_literal: 세계에서 가장 훌륭한 대학 중 하나인 이곳에서 여러분의 졸업식에 함께하게 되어 영광입니다.
+
+[Card 2]
+headword: intuition
+part_of_speech: noun
+meaning_kr: 직관
+definition_en: the ability to understand something immediately, without the need for conscious reasoning
+definition_kr_literal: 의식적인 추론 없이 무언가를 즉시 이해하는 능력.
+example_en: Much of what I stumbled into by following my curiosity and intuition turned out to be priceless later on.
+example_kr_literal: 내가 호기심과 직관을 따라 우연히 마주친 것들 중 많은 것들이 나중에 값을 매길 수 없을 만큼 귀중한 것이 되었습니다.
+
+[Card 3]
+headword: diverge
+part_of_speech: verb
+meaning_kr: 갈라지다
+definition_en: to separate from another route and go in a different direction; to differ in opinion or character
+definition_kr_literal: 다른 경로에서 갈라져 다른 방향으로 가다; 의견이나 성격이 다르다.
+example_en: Our visions of the future began to diverge, and eventually we had a falling out.
+example_kr_literal: 미래에 대한 우리의 비전은 갈라지기 시작했고, 결국 우리는 사이가 틀어지고 말았습니다.
+
+[Card 4]
+headword: devastating
+part_of_speech: adjective
+meaning_kr: 파괴적인
+definition_en: highly destructive or damaging; causing severe emotional shock
+definition_kr_literal: 매우 파괴적이거나 해로운; 심각한 정서적 충격을 야기하는.
+example_en: What had been the focus of my entire adult life was gone, and it was devastating.
+example_kr_literal: 내 성인기 삶 전체의 초점이었던 것이 사라졌고, 그것은 파멸적이었습니다.
+
+[Card 5]
+headword: renaissance
+part_of_speech: noun
+meaning_kr: 부흥
+definition_en: a revival of or renewed interest in something
+definition_kr_literal: 무엇인가의 부활 또는 그것에 대한 새로워진 관심
+example_en: The technology we developed at NeXT is at the heart of Apple's current renaissance.
+example_kr_literal: 우리가 NeXT에서 개발한 기술은 애플의 현재 르네상스의 핵심에 있습니다.
+
+[Card 6]
+headword: settle
+part_of_speech: verb
+meaning_kr: 안주하다
+definition_en: to accept something that is less good than you had hoped for
+definition_kr_literal: 바랐던 것보다 못한 것을 받아들이는 것
+example_en: If you haven't found what you love yet, keep looking. Don't settle.
+example_kr_literal: 아직 사랑하는 것을 찾지 못했다면, 계속 찾으세요. 안주하지 마세요.
+
+[Card 7]
+headword: encounter
+part_of_speech: verb
+meaning_kr: 마주하다
+definition_en: to experience or be faced with something, especially a problem or difficulty
+definition_kr_literal: 특히 문제나 어려움과 같은 무언가를 경험하거나 직면하는 것
+example_en: Remembering that I'll be dead soon is the most important tool I've ever encountered to help me make big choices.
+example_kr_literal: 곧 죽을 것이라는 사실을 기억하는 것은 제가 큰 결정을 내리는 데 도움을 주는 가장 중요한 도구입니다.
+
+[Card 8]
+headword: incurable
+part_of_speech: adjective
+meaning_kr: 치료 불가능한
+definition_en: not able to be cured or corrected
+definition_kr_literal: 치유되거나 교정될 수 없는
+example_en: The doctors told me this was a type of cancer that is incurable.
+example_kr_literal: 의사들은 제게 이것이 치료 불가능한 암의 일종이라고 말했습니다.
+
+[Card 9]
+headword: biopsy
+part_of_speech: noun
+meaning_kr: 생검
+definition_en: an examination of tissue removed from a living body to discover the presence or cause of a disease
+definition_kr_literal: 질병의 존재나 원인을 알아내기 위해 살아있는 신체에서 제거한 조직에 대한 검사
+example_en: Later that evening, I had a biopsy to get a few cells from the tumor.
+example_kr_literal: 그날 저녁 늦게 나는 종양에서 세포 몇 개를 채취하기 위해 생검을 받았다.
+
+[Card 10]
+headword: sedated
+part_of_speech: adjective
+meaning_kr: 진정된
+definition_en: calmed by a drug or other means
+definition_kr_literal: 약물이나 다른 수단에 의해 진정된
+example_en: I was sedated during the procedure, but my wife was there to hear the results.
+example_kr_literal: 시술받는 동안 나는 진정제 상태였지만, 아내가 그곳에 있어 결과를 들을 수 있었다.

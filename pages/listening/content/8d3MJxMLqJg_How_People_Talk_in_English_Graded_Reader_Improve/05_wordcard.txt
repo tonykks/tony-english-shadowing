@@ -1,0 +1,89 @@
+[Card 1]
+headword: understand
+part_of_speech: verb
+meaning_kr: 이해하다
+definition_en: to know what someone means
+definition_kr_literal: 누군가의 의도를 아는 것
+example_en: Do you want to understand people when they speak English?
+example_kr_literal: 사람들이 영어로 말할 때 그들을 이해하고 싶나요?
+
+[Card 2]
+headword: connect
+part_of_speech: verb
+meaning_kr: 연결하다
+definition_en: to join or link things together
+definition_kr_literal: 무언가를 결합하거나 연결하는 것
+example_en: English is a bridge that connects people.
+example_kr_literal: 영어는 사람들을 연결하는 다리입니다.
+
+[Card 3]
+headword: global
+part_of_speech: adjective
+meaning_kr: 세계적인
+definition_en: relating to the whole world
+definition_kr_literal: 전 세계와 관련된
+example_en: English is a global language used in many places.
+example_kr_literal: 영어는 많은 곳에서 사용되는 세계적인 언어입니다.
+
+[Card 4]
+headword: memorize
+part_of_speech: verb
+meaning_kr: 암기하다
+definition_en: to learn something so that you remember it exactly
+definition_kr_literal: 무언가를 정확히 기억하기 위해 배우는 것
+example_en: We will not memorize long lists of words.
+example_kr_literal: 우리는 긴 단어 목록을 암기하지 않을 것입니다.
+
+[Card 5]
+headword: choose
+part_of_speech: verb
+meaning_kr: 선택하다
+definition_en: to decide which thing you want
+definition_kr_literal: 원하는 것을 결정하는 것
+example_en: You must choose a book that is easy for you.
+example_kr_literal: 당신은 자신에게 쉬운 책을 골라야 합니다.
+
+[Card 6]
+headword: dictionary
+part_of_speech: noun
+meaning_kr: 사전
+definition_en: a book or website that explains what words mean
+definition_kr_literal: 단어의 의미를 설명하는 책이나 웹사이트
+example_en: I look up the new word in my dictionary.
+example_kr_literal: 나는 사전에서 새로운 단어를 찾아봅니다.
+
+[Card 7]
+headword: mistake
+part_of_speech: noun
+meaning_kr: 실수
+definition_en: something that you do wrong
+definition_kr_literal: 잘못한 어떤 것
+example_en: When you make a mistake, you learn.
+example_kr_literal: 실수를 할 때, 당신은 배웁니다.
+
+[Card 8]
+headword: improve
+part_of_speech: verb
+meaning_kr: 향상시키다
+definition_en: to make something better
+definition_kr_literal: 무언가를 더 좋게 만드는 것
+example_en: Shadowing is a great way to improve your pronunciation.
+example_kr_literal: 쉐도잉은 당신의 발음을 향상하는 아주 좋은 방법입니다.
+
+[Card 9]
+headword: repeat
+part_of_speech: verb
+meaning_kr: 따라 말하다
+definition_en: to say something again
+definition_kr_literal: 무언가를 다시 말하는 것
+example_en: You listen to a speaker and repeat everything they say.
+example_kr_literal: 당신은 화자의 말을 듣고 그들이 하는 모든 말을 반복합니다.
+
+[Card 10]
+headword: pronunciation
+part_of_speech: noun
+meaning_kr: 발음
+definition_en: the way you say words
+definition_kr_literal: 단어를 말하는 방식
+example_en: My pronunciation is not good, but I want to speak better.
+example_kr_literal: 제 발음은 좋지 않지만, 더 잘 말하고 싶습니다.

@@ -1,0 +1,234 @@
+{
+  "version": 1,
+  "video_id": "ETuke6_BjME",
+  "items": [
+    {
+      "id": "h01",
+      "source_sentence": "Many years ago, I worked for a very rich family.",
+      "kr_hint": "오래전, 저는 매우 부유한 가족을 위해 일했습니다.",
+      "correct_chunks": [
+        "Many years ago",
+        "I",
+        "worked",
+        "for a very rich family"
+      ],
+      "distractors": [
+        "works",
+        "has worked"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "worked",
+        "alternatives": [
+          "works",
+          "has worked"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h02",
+      "source_sentence": "I was always careful when I cleaned her room.",
+      "kr_hint": "나는 그녀의 방을 청소할 때 항상 조심했다.",
+      "correct_chunks": [
+        "I",
+        "was always",
+        "careful",
+        "when I cleaned",
+        "her room"
+      ],
+      "distractors": [
+        "are",
+        "have been"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "was",
+        "alternatives": [
+          "are",
+          "have been"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h03",
+      "source_sentence": "I walked to a small cafe and used the last coins I had to buy a piece of bread.",
+      "kr_hint": "나는 작은 카페로 걸어가서 가지고 있던 마지막 동전으로 빵 한 조각을 샀다.",
+      "correct_chunks": [
+        "I",
+        "walked",
+        "to a small cafe and",
+        "used",
+        "the last coins",
+        "I",
+        "had",
+        "to buy a piece",
+        "of bread"
+      ],
+      "distractors": [
+        "walk",
+        "have walked"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "walked",
+        "alternatives": [
+          "walk",
+          "have walked"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h04",
+      "source_sentence": "I wondered if they missed me at all maybe they forgot about me quickly.",
+      "kr_hint": "나는 그들이 나를 조금이라도 그리워했는지 아니면 나를 금방 잊어버렸을지 궁금했다.",
+      "correct_chunks": [
+        "I",
+        "wondered",
+        "if they missed",
+        "me",
+        "at all maybe",
+        "they",
+        "forgot",
+        "about me",
+        "quickly"
+      ],
+      "distractors": [
+        "wonder",
+        "have wondered"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "wondered",
+        "alternatives": [
+          "wonder",
+          "have wondered"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h05",
+      "source_sentence": "She wore a long coat and in her hand she held something small and shiny.",
+      "kr_hint": "그녀는 긴 코트를 입고 있었고 손에는 작고 반짝이는 무언가를 들고 있었다.",
+      "correct_chunks": [
+        "She",
+        "wore",
+        "a long coat",
+        "and",
+        "in her hand",
+        "she",
+        "held",
+        "something small and shiny"
+      ],
+      "distractors": [
+        "wears",
+        "has worn"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "wore",
+        "alternatives": [
+          "wears",
+          "has worn"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h06",
+      "source_sentence": "As the days passed, I learned more about the bakery.",
+      "kr_hint": "날이 갈수록 나는 제과점에 대해 더 많이 알게 되었다.",
+      "correct_chunks": [
+        "As",
+        "the days",
+        "passed",
+        "I",
+        "learned",
+        "more",
+        "about the bakery"
+      ],
+      "distractors": [
+        "passes",
+        "has passed"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "passed",
+        "alternatives": [
+          "passes",
+          "has passed"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h07",
+      "source_sentence": "Sometimes at night, when the bakery was quiet, I sat by the window and looked at the stars.",
+      "kr_hint": "가끔 밤에 빵집이 조용해지면, 나는 창가에 앉아 별들을 바라보았다.",
+      "correct_chunks": [
+        "Sometimes",
+        "at night",
+        "when the bakery was",
+        "quiet I",
+        "sat",
+        "by the window and",
+        "looked",
+        "at the stars"
+      ],
+      "distractors": [
+        "is",
+        "was",
+        "has been"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "quiet I",
+        "alternatives": [
+          "is",
+          "was",
+          "has been"
+        ],
+        "note": "verb form"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h08",
+      "source_sentence": "I had built a new life, but the old life was still a part of me.",
+      "kr_hint": "나는 새로운 삶을 일구었지만, 예전의 삶도 여전히 내 일부였다.",
+      "correct_chunks": [
+        "I",
+        "had built",
+        "a new life",
+        "but the old life",
+        "was",
+        "still",
+        "a part",
+        "of me"
+      ],
+      "distractors": [
+        "built",
+        "have built"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "had built",
+        "alternatives": [
+          "built",
+          "have built"
+        ],
+        "note": "past perfect"
+      },
+      "final_punctuation": "."
+    }
+  ]
+}

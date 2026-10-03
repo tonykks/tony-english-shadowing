@@ -1,0 +1,31 @@
+[Sentence 1]
+EN: My hair is gray, and my face has many lines.
+KR: 내 머리는 희끗희끗하고 얼굴에는 주름이 많다.
+
+[Sentence 2]
+EN: The room felt colder, and the silence grew louder.
+KR: 방 안은 더 차갑게 느껴졌고 정적은 더 크게만 다가왔습니다.
+
+[Sentence 3]
+EN: Now his voice was gone, and only these words remained.
+KR: 이제 그의 목소리는 사라지고, 오직 이 말들만이 남았다.
+
+[Sentence 4]
+EN: I smiled as I read, remembering the warmth of those times.
+KR: 나는 그 시절의 온기를 떠올리며 읽는 동안 미소 지었습니다.
+
+[Sentence 5]
+EN: He told me not to be sad, but my chest felt tight.
+KR: 그는 나에게 슬퍼하지 말라고 말했지만, 내 가슴은 답답하게 느껴졌다.
+
+[Sentence 6]
+EN: I wanted to honor his wishes, but I did not know how.
+KR: 나는 그의 바람을 지켜주고 싶었지만, 방법을 몰랐다.
+
+[Sentence 7]
+EN: I ran my fingers over the old wood, tracing the marks we had carved as children.
+KR: 나는 낡은 나무 위로 손가락을 움직이며 우리가 어릴 적 새겨 넣은 자국을 따라갔다.
+
+[Sentence 8]
+EN: When I finished, I folded the paper and placed it in the wooden box.
+KR: 다 쓰고 나서 나는 종이를 접어 나무 상자 안에 넣었다.

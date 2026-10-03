@@ -1,0 +1,228 @@
+{
+  "version": 1,
+  "video_id": "GdbD_xubMP8",
+  "items": [
+    {
+      "id": "h01",
+      "source_sentence": "But when someone speaks to you, your mind goes blank.",
+      "kr_hint": "하지만 누군가가 당신에게 말을 걸면, 당신의 머릿속은 하얘집니다.",
+      "correct_chunks": [
+        "But when someone speaks",
+        "to you",
+        "your mind",
+        "goes",
+        "blank"
+      ],
+      "distractors": [
+        "spoke",
+        "has spoken"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "But when someone speaks",
+        "alternatives": [
+          "spoke",
+          "has spoken"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h02",
+      "source_sentence": "Confidence often comes from small phrases, phrases you use again and again.",
+      "kr_hint": "자신감은 종종 작은 문구들, 즉 당신이 반복해서 사용하는 문구들로부터 옵니다.",
+      "correct_chunks": [
+        "Confidence",
+        "often comes",
+        "from small phrases",
+        "phrases",
+        "you",
+        "use",
+        "again and again"
+      ],
+      "distractors": [
+        "came",
+        "has come"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "comes",
+        "alternatives": [
+          "came",
+          "has come"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h03",
+      "source_sentence": "Once these phrases become automatic, your brain relaxes.",
+      "kr_hint": "일단 이 문구들이 자동화되면, 당신의 뇌는 편안해집니다.",
+      "correct_chunks": [
+        "Once",
+        "these phrases",
+        "become",
+        "automatic",
+        "your brain",
+        "relaxes"
+      ],
+      "distractors": [
+        "relaxed",
+        "has relaxed"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "relaxes",
+        "alternatives": [
+          "relaxed",
+          "has relaxed"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h04",
+      "source_sentence": "Many learners feel embarrassed asking this, but it's smart, not weak.",
+      "kr_hint": "많은 학습자가 이렇게 묻는 것을 부끄러워하지만, 이는 나약한 것이 아니라 현명한 것입니다.",
+      "correct_chunks": [
+        "Many learners",
+        "feel",
+        "embarrassed",
+        "asking this",
+        "but it's smart",
+        "not weak"
+      ],
+      "distractors": [
+        "learnered",
+        "has learnered"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "Many learners",
+        "alternatives": [
+          "learnered",
+          "has learnered"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h05",
+      "source_sentence": "Fillers like, \"Well,\", \"Actually,\", and \"You know,\", give your brain time to think.",
+      "kr_hint": "Well,\", \"Actually,\", \"You know,\"와 같은 채움말은 뇌가 생각할 시간을 줍니다.",
+      "correct_chunks": [
+        "Fillers",
+        "like Well",
+        "Actually and You",
+        "know",
+        "give",
+        "your brain time",
+        "to think"
+      ],
+      "distractors": [
+        "knew",
+        "has known"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "know",
+        "alternatives": [
+          "knew",
+          "has known"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h06",
+      "source_sentence": "The more you practice these patterns, the more natural they become eventually, you won't think about grammar.",
+      "kr_hint": "이 패턴들을 연습할수록 그것들은 결국 더 자연스러워질 것이고, 당신은 문법에 대해 생각하지 않게 될 것입니다.",
+      "correct_chunks": [
+        "The more you practice",
+        "these patterns",
+        "the more natural",
+        "they",
+        "become eventually",
+        "you won't",
+        "think",
+        "about grammar"
+      ],
+      "distractors": [
+        "theyed",
+        "has theyed"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "they",
+        "alternatives": [
+          "theyed",
+          "has theyed"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h07",
+      "source_sentence": "When it happens, simply say, \"I don't remember the word, but it means\" then describe it.",
+      "kr_hint": "그럴 때는 단순히 \"단어가 기억나지 않지만 이런 뜻입니다\"라고 말한 뒤 설명하세요.",
+      "correct_chunks": [
+        "When it happens",
+        "simply say",
+        "I don't remember",
+        "the word",
+        "but it",
+        "means then",
+        "describe it"
+      ],
+      "distractors": [
+        "meant",
+        "has meant"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "means",
+        "alternatives": [
+          "meant",
+          "has meant"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h08",
+      "source_sentence": "Within a few months, Marco spoke more freely than ever before you can use this same technique.",
+      "kr_hint": "몇 달 안에 마르코는 그 어느 때보다 자유롭게 말하게 되었고 여러분도 이와 같은 기술을 사용할 수 있습니다.",
+      "correct_chunks": [
+        "Within a few months",
+        "Marco",
+        "spoke",
+        "more freely than",
+        "ever",
+        "before you",
+        "can use",
+        "this same technique"
+      ],
+      "distractors": [
+        "speaks",
+        "has spoken"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "spoke",
+        "alternatives": [
+          "speaks",
+          "has spoken"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    }
+  ]
+}

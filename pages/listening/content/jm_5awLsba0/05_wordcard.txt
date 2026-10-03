@@ -1,0 +1,89 @@
+[Card 1]
+headword: unpredictable
+part_of_speech: adjective
+meaning_kr: 예측할 수 없는
+definition_en: impossible to know what someone will do or how they will react
+definition_kr_literal: 누군가 무엇을 할지 혹은 어떻게 반응할지 아는 것은 불가능하다.
+example_en: By learning how to read people, you become unpredictable and harder to manipulate.
+example_kr_literal: 사람을 파악하는 법을 배우면 당신은 예측 불가능해지고 조종하기 더 어려워진다.
+
+[Card 2]
+headword: interrogator
+part_of_speech: noun
+meaning_kr: 심문관
+definition_en: a person who asks someone many questions, often in an aggressive or formal way
+definition_kr_literal: 종종 공격적이거나 격식을 차리는 방식으로 누군가에게 많은 질문을 하는 사람이다.
+example_en: Professional FBI interrogators are experts at watching body language to catch a lie.
+example_kr_literal: 전문 FBI 심문관들은 거짓말을 잡아내기 위해 신체 언어를 관찰하는 데 전문가이다.
+
+[Card 3]
+headword: anxiety
+part_of_speech: noun
+meaning_kr: 불안
+definition_en: a feeling of worry, nervousness, or unease about something
+definition_kr_literal: 무언가에 대한 걱정, 긴장, 또는 불안감이다.
+example_en: His leg was bouncing not from excitement, but from deep anxiety.
+example_kr_literal: 그의 다리는 흥분해서가 아니라 깊은 불안감 때문에 떨리고 있었다.
+
+[Card 4]
+headword: persona
+part_of_speech: noun
+meaning_kr: 페르소나
+definition_en: the outward character or image that someone shows to other people
+definition_kr_literal: 누군가가 다른 사람들에게 보여주는 겉모습이나 이미지이다.
+example_en: An observer looks past a person's social persona to see their true feelings.
+example_kr_literal: 관찰자는 사람의 사회적 페르소나 너머를 보며 그들의 진짜 감정을 파악한다.
+
+[Card 5]
+headword: arrogance
+part_of_speech: noun
+meaning_kr: 오만
+definition_en: the belief that you are more important or better than other people
+definition_kr_literal: 당신이 다른 사람들보다 더 중요하거나 더 낫다는 믿음
+example_en: Often, an observer can detect deep insecurity hidden behind a mask of arrogance.
+example_kr_literal: 종종 관찰자는 오만이라는 가면 뒤에 숨겨진 깊은 불안감을 감지할 수 있습니다.
+
+[Card 6]
+headword: manipulation
+part_of_speech: noun
+meaning_kr: 조종
+definition_en: the act of controlling or influencing someone in a clever or dishonest way
+definition_kr_literal: 교묘하거나 부정직한 방법으로 누군가를 통제하거나 영향을 미치는 행위
+example_en: Learning to observe others helps you avoid manipulation in your personal and professional life.
+example_kr_literal: 타인을 관찰하는 법을 배우는 것은 당신의 개인적인 삶과 직장 생활에서 조종당하는 것을 피하게 도와줍니다.
+
+[Card 7]
+headword: betray
+part_of_speech: verb
+meaning_kr: 배신하다
+definition_en: to be disloyal or dishonest to someone who trusts you
+definition_kr_literal: 당신을 신뢰하는 누군가에게 불충실하거나 부정직하게 행동하는 것
+example_en: If someone's feet point away from the group, they might betray the team later.
+example_kr_literal: 누군가의 발이 집단으로부터 멀리 향해 있다면, 그들은 나중에 팀을 배신할지도 모릅니다.
+
+[Card 8]
+headword: consequence
+part_of_speech: noun
+meaning_kr: 결과
+definition_en: the result of an action, especially an unpleasant one
+definition_kr_literal: 어떤 행동의 결과, 특히 불쾌한 결과
+example_en: He apologized not because he was sorry, but because he feared the consequences of his actions.
+example_kr_literal: 그는 미안해서가 아니라 자신의 행동에 따른 결과를 두려워했기 때문에 사과했습니다.
+
+[Card 9]
+headword: instinct
+part_of_speech: noun
+meaning_kr: 본능
+definition_en: a natural way of acting or thinking that you are not taught
+definition_kr_literal: 교육받지 않아도 자연스럽게 행동하거나 생각하는 방식
+example_en: Feet are the most honest part of the body because they move based on instinct, not logic.
+example_kr_literal: 발은 논리가 아닌 본능에 따라 움직이기 때문에 신체에서 가장 정직한 부분입니다.
+
+[Card 10]
+headword: hesitation
+part_of_speech: noun
+meaning_kr: 주저
+definition_en: a pause before doing something because you are nervous or unsure
+definition_kr_literal: 긴장하거나 확신이 없어서 무언가를 하기 전에 잠시 멈추는 것
+example_en: A brief moment of hesitation can be a sign that someone is not telling the truth.
+example_kr_literal: 잠깐의 망설임은 누군가가 진실을 말하고 있지 않다는 신호일 수 있습니다.

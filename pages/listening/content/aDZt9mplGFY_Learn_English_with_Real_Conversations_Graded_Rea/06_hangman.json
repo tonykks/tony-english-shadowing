@@ -1,0 +1,224 @@
+{
+  "version": 1,
+  "video_id": "aDZt9mplGFY",
+  "items": [
+    {
+      "id": "h01",
+      "source_sentence": "Real conversations can help you learn English in a natural way.",
+      "kr_hint": "실제 대화는 여러분이 자연스러운 방식으로 영어를 배우도록 도울 수 있습니다.",
+      "correct_chunks": [
+        "Real conversations",
+        "can help",
+        "you",
+        "learn",
+        "English",
+        "in a natural way"
+      ],
+      "distractors": [
+        "could help",
+        "helps"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "can help",
+        "alternatives": [
+          "could help",
+          "helps"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h02",
+      "source_sentence": "In the same way, you do not become a confident speaker only by reading about English.",
+      "kr_hint": "이와 마찬가지로, 당신은 영어에 관해 읽는 것만으로는 자신감 있는 화자가 되지 않습니다.",
+      "correct_chunks": [
+        "In the same way",
+        "you",
+        "do not",
+        "become",
+        "a confident speaker",
+        "only",
+        "by reading",
+        "about English"
+      ],
+      "distractors": [
+        "did",
+        "has done"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "do",
+        "alternatives": [
+          "did",
+          "has done"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h03",
+      "source_sentence": "He still made mistakes, but he answered faster.",
+      "kr_hint": "그는 여전히 실수를 했지만, 더 빠르게 대답했어요.",
+      "correct_chunks": [
+        "He",
+        "still made",
+        "mistakes",
+        "but he",
+        "answered",
+        "faster"
+      ],
+      "distractors": [
+        "makes",
+        "has made"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "made",
+        "alternatives": [
+          "makes",
+          "has made"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h04",
+      "source_sentence": "And when something is interesting, you often remember it better.",
+      "kr_hint": "그리고 무언가가 흥미로우면, 흔히 더 잘 기억하게 됩니다.",
+      "correct_chunks": [
+        "And when something is interesting",
+        "you",
+        "often remember it better"
+      ],
+      "distractors": [
+        "was interesting",
+        "will be interesting"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "And when something is interesting",
+        "alternatives": [
+          "was interesting",
+          "will be interesting"
+        ],
+        "note": "present progressive"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h05",
+      "source_sentence": "And if you do not have a partner, you can still prepare yourself for real conversations.",
+      "kr_hint": "그리고 만약 파트너가 없더라도, 당신은 여전히 실제 대화를 위해 스스로를 준비할 수 있습니다.",
+      "correct_chunks": [
+        "And if you do not",
+        "have",
+        "a partner",
+        "you",
+        "can still",
+        "prepare yourself",
+        "for real conversations"
+      ],
+      "distractors": [
+        "did",
+        "has done"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "And if you do",
+        "alternatives": [
+          "did",
+          "has done"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h06",
+      "source_sentence": "When we encounter information again and again, our brains become better at recognizing and retrieving it.",
+      "kr_hint": "우리가 정보를 거듭 마주칠 때, 우리의 뇌는 그것을 인식하고 인출하는 데 더 능숙해진다.",
+      "correct_chunks": [
+        "When we encounter information again and again",
+        "our brains",
+        "become",
+        "better",
+        "at recognizing and retrieving it"
+      ],
+      "distractors": [
+        "became",
+        "has become"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "become",
+        "alternatives": [
+          "became",
+          "has become"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h07",
+      "source_sentence": "Language is often remembered more effectively when it is connected with people, places, emotions, and events.",
+      "kr_hint": "언어는 사람, 장소, 감정, 그리고 사건과 연결될 때 흔히 더 효과적으로 기억됩니다.",
+      "correct_chunks": [
+        "Language",
+        "is often",
+        "remembered",
+        "more effectively",
+        "when it is connected",
+        "with people",
+        "places",
+        "emotions",
+        "and events"
+      ],
+      "distractors": [
+        "was",
+        "has been"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "is",
+        "alternatives": [
+          "was",
+          "has been"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h08",
+      "source_sentence": "Your confidence begins to grow through experience rather than through waiting.",
+      "kr_hint": "당신의 자신감은 기다림보다는 경험을 통해 커지기 시작합니다.",
+      "correct_chunks": [
+        "Your confidence",
+        "begins",
+        "to grow",
+        "through experience",
+        "rather than",
+        "through waiting"
+      ],
+      "distractors": [
+        "began",
+        "has begun"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "begins",
+        "alternatives": [
+          "began",
+          "has begun"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    }
+  ]
+}

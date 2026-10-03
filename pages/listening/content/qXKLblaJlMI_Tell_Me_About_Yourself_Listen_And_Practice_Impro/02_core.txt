@@ -1,0 +1,31 @@
+[Sentence 1]
+EN: 5 seconds is not a long time, but in an interview, 5 seconds feels like 5 hours.
+KR: 5초는 긴 시간이 아니지만, 면접에서 5초는 5시간처럼 느껴진다.
+
+[Sentence 2]
+EN: If you have no plan you might talk for 10 minutes about your dog, your childhood home, and your favorite pizza topping.
+KR: 계획이 없다면 당신은 반려견, 어린 시절 살던 집, 그리고 가장 좋아하는 피자 토핑에 대해 10분 동안 이야기할지도 모릅니다.
+
+[Sentence 3]
+EN: If you memorize every word perfectly, you might sound stiff and unnatural.
+KR: 모든 단어를 완벽하게 암기하면 딱딱하고 부자연스럽게 들릴 수 있습니다.
+
+[Sentence 4]
+EN: You need to strike a balance between being confident and being humble.
+KR: 당신은 자신감 있는 것과 겸손한 것 사이에서 균형을 잡아야 합니다.
+
+[Sentence 5]
+EN: If you speak too fast, you might come across as nervous.
+KR: 너무 빨리 말하면, 긴장한 것처럼 보일 수도 있습니다.
+
+[Sentence 6]
+EN: Most people, myself included on that fateful day, walk into interviews without preparing for it.
+KR: 저를 포함해 운명의 그날 많은 사람들은 면접 준비를 하지 않은 채 면접장에 들어갑니다.
+
+[Sentence 7]
+EN: If the interviewer wants further detail, they'll ask follow-up questions.
+KR: 면접관이 더 자세한 내용을 원하면, 그들이 추가 질문을 할 것입니다.
+
+[Sentence 8]
+EN: I've always been passionate about biology, and last year I completed a science project focused on ocean pollution.
+KR: 저는 항상 생물학에 열정적이었고, 작년에 해양 오염에 초점을 맞춘 과학 프로젝트를 마쳤습니다.

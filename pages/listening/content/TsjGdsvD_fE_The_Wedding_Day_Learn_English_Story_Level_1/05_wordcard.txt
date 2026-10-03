@@ -1,0 +1,89 @@
+[Card 1]
+headword: prepare
+part_of_speech: verb
+meaning_kr: 준비하다
+definition_en: to get ready for something
+definition_kr_literal: 무언가를 준비하다
+example_en: Her family was busy preparing for the wedding.
+example_kr_literal: 그녀의 가족은 결혼식 준비로 분주했다.
+
+[Card 2]
+headword: decorate
+part_of_speech: verb
+meaning_kr: 장식하다
+definition_en: to make something look more beautiful by adding things to it
+definition_kr_literal: 무언가를 덧붙여서 더 아름답게 보이게 하다
+example_en: Her friends were decorating the house with flowers.
+example_kr_literal: 그녀의 친구들은 꽃으로 집을 장식하고 있었다.
+
+[Card 3]
+headword: elegant
+part_of_speech: adjective
+meaning_kr: 우아한
+definition_en: graceful and stylish in appearance
+definition_kr_literal: 겉모습이 우아하고 세련된
+example_en: The guests arrived in elegant clothes.
+example_kr_literal: 하객들은 우아한 옷을 입고 도착했다.
+
+[Card 4]
+headword: nervous
+part_of_speech: adjective
+meaning_kr: 불안한
+definition_en: worried or afraid about something
+definition_kr_literal: 무언가에 대해 걱정하거나 두려워하는
+example_en: Emily felt nervous on her wedding day.
+example_kr_literal: 에밀리는 결혼식 날 긴장감을 느꼈다.
+
+[Card 5]
+headword: distracted
+part_of_speech: adjective
+meaning_kr: 산만한
+definition_en: not able to focus because you are thinking about other things
+definition_kr_literal: 다른 생각을 하느라 집중할 수 없음
+example_en: She remembered times when John seemed distracted.
+example_kr_literal: 그녀는 존이 정신이 팔려 보였던 때들을 기억했다.
+
+[Card 6]
+headword: restless
+part_of_speech: adjective
+meaning_kr: 들뜬
+definition_en: not able to stay still or be calm
+definition_kr_literal: 가만히 있거나 차분해질 수 없음
+example_en: John was not calm; he was restless.
+example_kr_literal: 존은 차분하지 않았고 그는 안절부절못했다.
+
+[Card 7]
+headword: ceremony
+part_of_speech: noun
+meaning_kr: 의식
+definition_en: a formal event, like a wedding
+definition_kr_literal: 결혼식과 같은 격식을 차리는 행사
+example_en: The wedding ceremony started in the garden.
+example_kr_literal: 결혼식이 정원에서 시작되었다.
+
+[Card 8]
+headword: distant
+part_of_speech: adjective
+meaning_kr: 냉담한
+definition_en: not friendly or showing much emotion
+definition_kr_literal: 친근하지 않거나 감정을 많이 드러내지 않는
+example_en: His eyes were not warm; they felt distant.
+example_kr_literal: 그의 눈은 따뜻하지 않았고 차갑게 느껴졌다.
+
+[Card 9]
+headword: doubt
+part_of_speech: noun
+meaning_kr: 의심
+definition_en: a feeling of not being sure about something
+definition_kr_literal: 무언가에 대해 확신이 없는 느낌
+example_en: The doubt grew stronger in her mind.
+example_kr_literal: 그녀의 마음속에서 의심이 더 커졌다.
+
+[Card 10]
+headword: hesitate
+part_of_speech: verb
+meaning_kr: 망설이다
+definition_en: to pause before doing something because you are not sure
+definition_kr_literal: 확신이 없어서 무언가를 하기 전에 잠시 멈추는 것
+example_en: She hesitated before saying 'I do'.
+example_kr_literal: 그녀는 '네'라고 말하기 전에 망설였다.

@@ -1,0 +1,89 @@
+[Card 1]
+headword: flawless
+part_of_speech: adjective
+meaning_kr: 흠잡을 데 없는
+definition_en: having no mistakes or imperfections; perfect
+definition_kr_literal: 실수나 결점이 없는; 완벽한.
+example_en: You do not need flawless English in order to talk to people.
+example_kr_literal: 사람들과 대화하기 위해서 완벽한 영어가 필요한 것은 아닙니다.
+
+[Card 2]
+headword: impeccable
+part_of_speech: adjective
+meaning_kr: 나무랄 데 없는
+definition_en: perfect and without any faults or mistakes
+definition_kr_literal: 완벽하고 어떠한 결함이나 실수도 없는.
+example_en: Learning a language does not require impeccable grammar right from the start.
+example_kr_literal: 언어를 배우는 데 처음부터 흠잡을 데 없는 문법이 필요한 것은 아닙니다.
+
+[Card 3]
+headword: vanish
+part_of_speech: verb
+meaning_kr: 사라지다
+definition_en: to disappear suddenly or stop being visible
+definition_kr_literal: 갑자기 사라지거나 보이지 않게 되다.
+example_en: Elena panicked, and every word she knew seemed to vanish from her mind.
+example_kr_literal: 엘레나는 당황했고, 그녀가 알고 있던 모든 단어들이 머릿속에서 사라진 것 같았습니다.
+
+[Card 4]
+headword: comprehensible
+part_of_speech: adjective
+meaning_kr: 이해할 수 있는
+definition_en: able to be understood
+definition_kr_literal: 이해할 수 있는.
+example_en: The story remains comprehensible even with a few strange or unknown words.
+example_kr_literal: 그 이야기는 몇 개의 낯설거나 모르는 단어가 있어도 이해할 수 있습니다.
+
+[Card 5]
+headword: convey
+part_of_speech: verb
+meaning_kr: 전달하다
+definition_en: to communicate or express an idea or feeling
+definition_kr_literal: 생각이나 감정을 전달하거나 표현하는 것
+example_en: You only need enough vocabulary to convey your main ideas clearly.
+example_kr_literal: 자신의 주요 생각을 명확하게 전달할 수 있을 정도의 어휘력만 있으면 됩니다.
+
+[Card 6]
+headword: daunting
+part_of_speech: adjective
+meaning_kr: 벅찬
+definition_en: making someone feel slightly afraid or worried because something is difficult
+definition_kr_literal: 무언가가 어려워서 누군가를 약간 두렵거나 걱정하게 만드는 것
+example_en: Speaking to a stranger in a foreign language can feel daunting at first.
+example_kr_literal: 외국어로 낯선 사람에게 말하는 것은 처음에는 겁이 날 수 있습니다.
+
+[Card 7]
+headword: grapple
+part_of_speech: verb
+meaning_kr: 씨름하다
+definition_en: to try hard to solve a difficult problem or deal with a challenge
+definition_kr_literal: 어려운 문제를 해결하거나 도전 과제를 처리하기 위해 열심히 노력하는 것
+example_en: Many language learners grapple with the fear of making mistakes in public.
+example_kr_literal: 많은 언어 학습자들이 사람들 앞에서 실수하는 것에 대한 두려움과 씨름합니다.
+
+[Card 8]
+headword: fluency
+part_of_speech: noun
+meaning_kr: 유창함
+definition_en: the ability to speak or write a language smoothly and easily
+definition_kr_literal: 언어를 부드럽고 쉽게 말하거나 쓸 수 있는 능력
+example_en: True fluency comes from regular practice rather than just memorizing rules.
+example_kr_literal: 진정한 유창함은 단순히 규칙을 암기하는 것보다 꾸준한 연습에서 나옵니다.
+
+[Card 9]
+headword: inhibition
+part_of_speech: noun
+meaning_kr: 억제
+definition_en: a feeling of shyness or fear that stops you from behaving naturally
+definition_kr_literal: 자연스럽게 행동하지 못하게 하는 수줍음이나 두려움이라는 감정
+example_en: You must overcome your inhibitions if you want to become a confident speaker.
+example_kr_literal: 자신감 있는 연설가가 되고 싶다면 억제된 마음을 극복해야 합니다.
+
+[Card 10]
+headword: reap
+part_of_speech: verb
+meaning_kr: 거두다
+definition_en: to get something good as a result of your own actions or hard work
+definition_kr_literal: 자신의 행동이나 노력의 결과로 좋은 것을 얻는 것
+example_en: If you keep practicing speaking every day, you will soon reap the rewards.
+example_kr_literal: 매일 말하기 연습을 계속한다면 곧 그 보상을 얻게 될 것입니다.

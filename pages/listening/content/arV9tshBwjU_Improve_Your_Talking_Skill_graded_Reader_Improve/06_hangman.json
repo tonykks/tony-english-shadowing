@@ -1,0 +1,228 @@
+{
+  "version": 1,
+  "video_id": "arV9tshBwjU",
+  "items": [
+    {
+      "id": "h01",
+      "source_sentence": "If you wait until your English is perfect, you may wait forever.",
+      "kr_hint": "여러분의 영어가 완벽해질 때까지 기다린다면, 영영 기다려야 할지도 모릅니다.",
+      "correct_chunks": [
+        "If you wait",
+        "until your English",
+        "is",
+        "perfect",
+        "you",
+        "may",
+        "wait forever"
+      ],
+      "distractors": [
+        "was",
+        "has been"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "is",
+        "alternatives": [
+          "was",
+          "has been"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h02",
+      "source_sentence": "When you repeat something often, it becomes easier.",
+      "kr_hint": "무언가를 자주 반복하면 그것은 더 쉬워집니다.",
+      "correct_chunks": [
+        "When you repeat",
+        "something often",
+        "it",
+        "becomes",
+        "easier"
+      ],
+      "distractors": [
+        "became",
+        "has become"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "becomes",
+        "alternatives": [
+          "became",
+          "has become"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h03",
+      "source_sentence": "These are small moments, but small moments become big progress.",
+      "kr_hint": "이것들은 작은 순간들이지만, 작은 순간들이 큰 발전을 이룬다.",
+      "correct_chunks": [
+        "These",
+        "are",
+        "small moments",
+        "but small moments",
+        "become",
+        "big progress"
+      ],
+      "distractors": [
+        "is",
+        "was",
+        "has been"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "are",
+        "alternatives": [
+          "is",
+          "was",
+          "has been"
+        ],
+        "note": "verb form"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h04",
+      "source_sentence": "If you speak for just 10 minutes every day, you will be surprised by your progress after a few months.",
+      "kr_hint": "매일 10분씩만 말하면, 몇 달 뒤 당신의 발전에 놀라게 될 것입니다.",
+      "correct_chunks": [
+        "If you speak",
+        "for just 10 minutes",
+        "every day",
+        "you",
+        "will be surprised",
+        "by your progress",
+        "after a few months"
+      ],
+      "distractors": [
+        "would be surprised",
+        "surprises"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "will be surprised",
+        "alternatives": [
+          "would be surprised",
+          "surprises"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h05",
+      "source_sentence": "Your confidence will grow gradually if you practice every day.",
+      "kr_hint": "매일 연습하면 당신의 자신감은 점차적으로 커질 것입니다.",
+      "correct_chunks": [
+        "Your confidence",
+        "will grow",
+        "gradually",
+        "if you practice",
+        "every day"
+      ],
+      "distractors": [
+        "would grow",
+        "grows"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "will grow",
+        "alternatives": [
+          "would grow",
+          "grows"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h06",
+      "source_sentence": "If you have a positive mindset, you believe you can improve even when learning feels difficult.",
+      "kr_hint": "긍정적인 마인드셋을 가지고 있다면, 배우는 것이 어렵게 느껴질 때조차 당신은 발전할 수 있다고 믿습니다.",
+      "correct_chunks": [
+        "If you have",
+        "a positive mindset you believe",
+        "you",
+        "can",
+        "improve",
+        "even",
+        "when learning feels difficult"
+      ],
+      "distractors": [
+        "could can",
+        "cans"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "can",
+        "alternatives": [
+          "could can",
+          "cans"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h07",
+      "source_sentence": "When you learn them as complete units, your brain no longer needs to build every sentence from the beginning.",
+      "kr_hint": "이것들을 통째로 배우면, 뇌가 더 이상 모든 문장을 처음부터 만들 필요가 없어집니다.",
+      "correct_chunks": [
+        "When you learn",
+        "them as complete",
+        "units",
+        "your brain",
+        "no longer",
+        "needs",
+        "to build",
+        "every sentence",
+        "from the beginning"
+      ],
+      "distractors": [
+        "united",
+        "has united"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "units",
+        "alternatives": [
+          "united",
+          "has united"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h08",
+      "source_sentence": "Every conversation strengthens your understanding, even when you cannot immediately see the results.",
+      "kr_hint": "당신이 당장 결과를 볼 수 없을 때조차 모든 대화는 당신의 이해력을 강화합니다.",
+      "correct_chunks": [
+        "Every conversation",
+        "strengthens",
+        "your understanding",
+        "even",
+        "when you cannot immediately see",
+        "the results"
+      ],
+      "distractors": [
+        "strengthened",
+        "has strengthened"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "strengthens",
+        "alternatives": [
+          "strengthened",
+          "has strengthened"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    }
+  ]
+}

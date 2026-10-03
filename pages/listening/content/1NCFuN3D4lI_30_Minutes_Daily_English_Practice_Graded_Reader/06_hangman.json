@@ -1,0 +1,221 @@
+{
+  "version": 1,
+  "video_id": "1NCFuN3D4lI",
+  "items": [
+    {
+      "id": "h01",
+      "source_sentence": "Many learners think reading and speaking are separate skills.",
+      "kr_hint": "많은 학습자가 읽기와 말하기가 별개의 기술이라고 생각한다.",
+      "correct_chunks": [
+        "Many learners",
+        "think",
+        "reading and",
+        "speaking are separate",
+        "skills"
+      ],
+      "distractors": [
+        "learnered",
+        "has learnered"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "Many learners",
+        "alternatives": [
+          "learnered",
+          "has learnered"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h02",
+      "source_sentence": "While enjoying the story, you learn new vocabulary and grammar.",
+      "kr_hint": "이야기를 즐기는 동안 당신은 새로운 어휘와 문법을 배웁니다.",
+      "correct_chunks": [
+        "While enjoying",
+        "the story",
+        "you",
+        "learn",
+        "new vocabulary and grammar"
+      ],
+      "distractors": [
+        "youed",
+        "has youed"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "you",
+        "alternatives": [
+          "youed",
+          "has youed"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h03",
+      "source_sentence": "The more English you see, the more comfortable you become.",
+      "kr_hint": "영어를 더 많이 볼수록 더 편안해집니다.",
+      "correct_chunks": [
+        "The more",
+        "English",
+        "you",
+        "see",
+        "the more comfortable",
+        "you",
+        "become"
+      ],
+      "distractors": [
+        "englished",
+        "has englished"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "English",
+        "alternatives": [
+          "englished",
+          "has englished"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h04",
+      "source_sentence": "The more sentences you see, the more sentences you can create.",
+      "kr_hint": "더 많은 문장을 볼수록 더 많은 문장을 만들 수 있습니다.",
+      "correct_chunks": [
+        "The more sentences",
+        "you",
+        "see",
+        "the more sentences",
+        "you",
+        "can create"
+      ],
+      "distractors": [
+        "could create",
+        "creates"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "can create",
+        "alternatives": [
+          "could create",
+          "creates"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h05",
+      "source_sentence": "Because you see them repeatedly, they become part of your active vocabulary.",
+      "kr_hint": "그 단어들을 반복해서 보기 때문에, 그것들은 여러분의 능동적인 어휘의 일부가 됩니다.",
+      "correct_chunks": [
+        "Because you see",
+        "them repeatedly",
+        "they",
+        "become",
+        "part",
+        "of your active vocabulary"
+      ],
+      "distractors": [
+        "theyed",
+        "has theyed"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "they",
+        "alternatives": [
+          "theyed",
+          "has theyed"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h06",
+      "source_sentence": "If your book is always available, it becomes easier to read.",
+      "kr_hint": "책을 항상 이용할 수 있으면 읽기가 더 쉬워집니다.",
+      "correct_chunks": [
+        "If your book is always",
+        "available it",
+        "becomes",
+        "easier",
+        "to read"
+      ],
+      "distractors": [
+        "became",
+        "has become"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "becomes",
+        "alternatives": [
+          "became",
+          "has become"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h07",
+      "source_sentence": "When reading becomes a habit, you continue even on difficult days.",
+      "kr_hint": "독서가 습관이 되면 힘든 날에도 계속하게 됩니다.",
+      "correct_chunks": [
+        "When reading becomes",
+        "a habit",
+        "you",
+        "continue even",
+        "on difficult days"
+      ],
+      "distractors": [
+        "youed",
+        "has youed"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "you",
+        "alternatives": [
+          "youed",
+          "has youed"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h08",
+      "source_sentence": "As your skills improve, you can gradually move to longer materials.",
+      "kr_hint": "실력이 향상됨에 따라 점차 더 긴 자료로 넘어갈 수 있다.",
+      "correct_chunks": [
+        "As",
+        "your skills improve",
+        "you",
+        "can",
+        "gradually",
+        "move",
+        "to longer",
+        "materials"
+      ],
+      "distractors": [
+        "could can",
+        "cans"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "can",
+        "alternatives": [
+          "could can",
+          "cans"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+[Sentence 1]
+EN: What if I tell you that you do not need to study English for hours every day to become a better speaker.
+KR: 더 나은 영어 화자가 되기 위해 매일 몇 시간씩 영어 공부를 할 필요가 없다고 말한다면 어떨까요.
+
+[Sentence 2]
+EN: You can read about swimming for many hours, but you cannot become a good swimmer until you enter the water.
+KR: 수영에 관해 몇 시간 동안 읽을 수는 있지만, 물에 들어가기 전까지는 훌륭한 수영 선수가 될 수 없습니다.
+
+[Sentence 3]
+EN: When you use English every day, your brain stays connected to the language.
+KR: 매일 영어를 사용하면, 당신의 뇌는 그 언어와 계속 연결된 상태를 유지합니다.
+
+[Sentence 4]
+EN: When you say useful English again and again, your brain starts to understand that these words are important.
+KR: 유용한 영어를 반복해서 말할 때, 당신의 뇌는 이 단어들이 중요하다는 것을 이해하기 시작합니다.
+
+[Sentence 5]
+EN: You do not see a big difference every morning, but after some time you look back and notice the change.
+KR: 매일 아침에는 큰 차이를 느끼지 못하지만, 시간이 흐른 뒤 되돌아보면 변화를 알아차리게 됩니다.
+
+[Sentence 6]
+EN: If you do not know a difficult word, do not stop for a long time.
+KR: 어려운 단어를 모른다고 해서 오랫동안 멈추지 마세요.
+
+[Sentence 7]
+EN: A simple sentence spoken today is better than a perfect sentence that stays only in your mind.
+KR: 오늘 내뱉는 간단한 문장 하나가 머릿속에만 머무는 완벽한 문장보다 낫습니다.
+
+[Sentence 8]
+EN: If you wait until you know every grammar rule, you may wait for a very long time.
+KR: 모든 문법 규칙을 알 때까지 기다리면 아주 오랜 시간을 기다려야 할지도 모릅니다.

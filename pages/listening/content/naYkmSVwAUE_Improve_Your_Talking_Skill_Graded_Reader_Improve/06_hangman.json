@@ -1,0 +1,236 @@
+{
+  "version": 1,
+  "video_id": "naYkmSVwAUE",
+  "items": [
+    {
+      "id": "h01",
+      "source_sentence": "Do you understand English, but become completely silent when it is time to speak?",
+      "kr_hint": "영어는 이해하지만 막상 말할 시간이 되면 완전히 침묵하게 되나요?",
+      "correct_chunks": [
+        "Do",
+        "you",
+        "understand",
+        "English",
+        "but become",
+        "completely silent",
+        "when it is",
+        "time",
+        "to speak"
+      ],
+      "distractors": [
+        "did",
+        "has done"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "Do",
+        "alternatives": [
+          "did",
+          "has done"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "?"
+    },
+    {
+      "id": "h02",
+      "source_sentence": "You can know 100 words, but if you never use them, speaking will still feel difficult.",
+      "kr_hint": "단어 100개를 알 수는 있지만, 그것들을 전혀 사용하지 않는다면 말하기는 여전히 어렵게 느껴질 것입니다.",
+      "correct_chunks": [
+        "You",
+        "can know",
+        "100 words",
+        "but if you",
+        "never use",
+        "them",
+        "speaking will",
+        "still feel",
+        "difficult"
+      ],
+      "distractors": [
+        "could know",
+        "know"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "can know",
+        "alternatives": [
+          "could know",
+          "know"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h03",
+      "source_sentence": "These are simple sentences, but they are real speaking practice.",
+      "kr_hint": "이것들은 간단한 문장들이지만, 실제 말하기 연습이 됩니다.",
+      "correct_chunks": [
+        "These",
+        "are",
+        "simple sentences",
+        "but they",
+        "are",
+        "real speaking practice"
+      ],
+      "distractors": [
+        "is",
+        "was",
+        "has been"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "are",
+        "alternatives": [
+          "is",
+          "was",
+          "has been"
+        ],
+        "note": "verb form"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h04",
+      "source_sentence": "Many learners stop because they are searching for one difficult word.",
+      "kr_hint": "많은 학습자가 어려운 단어 하나를 찾느라 도중에 그만둡니다.",
+      "correct_chunks": [
+        "Many learners",
+        "stop",
+        "because they are searching",
+        "for one difficult word"
+      ],
+      "distractors": [
+        "learnered",
+        "has learnered"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "Many learners",
+        "alternatives": [
+          "learnered",
+          "has learnered"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h05",
+      "source_sentence": "Many students know what they want to say, but they are too nervous to open their mouths.",
+      "kr_hint": "많은 학생들은 자신이 무슨 말을 하고 싶은지 알지만, 너무 긴장해서 입을 열지 못합니다.",
+      "correct_chunks": [
+        "Many students",
+        "know",
+        "what they want",
+        "to say",
+        "but they",
+        "are",
+        "too nervous",
+        "to open",
+        "their mouths"
+      ],
+      "distractors": [
+        "studented",
+        "has studented"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "Many students",
+        "alternatives": [
+          "studented",
+          "has studented"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h06",
+      "source_sentence": "Confident speakers are not people who never feel nervous.",
+      "kr_hint": "자신감 있는 화자는 결코 긴장하지 않는 사람이 아닙니다.",
+      "correct_chunks": [
+        "Confident speakers",
+        "are not",
+        "people",
+        "who never",
+        "feel",
+        "nervous"
+      ],
+      "distractors": [
+        "speakered",
+        "has speakered"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "Confident speakers",
+        "alternatives": [
+          "speakered",
+          "has speakered"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h07",
+      "source_sentence": "In this final chapter, I want to give you a simple daily talking system that you can start today.",
+      "kr_hint": "이 마지막 장에서 저는 당신이 오늘 바로 시작할 수 있는 간단한 일일 말하기 시스템을 알려드리고 싶습니다.",
+      "correct_chunks": [
+        "In this final chapter",
+        "I want",
+        "to give",
+        "you",
+        "a simple daily talking system",
+        "that you",
+        "can start",
+        "today"
+      ],
+      "distractors": [
+        "could start",
+        "starts"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "can start",
+        "alternatives": [
+          "could start",
+          "starts"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h08",
+      "source_sentence": "This may take only one or two minutes, but it gives your brain a simple English start.",
+      "kr_hint": "이것은 1분이나 2분밖에 걸리지 않을 수도 있지만, 당신의 뇌에 간단한 영어 시작을 제공합니다.",
+      "correct_chunks": [
+        "This",
+        "may take only",
+        "one",
+        "or two minutes",
+        "but it",
+        "gives",
+        "your brain",
+        "a simple English",
+        "start"
+      ],
+      "distractors": [
+        "might take",
+        "takes"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "may take",
+        "alternatives": [
+          "might take",
+          "takes"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "."
+    }
+  ]
+}

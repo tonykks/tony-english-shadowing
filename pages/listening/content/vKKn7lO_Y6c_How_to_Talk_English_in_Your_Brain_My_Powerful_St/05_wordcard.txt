@@ -1,0 +1,89 @@
+[Card 1]
+headword: translate
+part_of_speech: verb
+meaning_kr: 번역하다
+definition_en: to change words from one language into another
+definition_kr_literal: 한 언어의 단어를 다른 언어로 바꾸는 것
+example_en: I tried to translate the words from my language into English.
+example_kr_literal: 나는 내 언어의 단어들을 영어로 번역하려고 시도했다.
+
+[Card 2]
+headword: sentence
+part_of_speech: noun
+meaning_kr: 문장
+definition_en: a group of words that expresses a complete thought
+definition_kr_literal: 완전한 생각을 표현하는 단어들의 집합
+example_en: Start by making very small sentences in your brain.
+example_kr_literal: 머릿속으로 아주 짧은 문장을 만드는 것부터 시작해 보세요.
+
+[Card 3]
+headword: normal
+part_of_speech: adjective
+meaning_kr: 보통의
+definition_en: usual or typical
+definition_kr_literal: 보통의 또는 전형적인
+example_en: At first it felt strange, but soon it felt normal.
+example_kr_literal: 처음에는 이상하게 느껴졌지만, 곧 평범하게 느껴졌다.
+
+[Card 4]
+headword: repeat
+part_of_speech: verb
+meaning_kr: 반복하다
+definition_en: to say something again
+definition_kr_literal: 무언가를 다시 말하는 것
+example_en: Try to repeat what you hear in your brain.
+example_kr_literal: 당신이 듣는 것을 머릿속으로 반복해 보세요.
+
+[Card 5]
+headword: mistake
+part_of_speech: noun
+meaning_kr: 실수
+definition_en: something you do that is not correct
+definition_kr_literal: 올바르지 않게 하는 어떤 것
+example_en: Do not worry if you make a mistake.
+example_kr_literal: 실수를 하더라도 걱정하지 마세요.
+
+[Card 6]
+headword: picture
+part_of_speech: verb
+meaning_kr: 상상하다
+definition_en: to imagine or see something in your mind
+definition_kr_literal: 무언가를 마음속으로 상상하거나 보는 것
+example_en: Try to picture the word in your mind when you say it.
+example_kr_literal: 단어를 말할 때 마음속으로 그려보세요.
+
+[Card 7]
+headword: memory
+part_of_speech: noun
+meaning_kr: 기억력
+definition_en: the ability to remember things
+definition_kr_literal: 무언가를 기억하는 능력
+example_en: It helped the words stay in my memory.
+example_kr_literal: 그것은 단어들이 내 기억 속에 남도록 도와주었어요.
+
+[Card 8]
+headword: goal
+part_of_speech: noun
+meaning_kr: 목표
+definition_en: something you want to do or achieve
+definition_kr_literal: 하고 싶거나 이루고 싶은 어떤 것
+example_en: My goal is to think in English naturally.
+example_kr_literal: 내 목표는 영어로 자연스럽게 생각하는 것입니다.
+
+[Card 9]
+headword: natural
+part_of_speech: adjective
+meaning_kr: 자연스러운
+definition_en: happening in an easy, normal way
+definition_kr_literal: 쉽고 평범한 방식으로 일어나는 것
+example_en: Thinking in English will become easy and natural one day.
+example_kr_literal: 영어로 생각하는 것이 언젠가 쉽고 자연스러워질 것입니다.
+
+[Card 10]
+headword: secret
+part_of_speech: noun
+meaning_kr: 비밀
+definition_en: something that is not known by everyone
+definition_kr_literal: 모든 사람이 알지는 못하는 것
+example_en: This secret can change how you speak English.
+example_kr_literal: 이 비밀은 당신이 영어를 말하는 방식을 바꿀 수 있습니다.

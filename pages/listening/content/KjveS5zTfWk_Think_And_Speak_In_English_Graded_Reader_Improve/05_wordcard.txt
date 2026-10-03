@@ -1,0 +1,89 @@
+[Card 1]
+headword: self-conscious
+part_of_speech: adjective
+meaning_kr: 남의 시선을 의식하는
+definition_en: feeling nervous or uncomfortable because you are worried about what people think of you
+definition_kr_literal: 사람들이 자신을 어떻게 생각할지 걱정되어 불안하거나 불편한 느낌.
+example_en: Many students feel self-conscious when they make mistakes while speaking English.
+example_kr_literal: 많은 학생들은 영어를 말하는 동안 실수할 때 남의 시선을 의식하게 됩니다.
+
+[Card 2]
+headword: comprehend
+part_of_speech: verb
+meaning_kr: 이해하다
+definition_en: to understand something completely
+definition_kr_literal: 무엇인가를 완전히 이해하는 것.
+example_en: You do not need to know every word to comprehend the main idea of a story.
+example_kr_literal: 이야기의 주된 내용을 이해하기 위해 모든 단어를 알 필요는 없습니다.
+
+[Card 3]
+headword: equivalent
+part_of_speech: noun
+meaning_kr: 동등한 것
+definition_en: a word or thing that has the same meaning or value as another
+definition_kr_literal: 다른 것과 같은 의미나 가치를 지닌 단어나 사물.
+example_en: When you see an apple, try to think 'apple' instead of the equivalent word in your native language.
+example_kr_literal: 사과를 볼 때 모국어의 대응하는 단어 대신에 'apple'이라고 생각하도록 노력하세요.
+
+[Card 4]
+headword: stagnate
+part_of_speech: verb
+meaning_kr: 정체되다
+definition_en: to stop developing or making progress
+definition_kr_literal: 발전하거나 진전되는 것을 멈추는 것.
+example_en: If you are too afraid to speak because of mistakes, your progress will inevitably stagnate.
+example_kr_literal: 실수 때문에 말하는 것이 너무 두렵다면, 여러분의 발전은 필연적으로 정체될 것입니다.
+
+[Card 5]
+headword: grapple
+part_of_speech: verb
+meaning_kr: 씨름하다
+definition_en: to struggle with a difficult problem or idea
+definition_kr_literal: 어려운 문제나 개념과 씨름하는 것
+example_en: Learners often grapple with the fear of looking foolish when they try to speak a new language.
+example_kr_literal: 학습자들은 새로운 언어를 말하려고 할 때 바보처럼 보일까 봐 두려워하는 마음과 자주 씨름합니다.
+
+[Card 6]
+headword: innate
+part_of_speech: adjective
+meaning_kr: 타고난
+definition_en: a quality or ability that you are born with
+definition_kr_literal: 태어날 때부터 가지고 있는 자질이나 능력
+example_en: Babies have an innate ability to learn language by listening to the people around them.
+example_kr_literal: 아기들은 주변 사람들의 말을 들음으로써 언어를 배울 수 있는 타고난 능력을 가지고 있습니다.
+
+[Card 7]
+headword: hinder
+part_of_speech: verb
+meaning_kr: 방해하다
+definition_en: to make it difficult for someone to do something or for something to happen
+definition_kr_literal: 누군가 무언가를 하거나 어떤 일이 일어나는 것을 어렵게 만드는 것
+example_en: Constantly stopping to use a dictionary can hinder your ability to speak fluently.
+example_kr_literal: 끊임없이 멈춰서 사전을 사용하는 것은 유창하게 말하는 당신의 능력을 방해할 수 있습니다.
+
+[Card 8]
+headword: bottleneck
+part_of_speech: noun
+meaning_kr: 병목
+definition_en: a point where progress slows down because too many things are happening at once
+definition_kr_literal: 너무 많은 일이 한꺼번에 일어나서 진전이 더뎌지는 지점
+example_en: Mental translation creates a bottleneck in your brain that makes speaking much slower.
+example_kr_literal: 머릿속으로 번역하는 것은 당신의 뇌에 병목 현상을 일으켜 말하는 속도를 훨씬 더 느리게 만듭니다.
+
+[Card 9]
+headword: internalize
+part_of_speech: verb
+meaning_kr: 내면화하다
+definition_en: to make an idea or language rule a natural part of your mind
+definition_kr_literal: 어떤 생각이나 언어 규칙을 마음속 자연스러운 부분으로 만드는 것
+example_en: Once you internalize basic sentence structures, you will use them automatically without thinking.
+example_kr_literal: 일단 기본적인 문장 구조를 내면화하면, 생각하지 않고도 자동으로 그것들을 사용하게 될 것입니다.
+
+[Card 10]
+headword: daunting
+part_of_speech: adjective
+meaning_kr: 벅찬
+definition_en: making you feel slightly scared or worried because something seems very difficult
+definition_kr_literal: 무언가가 매우 어렵게 느껴져서 약간 겁이 나거나 걱정하게 만드는 것
+example_en: Learning to think in a new language can feel daunting at first, but it gets easier with practice.
+example_kr_literal: 새로운 언어로 생각하는 법을 배우는 것은 처음에는 벅차게 느껴질 수 있지만, 연습하면 더 쉬워집니다.

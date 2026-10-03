@@ -1,0 +1,397 @@
+{
+  "version": 1,
+  "video_id": "j6tQeHCv2Q4",
+  "items": [
+    {
+      "id": "h01",
+      "source_sentence": "They burn out, sell their soul, sacrifice their health, and kill their happiness just to earn more.",
+      "kr_hint": "그들은 단지 더 많이 벌기 위해 번아웃을 겪고, 영혼을 팔고, 건강을 희생하며, 행복을 죽입니다.",
+      "correct_chunks": [
+        "They burn out",
+        "sell",
+        "their soul sacrifice",
+        "their health and kill",
+        "their happiness",
+        "just",
+        "to earn",
+        "more"
+      ],
+      "distractors": [
+        "sold",
+        "have sold"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "sell",
+        "alternatives": [
+          "sold",
+          "have sold"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h02",
+      "source_sentence": "If he loses his job, his entire life collapses.",
+      "kr_hint": "만약 그가 직장을 잃으면 그의 인생 전체가 무너집니다.",
+      "correct_chunks": [
+        "If he loses",
+        "his job",
+        "his entire life",
+        "collapses"
+      ],
+      "distractors": [
+        "collapsed",
+        "has collapsed"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "collapses",
+        "alternatives": [
+          "collapsed",
+          "has collapsed"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h03",
+      "source_sentence": "Every year you say, \"I'll start when I earn more.\".",
+      "kr_hint": "돈을 더 많이 벌면 시작할 거야.\"라고 말하는 매년이 그렇습니다.",
+      "correct_chunks": [
+        "Every year you say",
+        "I'll",
+        "start",
+        "when I earn",
+        "more"
+      ],
+      "distractors": [
+        "started",
+        "has started"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "start",
+        "alternatives": [
+          "started",
+          "has started"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h04",
+      "source_sentence": "Tell your money where to go instead of wondering where it went.",
+      "kr_hint": "돈이 어디로 갔는지 궁금해하는 대신 돈이 어디로 가야 할지 직접 정하십시오.",
+      "correct_chunks": [
+        "Tell",
+        "your money",
+        "where",
+        "to go",
+        "instead",
+        "of wondering",
+        "where it",
+        "went"
+      ],
+      "distractors": [
+        "goes",
+        "has gone"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "went",
+        "alternatives": [
+          "goes",
+          "has gone"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h05",
+      "source_sentence": "Because if you keep chasing appearance, you'll stay broke forever.",
+      "kr_hint": "왜냐하면 겉모습만 계속 좇다가는 영원히 빈털터리로 남을 것이기 때문입니다.",
+      "correct_chunks": [
+        "Because if",
+        "you",
+        "keep",
+        "chasing appearance you'll stay",
+        "broke",
+        "forever"
+      ],
+      "distractors": [
+        "breaks",
+        "has broken"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "broke",
+        "alternatives": [
+          "breaks",
+          "has broken"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h06",
+      "source_sentence": "You become rich by keeping more of what you earn and letting it grow.",
+      "kr_hint": "번 돈 중 더 많은 부분을 남기고 그것을 불려 나가야 부자가 됩니다.",
+      "correct_chunks": [
+        "You",
+        "become",
+        "rich",
+        "by keeping more",
+        "of what you earn and letting",
+        "it",
+        "grow"
+      ],
+      "distractors": [
+        "youed",
+        "have youed"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "You",
+        "alternatives": [
+          "youed",
+          "have youed"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h07",
+      "source_sentence": "Because if you can control the small money, one day you'll be trusted with the big money.",
+      "kr_hint": "왜냐하면 작은 돈을 관리할 수 있게 되면 언젠가 큰 돈을 맡길 수 있는 사람이 될 것이기 때문입니다.",
+      "correct_chunks": [
+        "Because if",
+        "you",
+        "can",
+        "control",
+        "the small money one day you'll",
+        "be trusted",
+        "with the big money"
+      ],
+      "distractors": [
+        "could can",
+        "cans"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "can",
+        "alternatives": [
+          "could can",
+          "cans"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h08",
+      "source_sentence": "Interest compounds and suddenly that fun $2,000, decision turns into years of stress, sleepless nights, and being chased by banks.",
+      "kr_hint": "이자가 복리로 불어나면 즐거웠던 2,000달러짜리 결정은 순식간에 수년간의 스트레스와 밤잠을 설치게 만드는 고통, 그리고 은행의 독촉으로 변합니다.",
+      "correct_chunks": [
+        "Interest",
+        "compounds",
+        "and suddenly that fun 2",
+        "000 decision",
+        "turns",
+        "into years",
+        "of stress sleepless nights and being",
+        "chased",
+        "by banks"
+      ],
+      "distractors": [
+        "compounded",
+        "has compounded"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "compounds",
+        "alternatives": [
+          "compounded",
+          "has compounded"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h09",
+      "source_sentence": "But if you learn to master debt, you'll use it as a ladder, not a trap.",
+      "kr_hint": "하지만 빚을 다스리는 법을 배운다면, 그것을 덫이 아닌 사다리로 이용하게 될 것입니다.",
+      "correct_chunks": [
+        "But if you learn",
+        "to master",
+        "debt you'll",
+        "use",
+        "it",
+        "as",
+        "a ladder",
+        "not",
+        "a trap"
+      ],
+      "distractors": [
+        "used",
+        "has used"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "use",
+        "alternatives": [
+          "used",
+          "has used"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h10",
+      "source_sentence": "The more you focus on being seen as successful, the more you delay actually becoming successful.",
+      "kr_hint": "성공한 모습으로 보이는 데 집중할수록, 실제로 성공하는 것은 더 지연됩니다.",
+      "correct_chunks": [
+        "The more",
+        "you",
+        "focus",
+        "on",
+        "being seen",
+        "as successful",
+        "the more you delay actually",
+        "becoming successful"
+      ],
+      "distractors": [
+        "focued",
+        "has focued"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "focus",
+        "alternatives": [
+          "focued",
+          "has focued"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h11",
+      "source_sentence": "None of these started big, but each one became a new pillar.",
+      "kr_hint": "이들 중 어느 것도 처음부터 거창하게 시작되지는 않았지만, 각각은 새로운 기둥이 되었습니다.",
+      "correct_chunks": [
+        "None",
+        "of these started big",
+        "but each one",
+        "became",
+        "a new pillar"
+      ],
+      "distractors": [
+        "becomes",
+        "has become"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "became",
+        "alternatives": [
+          "becomes",
+          "has become"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h12",
+      "source_sentence": "And remember, life does not reward the smartest, it rewards the most prepared.",
+      "kr_hint": "그리고 기억하십시오, 인생은 가장 똑똑한 사람에게 보상하는 것이 아니라 가장 준비된 사람에게 보상합니다.",
+      "correct_chunks": [
+        "And remember life",
+        "does not",
+        "reward",
+        "the smartest",
+        "it",
+        "rewards",
+        "the most prepared"
+      ],
+      "distractors": [
+        "did",
+        "has done"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "does",
+        "alternatives": [
+          "did",
+          "has done"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h13",
+      "source_sentence": "You could be the smartest person in the room and still stay broke because of one sentence you heard at age seven.",
+      "kr_hint": "당신은 방 안에서 가장 똑똑한 사람일지라도 일곱 살 때 들은 문장 하나 때문에 여전히 빈털터리로 지낼 수 있습니다.",
+      "correct_chunks": [
+        "You",
+        "could be",
+        "the smartest person",
+        "in the room and still stay",
+        "broke",
+        "because of",
+        "one sentence you",
+        "heard",
+        "at age seven"
+      ],
+      "distractors": [
+        "can be",
+        "are"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "could be",
+        "alternatives": [
+          "can be",
+          "are"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h14",
+      "source_sentence": "Stay trapped in old beliefs and you'll keep repeating the same life.",
+      "kr_hint": "낡은 신념 속에 갇혀 있으면 당신은 똑같은 삶을 계속 반복하게 될 것이다.",
+      "correct_chunks": [
+        "Stay",
+        "trapped",
+        "in old beliefs and you'll",
+        "keep",
+        "repeating the same life"
+      ],
+      "distractors": [
+        "trapps",
+        "has trapped"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "trapped",
+        "alternatives": [
+          "trapps",
+          "has trapped"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    }
+  ]
+}

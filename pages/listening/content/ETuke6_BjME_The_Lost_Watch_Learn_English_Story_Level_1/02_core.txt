@@ -1,0 +1,31 @@
+[Sentence 1]
+EN: Many years ago, I worked for a very rich family.
+KR: 오래전, 저는 매우 부유한 가족을 위해 일했습니다.
+
+[Sentence 2]
+EN: I was always careful when I cleaned her room.
+KR: 나는 그녀의 방을 청소할 때 항상 조심했다.
+
+[Sentence 3]
+EN: I walked to a small cafe and used the last coins I had to buy a piece of bread.
+KR: 나는 작은 카페로 걸어가서 가지고 있던 마지막 동전으로 빵 한 조각을 샀다.
+
+[Sentence 4]
+EN: I wondered if they missed me at all maybe they forgot about me quickly.
+KR: 나는 그들이 나를 조금이라도 그리워했는지 아니면 나를 금방 잊어버렸을지 궁금했다.
+
+[Sentence 5]
+EN: She wore a long coat and in her hand she held something small and shiny.
+KR: 그녀는 긴 코트를 입고 있었고 손에는 작고 반짝이는 무언가를 들고 있었다.
+
+[Sentence 6]
+EN: As the days passed, I learned more about the bakery.
+KR: 날이 갈수록 나는 제과점에 대해 더 많이 알게 되었다.
+
+[Sentence 7]
+EN: Sometimes at night, when the bakery was quiet, I sat by the window and looked at the stars.
+KR: 가끔 밤에 빵집이 조용해지면, 나는 창가에 앉아 별들을 바라보았다.
+
+[Sentence 8]
+EN: I had built a new life, but the old life was still a part of me.
+KR: 나는 새로운 삶을 일구었지만, 예전의 삶도 여전히 내 일부였다.

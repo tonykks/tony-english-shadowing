@@ -1,0 +1,31 @@
+[Sentence 1]
+EN: Can I really speak fluently without going to a school?
+KR: 학원에 다니지 않고도 정말 유창하게 말할 수 있을까요?
+
+[Sentence 2]
+EN: My voice is not perfect, but it is my voice and it matters even if no one hears me.
+KR: 내 목소리가 완벽하지는 않지만, 그것은 나의 목소리이며 아무도 내 말을 듣지 않더라도 그 목소리는 중요합니다.
+
+[Sentence 3]
+EN: It begins when you use your voice even when no one is listening.
+KR: 그것은 아무도 듣지 않을 때조차 당신이 목소리를 낼 때 시작됩니다.
+
+[Sentence 4]
+EN: I don't understand every word, but the voice is calm.
+KR: 모든 단어를 이해할 수는 없지만 목소리가 차분합니다.
+
+[Sentence 5]
+EN: If I see that word again tomorrow, I will understand it better.
+KR: 내일 그 단어를 다시 보게 된다면, 더 잘 이해할 것이다.
+
+[Sentence 6]
+EN: It teaches you to be brave, to use your words, to not wait for others.
+KR: 그것은 당신에게 용기를 내고, 당신의 언어를 사용하며, 다른 사람들을 기다리지 말라고 가르칩니다.
+
+[Sentence 7]
+EN: If it types the wrong word, I know I said it wrong.
+KR: 만약 전화기가 잘못된 단어를 입력하면, 제가 틀리게 말했다는 것을 압니다.
+
+[Sentence 8]
+EN: I remember a time when I didn't believe I could do this.
+KR: 나는 내가 이것을 할 수 있다고 믿지 않았던 때를 기억합니다.

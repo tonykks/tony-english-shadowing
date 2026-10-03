@@ -1,0 +1,342 @@
+{
+  "version": 1,
+  "video_id": "DuykqNkPgUo",
+  "items": [
+    {
+      "id": "h01",
+      "source_sentence": "Because if you truly understand what I'm about to share, you will become the kind of person who doesn't just survive.",
+      "kr_hint": "왜냐하면 제가 공유하려는 내용을 진정으로 이해한다면, 여러분은 단순히 살아남기만 하는 사람이 아닌 그런 사람이 될 것이기 때문입니다.",
+      "correct_chunks": [
+        "Because if you truly understand",
+        "what I'm",
+        "about",
+        "to share you",
+        "will become",
+        "the kind",
+        "of person",
+        "who doesn't just",
+        "survive"
+      ],
+      "distractors": [
+        "would become",
+        "becomes"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "will become",
+        "alternatives": [
+          "would become",
+          "becomes"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h02",
+      "source_sentence": "How many times did you scream at someone you loved and then regret it later?",
+      "kr_hint": "사랑하는 사람에게 소리를 지르고 나중에 후회한 적이 얼마나 많습니까?",
+      "correct_chunks": [
+        "How many times",
+        "did",
+        "you scream",
+        "at someone",
+        "you",
+        "loved",
+        "and then regret it later"
+      ],
+      "distractors": [
+        "does",
+        "has done"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "did",
+        "alternatives": [
+          "does",
+          "has done"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "?"
+    },
+    {
+      "id": "h03",
+      "source_sentence": "Sometimes you don't realize what you lost until it's too late to fix it.",
+      "kr_hint": "때로는 무엇을 잃었는지 되돌리기엔 너무 늦을 때까지 깨닫지 못합니다.",
+      "correct_chunks": [
+        "Sometimes you don't realize what",
+        "you",
+        "lost",
+        "until it's too late",
+        "to fix",
+        "it"
+      ],
+      "distractors": [
+        "loses",
+        "has lost"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "lost",
+        "alternatives": [
+          "loses",
+          "has lost"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h04",
+      "source_sentence": "You don't need to explain yourself to people who already made up their minds.",
+      "kr_hint": "이미 마음을 굳힌 사람들에게 자신을 설명할 필요는 없습니다.",
+      "correct_chunks": [
+        "You don't",
+        "need",
+        "to explain",
+        "yourself",
+        "to people",
+        "who already",
+        "made",
+        "up their minds"
+      ],
+      "distractors": [
+        "make",
+        "have made"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "made",
+        "alternatives": [
+          "make",
+          "have made"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h05",
+      "source_sentence": "And if you keep stepping into their world, you will never build your own.",
+      "kr_hint": "그리고 당신이 계속 그들의 세계로 발을 들인다면, 결코 당신만의 세계를 세우지 못할 것입니다.",
+      "correct_chunks": [
+        "And if you keep",
+        "stepping into",
+        "their world",
+        "you",
+        "will never",
+        "build",
+        "your own"
+      ],
+      "distractors": [
+        "would will",
+        "wills"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "will",
+        "alternatives": [
+          "would will",
+          "wills"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h06",
+      "source_sentence": "Calm people make better decisions, build better relationships, and live stronger lives.",
+      "kr_hint": "침착한 사람들은 더 나은 결정을 내리고, 더 좋은 관계를 형성하며, 더 강인한 삶을 살아갑니다.",
+      "correct_chunks": [
+        "Calm people",
+        "make",
+        "better decisions",
+        "build",
+        "better relationships",
+        "and live",
+        "stronger",
+        "lives"
+      ],
+      "distractors": [
+        "lived",
+        "has lived"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "lives",
+        "alternatives": [
+          "lived",
+          "has lived"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h07",
+      "source_sentence": "The more you practice calmness in small storms, the more ready you'll be when life throws the big ones.",
+      "kr_hint": "작은 폭풍 속에서 차분함을 연습할수록 인생이 더 큰 폭풍을 던질 때 당신은 더 잘 대비하게 될 것입니다.",
+      "correct_chunks": [
+        "The more you practice calmness",
+        "in small storms",
+        "the more ready you'll",
+        "be",
+        "when life throws",
+        "the big ones"
+      ],
+      "distractors": [
+        "was",
+        "has been"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "be",
+        "alternatives": [
+          "was",
+          "has been"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h08",
+      "source_sentence": "But the person who responds is like the ocean, deep, steady, untouchable.",
+      "kr_hint": "하지만 대응하는 사람은 바다와 같아서 깊고 흔들림 없으며 건드릴 수 없습니다.",
+      "correct_chunks": [
+        "But the person",
+        "who responds",
+        "is",
+        "like the ocean deep steady untouchable"
+      ],
+      "distractors": [
+        "was",
+        "has been"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "is",
+        "alternatives": [
+          "was",
+          "has been"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h09",
+      "source_sentence": "Train yourself when you're cut off in traffic.",
+      "kr_hint": "교통 체증 중에 끼어들기를 당할 때 스스로를 훈련하세요.",
+      "correct_chunks": [
+        "Train yourself",
+        "when you're cut",
+        "off in",
+        "traffic"
+      ],
+      "distractors": [
+        "trafficed",
+        "has trafficed"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "traffic",
+        "alternatives": [
+          "trafficed",
+          "has trafficed"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h10",
+      "source_sentence": "The ego wants to be seen, loved, admired, respected, and praised all the time.",
+      "kr_hint": "자아는 항상 주목받고, 사랑받고, 동경받고, 존중받고, 칭찬받기를 원합니다.",
+      "correct_chunks": [
+        "The ego",
+        "wants",
+        "to",
+        "be seen",
+        "loved",
+        "admired",
+        "respected",
+        "and praised",
+        "all the time"
+      ],
+      "distractors": [
+        "wanted",
+        "has wanted"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "wants",
+        "alternatives": [
+          "wanted",
+          "has wanted"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h11",
+      "source_sentence": "Not because you're weak, but because you're not ruled by something as fragile as ego anymore.",
+      "kr_hint": "당신이 약해서가 아니라, 더 이상 자아처럼 연약한 것에 지배당하지 않기 때문입니다.",
+      "correct_chunks": [
+        "Not",
+        "because you're weak",
+        "but because you're",
+        "not ruled",
+        "by something",
+        "as fragile",
+        "as ego anymore"
+      ],
+      "distractors": [
+        "ruls",
+        "has ruled"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "ruled",
+        "alternatives": [
+          "ruls",
+          "has ruled"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h12",
+      "source_sentence": "And whenever the world tries to pull you into chaos, pause, breathe, remember who you are you don't belong in the noise.",
+      "kr_hint": "그리고 세상이 당신을 혼란 속으로 끌어들이려 할 때마다 멈춰 서서 숨을 고르고, 당신이 누구인지 기억하며 당신은 그 소란에 속하지 않음을 명심하세요.",
+      "correct_chunks": [
+        "And whenever the world",
+        "tries",
+        "to pull",
+        "you",
+        "into chaos pause breathe remember",
+        "who you",
+        "are",
+        "you don't belong",
+        "in the noise"
+      ],
+      "distractors": [
+        "tried",
+        "has tried"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "tries",
+        "alternatives": [
+          "tried",
+          "has tried"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    }
+  ]
+}

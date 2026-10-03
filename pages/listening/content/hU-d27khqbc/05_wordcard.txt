@@ -1,0 +1,89 @@
+[Card 1]
+headword: manipulate
+part_of_speech: verb
+meaning_kr: 조종하다
+definition_en: to control or influence someone in a clever or unfair way
+definition_kr_literal: 누군가를 교묘하거나 부당한 방식으로 조종하거나 영향력을 행사하는 것
+example_en: If you are too emotional, people will manipulate you for their own benefit.
+example_kr_literal: 감정적이면 사람들은 자신의 이익을 위해 당신을 조종할 것이다.
+
+[Card 2]
+headword: validation
+part_of_speech: noun
+meaning_kr: 인정
+definition_en: the need for approval or support from others to feel good about oneself
+definition_kr_literal: 스스로에 대해 만족감을 느끼기 위해 타인의 인정이나 지지가 필요한 것
+example_en: Weak people often need constant validation from social media to feel good enough.
+example_kr_literal: 나약한 사람들은 종종 자신이 충분히 괜찮다고 느끼기 위해 소셜 미디어로부터 끊임없는 인정을 필요로 한다.
+
+[Card 3]
+headword: chaos
+part_of_speech: noun
+meaning_kr: 혼란
+definition_en: a state of complete confusion and lack of order
+definition_kr_literal: 완전한 혼란과 질서가 결여된 상태
+example_en: You must train your mind to remain calm and focused, especially in times of chaos.
+example_kr_literal: 당신은 특히 혼란스러운 시기에 침착함과 집중력을 유지하도록 정신을 훈련해야 한다.
+
+[Card 4]
+headword: unshakable
+part_of_speech: adjective
+meaning_kr: 흔들리지 않는
+definition_en: not easily changed or destroyed; firm and steady
+definition_kr_literal: 쉽게 변하거나 파괴되지 않는 상태이며, 확고하고 흔들림이 없는 것
+example_en: By practicing silence and emotional control, you become unshakable even when life gets difficult.
+example_kr_literal: 침묵과 감정 조절을 실천함으로써 삶이 어려워질 때에도 당신은 흔들리지 않는 사람이 된다.
+
+[Card 5]
+headword: reflection
+part_of_speech: noun
+meaning_kr: 성찰
+definition_en: serious thought or consideration about something
+definition_kr_literal: 어떤 것에 대한 진지한 생각이나 고려.
+example_en: Spending time alone is a great opportunity for reflection on your own goals and feelings.
+example_kr_literal: 혼자 시간을 보내는 것은 자신의 목표와 감정을 성찰할 좋은 기회입니다.
+
+[Card 6]
+headword: independent
+part_of_speech: adjective
+meaning_kr: 독립적인
+definition_en: not needing help or support from other people
+definition_kr_literal: 다른 사람의 도움이나 지원이 필요하지 않은 상태.
+example_en: When you stop chasing attention, you start to become emotionally independent.
+example_kr_literal: 관심을 쫓는 것을 멈추면 감정적으로 독립적인 사람이 되기 시작합니다.
+
+[Card 7]
+headword: spiral
+part_of_speech: noun
+meaning_kr: 악순환
+definition_en: a series of events that get worse and worse very quickly
+definition_kr_literal: 매우 빠르게 점점 더 나빠지는 일련의 사건들.
+example_en: That negative mental spiral destroys your confidence after you make a small mistake.
+example_kr_literal: 작은 실수를 저지른 후에 겪는 그 부정적인 정신적 소용돌이는 당신의 자신감을 파괴합니다.
+
+[Card 8]
+headword: insecure
+part_of_speech: adjective
+meaning_kr: 자신 없는
+definition_en: not feeling confident about yourself or your abilities
+definition_kr_literal: 자신이나 자신의 능력에 대해 자신감을 느끼지 못하는 상태.
+example_en: People who constantly chase attention are often the most insecure deep inside.
+example_kr_literal: 끊임없이 관심을 쫓는 사람들은 내면 깊은 곳에서 가장 불안함을 느끼는 경우가 많습니다.
+
+[Card 9]
+headword: comfort zone
+part_of_speech: noun
+meaning_kr: 안전지대
+definition_en: a situation where you feel safe and do not have to try anything new
+definition_kr_literal: 안전하다고 느끼며 새로운 것을 시도할 필요가 없는 상황
+example_en: Real personal growth never happens when you stay inside your comfort zone.
+example_kr_literal: 안전지대 안에 머무를 때 진정한 개인적 성장은 절대 일어나지 않습니다.
+
+[Card 10]
+headword: discipline
+part_of_speech: noun
+meaning_kr: 절제
+definition_en: the ability to control your behavior and work hard even when you do not want to
+definition_kr_literal: 원하지 않을 때조차 자신의 행동을 통제하고 열심히 노력하는 능력
+example_en: Waking up at 5:00 a.m. when you want to sleep is an act of true discipline.
+example_kr_literal: 자고 싶을 때 오전 5시에 일어나는 것은 진정한 훈련의 행동입니다.

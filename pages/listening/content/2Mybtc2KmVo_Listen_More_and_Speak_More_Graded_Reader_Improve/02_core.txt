@@ -1,0 +1,31 @@
+[Sentence 1]
+EN: Do you study English every day, but when it is time to speak, your mind suddenly becomes empty?
+KR: 매일 영어를 공부하는데 정작 말을 할 시간이 되면 머릿속이 갑자기 하얘지나요?
+
+[Sentence 2]
+EN: They understand the grammar, but they cannot build a sentence fast enough.
+KR: 그들은 문법은 이해하지만, 문장을 충분히 빠르게 만들지 못합니다.
+
+[Sentence 3]
+EN: You cannot easily use a language that your brain has not heard enough times.
+KR: 여러분은 뇌가 충분히 많이 듣지 못한 언어를 쉽게 사용할 수 없습니다.
+
+[Sentence 4]
+EN: Listening also teaches you how English sentences are built.
+KR: 듣기는 또한 영어 문장이 어떻게 구성되는지를 가르쳐 줍니다.
+
+[Sentence 5]
+EN: You can read a sentence 100 times and still not know exactly how it sounds in a real conversation.
+KR: 문장을 100번 읽어도 실제 대화에서 그것이 정확히 어떻게 들리는지 여전히 모를 수 있습니다.
+
+[Sentence 6]
+EN: When you listen to something you can mostly understand, your brain feels calmer.
+KR: 대부분 이해할 수 있는 내용을 들을 때 당신의 뇌는 더 차분함을 느낍니다.
+
+[Sentence 7]
+EN: Easy content helps you build the foundation you need for more difficult English later.
+KR: 쉬운 콘텐츠는 나중에 더 어려운 영어를 하기 위해 필요한 기초를 쌓도록 도와줍니다.
+
+[Sentence 8]
+EN: The faster you use a useful phrase, the easier it becomes to remember.
+KR: 유용한 표현을 빨리 사용할수록 기억하기가 더 쉬워집니다.

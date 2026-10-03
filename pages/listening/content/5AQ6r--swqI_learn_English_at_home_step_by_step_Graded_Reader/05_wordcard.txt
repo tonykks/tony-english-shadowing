@@ -1,0 +1,89 @@
+[Card 1]
+headword: fluent
+part_of_speech: adjective
+meaning_kr: 유창한
+definition_en: able to speak a language easily and correctly
+definition_kr_literal: 언어를 쉽고 정확하게 구사할 수 있는
+example_en: Can I really speak fluently without going to a school?
+example_kr_literal: 학교에 가지 않고도 정말 유창하게 말할 수 있을까?
+
+[Card 2]
+headword: matter
+part_of_speech: verb
+meaning_kr: 중요하다
+definition_en: to be important
+definition_kr_literal: 중요하다
+example_en: It is my voice and it matters even if no one hears me.
+example_kr_literal: 그것은 내 목소리이고 아무도 듣지 않는다고 해도 그것은 중요하다.
+
+[Card 3]
+headword: calm
+part_of_speech: adjective
+meaning_kr: 침착한
+definition_en: quiet and relaxed
+definition_kr_literal: 조용하고 편안한
+example_en: I don't understand every word, but the voice is calm.
+example_kr_literal: 모든 단어를 이해할 수는 없지만, 그 목소리는 차분하다.
+
+[Card 4]
+headword: brave
+part_of_speech: adjective
+meaning_kr: 용감한
+definition_en: not afraid of danger or difficulty
+definition_kr_literal: 위험이나 어려움을 두려워하지 않는
+example_en: It teaches you to be brave and use your words.
+example_kr_literal: 그것은 당신에게 용감해지고 당신의 말을 사용하도록 가르쳐 준다.
+
+[Card 5]
+headword: believe
+part_of_speech: verb
+meaning_kr: 믿다
+definition_en: to think that something is true
+definition_kr_literal: 무언가가 사실이라고 생각하는 것
+example_en: I remember a time when I didn't believe I could do this.
+example_kr_literal: 나는 내가 이것을 할 수 있다고 믿지 않았던 때를 기억한다.
+
+[Card 6]
+headword: pronunciation
+part_of_speech: noun
+meaning_kr: 발음
+definition_en: the way a word is said
+definition_kr_literal: 단어를 말하는 방식
+example_en: My pronunciation is not good, but I have the desire to learn.
+example_kr_literal: 내 발음은 좋지 않지만 배우려는 의지는 있다.
+
+[Card 7]
+headword: courage
+part_of_speech: noun
+meaning_kr: 용기
+definition_en: the ability to do something that scares you
+definition_kr_literal: 두려운 일을 해낼 수 있는 능력
+example_en: I have the courage to try.
+example_kr_literal: 나에게는 도전할 용기가 있다.
+
+[Card 8]
+headword: mistake
+part_of_speech: noun
+meaning_kr: 실수
+definition_en: something done in the wrong way
+definition_kr_literal: 잘못된 방식으로 행해진 어떤 것
+example_en: I know that mistakes are part of learning.
+example_kr_literal: 나는 실수가 배움의 일부라는 것을 알고 있다.
+
+[Card 9]
+headword: confidence
+part_of_speech: noun
+meaning_kr: 자신감
+definition_en: feeling sure about your ability to do things
+definition_kr_literal: 무언가를 해낼 수 있다는 자신의 능력에 대해 확신하는 것
+example_en: Real confidence begins when you speak even when you feel afraid.
+example_kr_literal: 진정한 자신감은 두려움을 느낄 때조차 말할 때 시작됩니다.
+
+[Card 10]
+headword: memorize
+part_of_speech: verb
+meaning_kr: 암기하다
+definition_en: to learn something so that you remember it perfectly
+definition_kr_literal: 무언가를 완벽하게 기억할 수 있도록 배우는 것
+example_en: I don't study and I don't memorize; I just listen.
+example_kr_literal: 저는 공부하지 않고 암기하지도 않으며, 그저 듣기만 합니다.

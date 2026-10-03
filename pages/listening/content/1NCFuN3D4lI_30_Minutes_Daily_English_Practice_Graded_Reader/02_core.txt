@@ -1,0 +1,31 @@
+[Sentence 1]
+EN: Many learners think reading and speaking are separate skills.
+KR: 많은 학습자가 읽기와 말하기가 별개의 기술이라고 생각한다.
+
+[Sentence 2]
+EN: While enjoying the story, you learn new vocabulary and grammar.
+KR: 이야기를 즐기는 동안 당신은 새로운 어휘와 문법을 배웁니다.
+
+[Sentence 3]
+EN: The more English you see, the more comfortable you become.
+KR: 영어를 더 많이 볼수록 더 편안해집니다.
+
+[Sentence 4]
+EN: The more sentences you see, the more sentences you can create.
+KR: 더 많은 문장을 볼수록 더 많은 문장을 만들 수 있습니다.
+
+[Sentence 5]
+EN: Because you see them repeatedly, they become part of your active vocabulary.
+KR: 그 단어들을 반복해서 보기 때문에, 그것들은 여러분의 능동적인 어휘의 일부가 됩니다.
+
+[Sentence 6]
+EN: If your book is always available, it becomes easier to read.
+KR: 책을 항상 이용할 수 있으면 읽기가 더 쉬워집니다.
+
+[Sentence 7]
+EN: When reading becomes a habit, you continue even on difficult days.
+KR: 독서가 습관이 되면 힘든 날에도 계속하게 됩니다.
+
+[Sentence 8]
+EN: As your skills improve, you can gradually move to longer materials.
+KR: 실력이 향상됨에 따라 점차 더 긴 자료로 넘어갈 수 있다.

@@ -1,0 +1,89 @@
+[Card 1]
+headword: confidently
+part_of_speech: adverb
+meaning_kr: 자신 있게
+definition_en: in a way that shows you are sure about your abilities or success
+definition_kr_literal: 자신의 능력이나 성공을 확신하고 있음을 보여주는 방식으로
+example_en: Many students study for years but still cannot speak English confidently.
+example_kr_literal: 많은 학생이 수년간 공부하지만 여전히 영어로 자신 있게 말하지 못한다.
+
+[Card 2]
+headword: postpone
+part_of_speech: verb
+meaning_kr: 미루다
+definition_en: to decide that something will happen at a later time instead of now
+definition_kr_literal: 어떤 일이 지금이 아니라 나중에 일어나도록 결정하는 것
+example_en: No matter how much he learned, he always found a reason to postpone speaking.
+example_kr_literal: 그는 아무리 많이 배웠어도 항상 말하기를 미룰 이유를 찾아냈다.
+
+[Card 3]
+headword: fluency
+part_of_speech: noun
+meaning_kr: 유창성
+definition_en: the ability to speak or write a language easily and correctly
+definition_kr_literal: 언어를 쉽고 정확하게 말하거나 쓸 수 있는 능력
+example_en: Speaking English every day can completely change your fluency.
+example_kr_literal: 매일 영어를 말하는 것은 당신의 유창함을 완전히 바꿀 수 있다.
+
+[Card 4]
+headword: unexpected
+part_of_speech: adjective
+meaning_kr: 예상치 못한
+definition_en: not expected; surprising
+definition_kr_literal: 예상하지 못한; 놀라운
+example_en: Everything was going well until an unexpected situation happened while he was traveling.
+example_kr_literal: 그가 여행하는 동안 예상치 못한 상황이 발생하기 전까지 모든 것이 잘 진행되고 있었다.
+
+[Card 5]
+headword: blank
+part_of_speech: adjective
+meaning_kr: 멍한
+definition_en: empty; unable to remember or think of anything
+definition_kr_literal: 텅 빔; 아무것도 기억하거나 생각할 수 없음.
+example_en: When the visitor asked him a question, his mind became completely blank.
+example_kr_literal: 방문객이 그에게 질문했을 때, 그의 머릿속은 완전히 하얗게 변했다.
+
+[Card 6]
+headword: disappointed
+part_of_speech: adjective
+meaning_kr: 실망한
+definition_en: unhappy because something did not go as well as you hoped
+definition_kr_literal: 일이 기대했던 만큼 잘 풀리지 않아 불행한.
+example_en: After the conversation ended, he felt disappointed because he could not answer.
+example_kr_literal: 대화가 끝난 후, 그는 대답하지 못했기 때문에 실망감을 느꼈다.
+
+[Card 7]
+headword: theory
+part_of_speech: noun
+meaning_kr: 이론
+definition_en: an idea about how something works, rather than the practical experience of it
+definition_kr_literal: 실제 경험보다는 무언가가 어떻게 작동하는지에 대한 생각.
+example_en: He understands everything about driving in theory, but he never sits behind the wheel.
+example_kr_literal: 그는 운전에 대한 모든 것을 이론적으로는 이해하지만, 한 번도 운전대를 잡아본 적이 없다.
+
+[Card 8]
+headword: rarely
+part_of_speech: adverb
+meaning_kr: 드물게
+definition_en: not often; very seldom
+definition_kr_literal: 자주 하지 않는; 아주 드물게.
+example_en: Their speaking ability stays the same because they rarely use what they collect.
+example_kr_literal: 그들은 습득한 것을 거의 사용하지 않기 때문에 말하기 능력이 그대로 유지된다.
+
+[Card 9]
+headword: strengthen
+part_of_speech: verb
+meaning_kr: 강화하다
+definition_en: to make something stronger or more powerful
+definition_kr_literal: 무언가를 더 강하거나 강력하게 만드는 것
+example_en: Every time you create a sentence, your speaking muscles become stronger.
+example_kr_literal: 당신이 문장을 만들 때마다 말하기 근육이 더 강해집니다.
+
+[Card 10]
+headword: myth
+part_of_speech: noun
+meaning_kr: 통념
+definition_en: a commonly held belief that is actually false
+definition_kr_literal: 사실은 거짓인 흔히 알려진 믿음
+example_en: The idea that you need perfect grammar to start speaking is a common myth.
+example_kr_literal: 말하기를 시작하려면 완벽한 문법이 필요하다는 생각은 흔한 통념입니다.

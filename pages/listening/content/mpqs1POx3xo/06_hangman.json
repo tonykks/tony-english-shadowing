@@ -1,0 +1,321 @@
+{
+  "version": 1,
+  "video_id": "mpqs1POx3xo",
+  "items": [
+    {
+      "id": "h01",
+      "source_sentence": "It means, when you open your mouth, your words should have a purpose.",
+      "kr_hint": "그건 입을 열 때 말에 목적이 있어야 한다는 뜻입니다.",
+      "correct_chunks": [
+        "It",
+        "means",
+        "when you open",
+        "your mouth",
+        "your words",
+        "should have",
+        "a purpose"
+      ],
+      "distractors": [
+        "meant",
+        "has meant"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "means",
+        "alternatives": [
+          "meant",
+          "has meant"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h02",
+      "source_sentence": "Before you even open your mouth properly, people have already decided 70% about you.",
+      "kr_hint": "당신이 제대로 입을 열기도 전에, 사람들은 이미 당신에 대한 70%를 결정합니다.",
+      "correct_chunks": [
+        "Before you",
+        "even open",
+        "your mouth properly people",
+        "have already",
+        "decided",
+        "70",
+        "about you"
+      ],
+      "distractors": [
+        "has",
+        "had"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "have",
+        "alternatives": [
+          "has",
+          "had"
+        ],
+        "note": "present perfect"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h03",
+      "source_sentence": "Paint a picture in the listener's mind, because human brains are wired for stories.",
+      "kr_hint": "인간의 뇌는 이야기에 맞춰져 있기 때문에, 듣는 사람의 마음속에 그림을 그리세요.",
+      "correct_chunks": [
+        "Paint",
+        "a picture",
+        "in the listener's mind",
+        "because human brains",
+        "are wired",
+        "for stories"
+      ],
+      "distractors": [
+        "wirs",
+        "has wired"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "are wired",
+        "alternatives": [
+          "wirs",
+          "has wired"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h04",
+      "source_sentence": "If you want to become a master communicator, if you want people to trust you, like you, open up to you, then you must develop one magical quality.",
+      "kr_hint": "당신이 소통의 달인이 되고 싶다면, 사람들이 당신을 신뢰하고 좋아하며 마음을 열기를 원한다면, 당신은 한 가지 마법 같은 자질을 길러야 합니다.",
+      "correct_chunks": [
+        "If you want to become a master communicator if you want people",
+        "to trust",
+        "you",
+        "like you open",
+        "up",
+        "to you",
+        "then you",
+        "must",
+        "develop one magical quality"
+      ],
+      "distractors": [
+        "will must",
+        "musts"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "must",
+        "alternatives": [
+          "will must",
+          "musts"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h05",
+      "source_sentence": "When you use someone's name correctly during a conversation, you instantly make them feel special, seen, and important.",
+      "kr_hint": "대화 중에 누군가의 이름을 올바르게 사용하면, 그 사람은 즉시 자신이 특별하고 주목받으며 중요한 존재라고 느끼게 됩니다.",
+      "correct_chunks": [
+        "When you use",
+        "someone's name correctly",
+        "during a conversation you instantly",
+        "make",
+        "them",
+        "feel",
+        "special seen and important"
+      ],
+      "distractors": [
+        "made",
+        "has made"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "make",
+        "alternatives": [
+          "made",
+          "has made"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h06",
+      "source_sentence": "How can you build emotional intelligence and learn to respond, not react?",
+      "kr_hint": "어떻게 감정 지능을 기르고 즉각적으로 반응하는 대신 대응하는 법을 배울 수 있을까요?",
+      "correct_chunks": [
+        "How",
+        "can",
+        "you",
+        "build",
+        "emotional intelligence",
+        "and learn",
+        "to respond not",
+        "react"
+      ],
+      "distractors": [
+        "could can",
+        "cans"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "can",
+        "alternatives": [
+          "could can",
+          "cans"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "?"
+    },
+    {
+      "id": "h07",
+      "source_sentence": "If you want to become an unforgettable communicator, you must master the art of echoing.",
+      "kr_hint": "잊을 수 없는 의사소통가가 되고 싶다면 에코의 기술을 마스터해야 합니다.",
+      "correct_chunks": [
+        "If you want",
+        "to become",
+        "an unforgettable communicator",
+        "you",
+        "must",
+        "master",
+        "the art",
+        "of echoing"
+      ],
+      "distractors": [
+        "will must",
+        "musts"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "must",
+        "alternatives": [
+          "will must",
+          "musts"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h08",
+      "source_sentence": "You calmly repeat your main point again and again, without getting emotional until the other person understands you are serious.",
+      "kr_hint": "상대방이 당신의 진심을 이해할 때까지 감정적이 되지 않고 차분하게 자신의 핵심 주장을 계속해서 반복하는 것입니다.",
+      "correct_chunks": [
+        "You calmly repeat",
+        "your main point again and again",
+        "without getting emotional",
+        "until the other person",
+        "understands",
+        "you",
+        "are",
+        "serious"
+      ],
+      "distractors": [
+        "understood",
+        "have understood"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "understands",
+        "alternatives": [
+          "understood",
+          "have understood"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h09",
+      "source_sentence": "Many people think vulnerability is weakness, but in reality, it is your greatest strength.",
+      "kr_hint": "많은 사람이 취약성을 나약함이라고 생각하지만, 사실 그것은 당신의 가장 큰 강점입니다.",
+      "correct_chunks": [
+        "Many people",
+        "think",
+        "vulnerability",
+        "is",
+        "weakness but",
+        "in reality",
+        "it",
+        "is",
+        "your greatest strength"
+      ],
+      "distractors": [
+        "was",
+        "has been"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "is",
+        "alternatives": [
+          "was",
+          "has been"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h10",
+      "source_sentence": "Vulnerability means sharing the right real story at the right time in the right way to create connection, not pity.",
+      "kr_hint": "취약함이란 연민이 아닌 유대감을 형성하기 위해 적절한 때에 적절한 방식으로 올바른 실제 이야기를 공유하는 것을 의미합니다.",
+      "correct_chunks": [
+        "Vulnerability",
+        "means",
+        "sharing the right real story",
+        "at the right time",
+        "in the right way",
+        "to create",
+        "connection",
+        "not pity"
+      ],
+      "distractors": [
+        "meant",
+        "has meant"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "means",
+        "alternatives": [
+          "meant",
+          "has meant"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h11",
+      "source_sentence": "When you dare to be vulnerable, you don't just talk to people's minds, you touch their souls.",
+      "kr_hint": "당신이 용기 내어 취약해질 때, 당신은 사람들의 머리에만 말하는 것이 아니라 그들의 영혼을 울립니다.",
+      "correct_chunks": [
+        "When you dare to be",
+        "vulnerable you don't",
+        "just talk",
+        "to people's",
+        "minds",
+        "you touch",
+        "their souls"
+      ],
+      "distractors": [
+        "minded",
+        "has minded"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "minds",
+        "alternatives": [
+          "minded",
+          "has minded"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    }
+  ]
+}

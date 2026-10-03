@@ -1,0 +1,89 @@
+[Card 1]
+headword: routine
+part_of_speech: noun
+meaning_kr: 일과
+definition_en: the things you do regularly at the same time
+definition_kr_literal: 매일 같은 시간에 규칙적으로 하는 일들
+example_en: I want to talk about my daily routine in English.
+example_kr_literal: 나는 영어로 내 일상에 대해 이야기하고 싶어.
+
+[Card 2]
+headword: wake
+part_of_speech: verb
+meaning_kr: 깨다
+definition_en: to stop sleeping
+definition_kr_literal: 잠에서 깨다
+example_en: I wake up at 7 o'clock every morning.
+example_kr_literal: 나는 매일 아침 7시에 일어나.
+
+[Card 3]
+headword: brush
+part_of_speech: verb
+meaning_kr: 닦다
+definition_en: to clean something using a brush
+definition_kr_literal: 솔을 사용하여 무언가를 닦다
+example_en: I brush my teeth after I eat breakfast.
+example_kr_literal: 나는 아침을 먹은 후에 이를 닦아.
+
+[Card 4]
+headword: describe
+part_of_speech: verb
+meaning_kr: 묘사하다
+definition_en: to say what someone or something is like
+definition_kr_literal: 누군가나 무언가가 어떤지 말하다
+example_en: You can describe your day to your friends.
+example_kr_literal: 너는 친구들에게 너의 하루를 설명할 수 있어.
+
+[Card 5]
+headword: habit
+part_of_speech: noun
+meaning_kr: 습관
+definition_en: something you do often and regularly
+definition_kr_literal: 자주 그리고 규칙적으로 하는 어떤 것
+example_en: Speaking English every day is a good habit.
+example_kr_literal: 매일 영어를 말하는 것은 좋은 습관입니다.
+
+[Card 6]
+headword: memory
+part_of_speech: noun
+meaning_kr: 기억력
+definition_en: the ability to remember things
+definition_kr_literal: 무언가를 기억하는 능력
+example_en: When you use English, the words stay in your memory.
+example_kr_literal: 영어를 사용하면 단어들이 기억 속에 남습니다.
+
+[Card 7]
+headword: connect
+part_of_speech: verb
+meaning_kr: 연결하다
+definition_en: to join two things together
+definition_kr_literal: 두 가지를 하나로 합치는 것
+example_en: Connect your English practice to your real life.
+example_kr_literal: 영어 연습을 당신의 실제 삶과 연결하세요.
+
+[Card 8]
+headword: fluency
+part_of_speech: noun
+meaning_kr: 유창성
+definition_en: the ability to speak easily and well
+definition_kr_literal: 쉽고 잘 말할 수 있는 능력
+example_en: Talking about your day helps you build fluency.
+example_kr_literal: 당신의 하루에 대해 이야기하는 것은 유창성을 기르는 데 도움이 됩니다.
+
+[Card 9]
+headword: confident
+part_of_speech: adjective
+meaning_kr: 자신감 있는
+definition_en: feeling sure about your own ability
+definition_kr_literal: 자신의 능력에 대해 확신을 느끼는 것
+example_en: You will feel more confident after practicing.
+example_kr_literal: 연습을 하고 나면 더 자신감이 생길 거예요.
+
+[Card 10]
+headword: repeat
+part_of_speech: verb
+meaning_kr: 반복하다
+definition_en: to say or do something again
+definition_kr_literal: 무언가를 다시 말하거나 하는 것
+example_en: Repeat the sentences after me.
+example_kr_literal: 저를 따라 문장들을 반복하세요.

@@ -1,0 +1,147 @@
+.btn-main {
+  min-width: 110px;
+  border-radius: 0.5rem;
+  background: #facc15;
+  color: #111827;
+  font-weight: 800;
+}
+
+.btn-main:hover { background: #eab308; }
+
+.menu-group {
+  position: relative;
+  padding-bottom: 8px;
+  margin-bottom: -8px;
+}
+
+.submenu {
+  position: absolute;
+  left: 50%;
+  top: 100%;
+  transform: translateX(-50%);
+  display: none;
+  min-width: 320px;
+  border-radius: 0.7rem;
+  border: 1px solid rgba(250, 204, 21, 0.65);
+  background: rgba(17, 24, 39, 0.85);
+  padding: 0.45rem;
+  backdrop-filter: blur(4px);
+  z-index: 30;
+}
+
+.menu-group:hover .submenu,
+.menu-group:focus-within .submenu {
+  display: flex;
+  gap: 0.35rem;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: nowrap;
+}
+
+.submenu a {
+  width: 96px;
+  min-width: 96px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 0.5rem;
+  background: #fef08a;
+  color: #111827;
+  font-size: 0.82rem;
+  font-weight: 700;
+  text-align: center;
+  padding: 0.4rem 0.6rem;
+}
+
+.submenu a:hover { background: #facc15; }
+
+.hero-main-nav {
+  position: absolute;
+  left: 50%;
+  bottom: -0.85rem;
+  transform: translateX(-50%);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.75rem;
+}
+
+.hero-title {
+  text-align: center;
+  font-size: clamp(2.1rem, 5vw, 4rem);
+  font-weight: 900;
+  letter-spacing: -0.02em;
+}
+
+.hero-subtitle {
+  margin-top: 0.55rem;
+  text-align: center;
+  font-size: clamp(0.95rem, 1.8vw, 1.2rem);
+  font-weight: 700;
+  color: #fef3c7;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.4);
+}
+
+@media (max-width: 767px) {
+  .hero-title {
+    font-size: 1.45rem;
+    line-height: 1.14;
+    letter-spacing: -0.03em;
+    white-space: nowrap;
+  }
+
+  .hero-subtitle {
+    margin-top: 0.2rem;
+    font-size: 0.56rem;
+    line-height: 1.05;
+    white-space: nowrap;
+  }
+
+  .hero-main-nav {
+    width: min(280px, 70vw);
+    flex-wrap: nowrap;
+    justify-content: center;
+    gap: 0.24rem;
+    bottom: -0.56rem;
+  }
+
+  .hero-main-nav > a,
+  .hero-main-nav > .menu-group {
+    flex: 1 1 0;
+    min-width: 0;
+  }
+
+  .hero-main-nav .btn-main {
+    display: block;
+    width: 100%;
+  }
+
+  .btn-main {
+    min-width: 0;
+    font-size: 0.72rem;
+    line-height: 1;
+    padding: 0.36rem 0.32rem;
+    border-radius: 0.45rem;
+  }
+
+  .submenu {
+    left: 50%;
+    transform: translateX(-50%);
+    min-width: 0;
+    max-width: calc(100vw - 12px);
+    padding: 0.2rem;
+    width: max-content;
+  }
+
+  .menu-group:hover .submenu,
+  .menu-group:focus-within .submenu {
+    gap: 0.18rem;
+  }
+
+  .submenu a {
+    width: 56px;
+    min-width: 56px;
+    font-size: 0.56rem;
+    padding: 0.2rem 0.18rem;
+  }
+}

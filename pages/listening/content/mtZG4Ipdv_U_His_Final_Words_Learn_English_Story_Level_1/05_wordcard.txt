@@ -1,0 +1,89 @@
+[Card 1]
+headword: presence
+part_of_speech: noun
+meaning_kr: 존재
+definition_en: the state of being in a place or the feeling that someone is nearby
+definition_kr_literal: 어떤 장소에 있는 상태나 누군가 근처에 있다는 느낌
+example_en: The room felt empty, but his presence was still there.
+example_kr_literal: 방은 비어 있는 듯했지만, 그의 존재감은 여전히 그곳에 있었다.
+
+[Card 2]
+headword: faded
+part_of_speech: adjective
+meaning_kr: 희미해진
+definition_en: having lost brightness, color, or strength over time
+definition_kr_literal: 시간이 지나면서 밝기나 색깔 또는 힘을 잃은 상태
+example_en: The ink on the letter had faded, but I could still read the words.
+example_kr_literal: 편지의 잉크는 바래 있었지만, 나는 여전히 글자들을 읽을 수 있었다.
+
+[Card 3]
+headword: childhood
+part_of_speech: noun
+meaning_kr: 어린 시절
+definition_en: the period of time when a person is a child
+definition_kr_literal: 사람이 아이인 시기
+example_en: He began the letter by talking about our happy memories from childhood.
+example_kr_literal: 그는 우리의 행복했던 어린 시절 기억에 관해 이야기하며 편지를 시작했다.
+
+[Card 4]
+headword: acceptance
+part_of_speech: noun
+meaning_kr: 수용
+definition_en: the act of agreeing that something is true or cannot be changed
+definition_kr_literal: 무언가가 사실이거나 바꿀 수 없다는 것을 동의하는 행위
+example_en: He did not speak of fear; instead, he wrote about his acceptance of death.
+example_kr_literal: 그는 두려움에 대해 말하지 않았고, 대신 죽음을 받아들이는 것에 관해 적었다.
+
+[Card 5]
+headword: regret
+part_of_speech: noun
+meaning_kr: 후회
+definition_en: a feeling of sadness or disappointment about something that happened or was not done
+definition_kr_literal: 일어난 일이나 하지 않은 일에 대한 슬픔이나 실망의 감정.
+example_en: He wanted me to live my life fully and without any regret.
+example_kr_literal: 그는 내가 후회 없이 내 삶을 온전히 살기를 바랐다.
+
+[Card 6]
+headword: absence
+part_of_speech: noun
+meaning_kr: 부재
+definition_en: the state of being away from a place or not existing
+definition_kr_literal: 어떤 장소에 없거나 존재하지 않는 상태.
+example_en: His absence was a heavy weight that I could not escape.
+example_kr_literal: 그의 부재는 내가 벗어날 수 없는 무거운 짐이었다.
+
+[Card 7]
+headword: lifeline
+part_of_speech: noun
+meaning_kr: 생명선
+definition_en: something that provides help or support when you are in a difficult situation
+definition_kr_literal: 어려운 상황에 처했을 때 도움이나 지지를 제공하는 것.
+example_en: His words were filled with love, and I held on to them like a lifeline.
+example_kr_literal: 그의 말은 사랑으로 가득 차 있었고, 나는 그것을 생명줄처럼 붙잡았다.
+
+[Card 8]
+headword: fragile
+part_of_speech: adjective
+meaning_kr: 부서지기 쉬운
+definition_en: easily broken, damaged, or weak
+definition_kr_literal: 쉽게 부러지거나 손상되거나 약한.
+example_en: All I had left were his words on this fragile piece of paper.
+example_kr_literal: 내게 남은 것은 이 연약한 종이 조각에 적힌 그의 말들뿐이었다.
+
+[Card 9]
+headword: honor
+part_of_speech: verb
+meaning_kr: 기리다
+definition_en: to show great respect for someone's wishes or memory
+definition_kr_literal: 누군가의 바람이나 기억에 대해 큰 존경심을 보이는 것
+example_en: I wanted to honor his final wishes, but I did not know how to start.
+example_kr_literal: 나는 그의 마지막 유언을 존중하고 싶었지만, 어떻게 시작해야 할지 몰랐다.
+
+[Card 10]
+headword: grateful
+part_of_speech: adjective
+meaning_kr: 감사하는
+definition_en: feeling or showing thanks for something received
+definition_kr_literal: 받은 무언가에 대해 고마움을 느끼거나 표현하는 것
+example_en: He left a part of himself behind, and for that, I was grateful.
+example_kr_literal: 그는 자신의 일부분을 남기고 떠났고, 나는 그것에 대해 감사했다.

@@ -1,0 +1,231 @@
+{
+  "version": 1,
+  "video_id": "KjveS5zTfWk",
+  "items": [
+    {
+      "id": "h01",
+      "source_sentence": "This is completely natural, but it's also remarkably slow and it can leave you feeling self-conscious about your English abilities.",
+      "kr_hint": "이것은 완전히 자연스러운 일이지만, 또한 매우 느리고 영어 실력에 대해 자의식을 느끼게 만들 수 있습니다.",
+      "correct_chunks": [
+        "This",
+        "is",
+        "completely natural",
+        "but it's",
+        "also remarkably slow and it",
+        "can leave",
+        "you",
+        "feeling self conscious",
+        "about your English abilities"
+      ],
+      "distractors": [
+        "was",
+        "has been"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "is",
+        "alternatives": [
+          "was",
+          "has been"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h02",
+      "source_sentence": "Countless students fall into it, often without realizing.",
+      "kr_hint": "수많은 학생들이 종종 자신이 그러고 있다는 것도 모른 채 이 덫에 빠진다.",
+      "correct_chunks": [
+        "Countless students",
+        "fall",
+        "into it",
+        "often",
+        "without realizing"
+      ],
+      "distractors": [
+        "studented",
+        "has studented"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "Countless students",
+        "alternatives": [
+          "studented",
+          "has studented"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h03",
+      "source_sentence": "Do you genuinely need to understand every single word in order to comprehend meaning?",
+      "kr_hint": "의미를 이해하기 위해서 모든 단어를 정말로 다 알아야 할까요?",
+      "correct_chunks": [
+        "Do",
+        "you genuinely",
+        "need",
+        "to understand",
+        "every single word",
+        "in order",
+        "to comprehend",
+        "meaning"
+      ],
+      "distractors": [
+        "did",
+        "has done"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "Do",
+        "alternatives": [
+          "did",
+          "has done"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "?"
+    },
+    {
+      "id": "h04",
+      "source_sentence": "If you understand 90% of a sentence, comprehension is well within reach.",
+      "kr_hint": "문장의 90%를 이해한다면, 이해는 충분히 가능한 범위 안에 있습니다.",
+      "correct_chunks": [
+        "If you understand",
+        "90",
+        "of a sentence comprehension",
+        "is well",
+        "within reach"
+      ],
+      "distractors": [
+        "was",
+        "has been"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "is",
+        "alternatives": [
+          "was",
+          "has been"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h05",
+      "source_sentence": "Gradually, the baby links those sounds to objects, sensations, and actions.",
+      "kr_hint": "점차 아기는 그 소리들을 사물, 감각, 그리고 행동과 연결합니다.",
+      "correct_chunks": [
+        "Gradually",
+        "the baby",
+        "links",
+        "those sounds",
+        "to objects sensations and actions"
+      ],
+      "distractors": [
+        "linked",
+        "has linked"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "links",
+        "alternatives": [
+          "linked",
+          "has linked"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h06",
+      "source_sentence": "When you glance at a cup, simply think cup, not the equivalent word in your native language, just cup directly.",
+      "kr_hint": "컵을 볼 때 모국어로 된 단어를 떠올리지 말고 단순히 컵이라고만 생각하세요, 바로 컵이라고 말이죠.",
+      "correct_chunks": [
+        "When you glance",
+        "at a cup simply",
+        "think",
+        "cup",
+        "not",
+        "the equivalent word",
+        "in your native language",
+        "just cup",
+        "directly"
+      ],
+      "distractors": [
+        "thought",
+        "has thought"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "think",
+        "alternatives": [
+          "thought",
+          "has thought"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h07",
+      "source_sentence": "Rather than grinding to a halt, simply say the thing you use when it rains.",
+      "kr_hint": "말문이 막히는 대신 비가 올 때 사용하는 물건이라고 간단히 말하세요.",
+      "correct_chunks": [
+        "Rather than",
+        "grinding to",
+        "a halt simply say",
+        "the thing",
+        "you",
+        "use",
+        "when it rains"
+      ],
+      "distractors": [
+        "thaned",
+        "has thaned"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "than",
+        "alternatives": [
+          "thaned",
+          "has thaned"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h08",
+      "source_sentence": "Silence is if fear of error keeps you silent, your progress will inevitably stagnate.",
+      "kr_hint": "침묵은 만약 실수에 대한 두려움이 당신을 침묵하게 만든다면, 당신의 발전은 필연적으로 정체될 것입니다.",
+      "correct_chunks": [
+        "Silence",
+        "is",
+        "if fear",
+        "of error",
+        "keeps",
+        "you silent",
+        "your progress",
+        "will",
+        "inevitably stagnate"
+      ],
+      "distractors": [
+        "was",
+        "has been"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "is",
+        "alternatives": [
+          "was",
+          "has been"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    }
+  ]
+}

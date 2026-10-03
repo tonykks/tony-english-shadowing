@@ -1,0 +1,235 @@
+{
+  "version": 1,
+  "video_id": "vaAQgtCfjN0",
+  "items": [
+    {
+      "id": "h01",
+      "source_sentence": "Many students believe that learning English means sitting at a desk every day.",
+      "kr_hint": "많은 학생들은 영어를 배우는 것이 매일 책상에 앉아 있는 것을 의미한다고 믿습니다.",
+      "correct_chunks": [
+        "Many students believe",
+        "that learning English",
+        "means",
+        "sitting at",
+        "a desk",
+        "every day"
+      ],
+      "distractors": [
+        "meant",
+        "has meant"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "means",
+        "alternatives": [
+          "meant",
+          "has meant"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h02",
+      "source_sentence": "Do you really need to understand every word to understand the message?",
+      "kr_hint": "메시지를 이해하기 위해 정말로 모든 단어를 이해해야 할까요?",
+      "correct_chunks": [
+        "Do",
+        "you",
+        "really need",
+        "to understand",
+        "every word",
+        "to understand",
+        "the message"
+      ],
+      "distractors": [
+        "did",
+        "has done"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "Do",
+        "alternatives": [
+          "did",
+          "has done"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "?"
+    },
+    {
+      "id": "h03",
+      "source_sentence": "You do not need 100% understanding to enjoy English or understand the main message.",
+      "kr_hint": "영어를 즐기거나 핵심 메시지를 이해하기 위해 100퍼센트 이해할 필요는 없습니다.",
+      "correct_chunks": [
+        "You",
+        "do not",
+        "need",
+        "100 understanding",
+        "to enjoy",
+        "English",
+        "or understand",
+        "the main message"
+      ],
+      "distractors": [
+        "did",
+        "have done"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "do",
+        "alternatives": [
+          "did",
+          "have done"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h04",
+      "source_sentence": "If you choose English that is too difficult, your brain can become tired very quickly.",
+      "kr_hint": "만약 너무 어려운 영어를 선택하면, 당신의 뇌는 매우 빨리 지칠 수 있습니다.",
+      "correct_chunks": [
+        "If you choose",
+        "English",
+        "that is too",
+        "difficult",
+        "your brain",
+        "can become",
+        "tired",
+        "very",
+        "quickly"
+      ],
+      "distractors": [
+        "could become",
+        "becomes"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "can become",
+        "alternatives": [
+          "could become",
+          "becomes"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h05",
+      "source_sentence": "Suddenly, English does not feel like something separate from your life.",
+      "kr_hint": "갑자기 영어는 여러분의 삶과 동떨어진 무언가처럼 느껴지지 않습니다.",
+      "correct_chunks": [
+        "Suddenly",
+        "English",
+        "does not",
+        "feel",
+        "like something separate",
+        "from your life"
+      ],
+      "distractors": [
+        "did",
+        "has done"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "does",
+        "alternatives": [
+          "did",
+          "has done"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h06",
+      "source_sentence": "They need to hear English before your mouth can feel more comfortable using it.",
+      "kr_hint": "당신의 입이 영어를 사용하는 것을 더 편안하게 느끼기 전에 귀가 영어를 들어야 합니다.",
+      "correct_chunks": [
+        "They",
+        "need",
+        "to hear",
+        "English",
+        "before your mouth",
+        "can feel",
+        "more comfortable",
+        "using it"
+      ],
+      "distractors": [
+        "could feel",
+        "feel"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "can feel",
+        "alternatives": [
+          "could feel",
+          "feel"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h07",
+      "source_sentence": "Listening can help you understand this because you hear real people speaking naturally.",
+      "kr_hint": "실제 사람들이 자연스럽게 말하는 것을 듣게 되기 때문에 듣기는 이것을 이해하는 데 도움이 될 수 있습니다.",
+      "correct_chunks": [
+        "Listening can",
+        "help",
+        "you",
+        "understand",
+        "this",
+        "because you hear",
+        "real people",
+        "speaking naturally"
+      ],
+      "distractors": [
+        "will can",
+        "cans"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "Listening can",
+        "alternatives": [
+          "will can",
+          "cans"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h08",
+      "source_sentence": "Now it is time to do something, because knowledge is good, but action can change your life.",
+      "kr_hint": "이제는 무언가를 해야 할 때입니다, 지식은 좋지만, 행동은 당신의 삶을 바꿀 수 있기 때문입니다.",
+      "correct_chunks": [
+        "Now it",
+        "is",
+        "time to",
+        "do something",
+        "because knowledge is",
+        "good but action",
+        "can",
+        "change",
+        "your life"
+      ],
+      "distractors": [
+        "was",
+        "has been"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "is",
+        "alternatives": [
+          "was",
+          "has been"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    }
+  ]
+}

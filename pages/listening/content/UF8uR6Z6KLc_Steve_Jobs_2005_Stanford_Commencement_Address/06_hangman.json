@@ -1,0 +1,238 @@
+{
+  "version": 1,
+  "video_id": "UF8uR6Z6KLc",
+  "items": [
+    {
+      "id": "h01",
+      "source_sentence": "I am honored to be with you today at your commencement from one of the finest universities in the world.",
+      "kr_hint": "세계에서 가장 훌륭한 대학 중 하나인 이곳에서 여러분의 졸업식에 함께하게 되어 영광입니다.",
+      "correct_chunks": [
+        "I",
+        "am honored",
+        "to",
+        "be",
+        "with you today",
+        "at your commencement",
+        "from one",
+        "of the finest universities",
+        "in the world"
+      ],
+      "distractors": [
+        "honor",
+        "have honored"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "am honored",
+        "alternatives": [
+          "honor",
+          "have honored"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h02",
+      "source_sentence": "Because I had dropped out and didn't have to take the normal classes, I decided to take a calligraphy class to learn how to do this.",
+      "kr_hint": "저는 자퇴를 했기 때문에 일반 수업을 들을 필요가 없었고, 그래서 이것을 배우기 위해 서예 수업을 듣기로 했습니다.",
+      "correct_chunks": [
+        "Because I had dropped",
+        "out and didn't",
+        "have",
+        "to take the normal classes",
+        "I",
+        "decided",
+        "to take a calligraphy class to learn how to",
+        "do",
+        "this"
+      ],
+      "distractors": [
+        "has",
+        "had"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "have",
+        "alternatives": [
+          "has",
+          "had"
+        ],
+        "note": "present perfect"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h03",
+      "source_sentence": "Again, you can't connect the dots looking forward; you can only connect them looking backwards.",
+      "kr_hint": "다시 말하지만, 미래를 내다보며 점들을 연결할 수는 없으며, 오직 과거를 돌아보며 점들을 연결할 수 있을 뿐입니다.",
+      "correct_chunks": [
+        "Again you can't",
+        "connect",
+        "the dots",
+        "looking forward",
+        "you",
+        "can only",
+        "connect",
+        "them",
+        "looking backwards"
+      ],
+      "distractors": [
+        "could can",
+        "cans"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "can",
+        "alternatives": [
+          "could can",
+          "cans"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h04",
+      "source_sentence": "What had been the focus of my entire adult life was gone, and it was devastating.",
+      "kr_hint": "내 성인기 전체의 초점이었던 것이 사라졌고, 그것은 파괴적이었습니다.",
+      "correct_chunks": [
+        "What had been the focus",
+        "of my entire adult life",
+        "was gone",
+        "and it",
+        "was devastating"
+      ],
+      "distractors": [
+        "focued",
+        "has focued"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "What had been the focus",
+        "alternatives": [
+          "focued",
+          "has focued"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h05",
+      "source_sentence": "I'm pretty sure none of this would have happened if I hadn't been fired from Apple.",
+      "kr_hint": "내가 애플에서 해고되지 않았다면 이 중 그 어떤 일도 일어나지 않았을 것이라고 확신합니다.",
+      "correct_chunks": [
+        "I'm pretty sure none",
+        "of this",
+        "would have happened",
+        "if I hadn't been fired",
+        "from Apple"
+      ],
+      "distractors": [
+        "happens",
+        "happened"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "would have happened",
+        "alternatives": [
+          "happens",
+          "happened"
+        ],
+        "note": "present perfect"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h06",
+      "source_sentence": "My doctor advised me to go home and get my affairs in order, which is doctor's code for prepare to die.",
+      "kr_hint": "제 주치의는 집에 가서 신변 정리를 하라고 조언했는데, 이는 의사들이 죽음을 준비하라는 뜻으로 하는 말입니다.",
+      "correct_chunks": [
+        "My doctor",
+        "advised",
+        "me to go",
+        "home and get my affairs",
+        "in order",
+        "which is doctor's",
+        "code",
+        "for prepare",
+        "to die"
+      ],
+      "distractors": [
+        "advises",
+        "has advised"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "advised",
+        "alternatives": [
+          "advises",
+          "has advised"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h07",
+      "source_sentence": "And that is as it should be, because Death is very likely the single best invention of Life.",
+      "kr_hint": "그리고 그것이 마땅한 이유는, 죽음이 아마도 삶이 만든 단 하나의 최고의 발명품이기 때문입니다.",
+      "correct_chunks": [
+        "And that",
+        "is",
+        "as",
+        "it",
+        "should be",
+        "because Death is",
+        "very likely",
+        "the single best invention",
+        "of Life"
+      ],
+      "distractors": [
+        "was",
+        "has been"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "is",
+        "alternatives": [
+          "was",
+          "has been"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h08",
+      "source_sentence": "When I was young, there was an amazing publication called The Whole Earth Catalog, which was one of the bibles of my generation.",
+      "kr_hint": "제가 어렸을 때, 더 홀 어스 카탈로그라는 놀라운 출판물이 있었는데, 그것은 제 세대의 성서 중 하나였습니다.",
+      "correct_chunks": [
+        "When I was",
+        "young there",
+        "was",
+        "an amazing publication",
+        "called",
+        "The Whole Earth Catalog",
+        "which was one",
+        "of the bibles",
+        "of my generation"
+      ],
+      "distractors": [
+        "is",
+        "has been"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "was",
+        "alternatives": [
+          "is",
+          "has been"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    }
+  ]
+}

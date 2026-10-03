@@ -1,0 +1,31 @@
+[Sentence 1]
+EN: I thought speaking practice was the answer, but nothing felt natural.
+KR: 저는 말하기 연습이 답이라고 생각했지만, 무엇 하나 자연스럽게 느껴지지 않았습니다.
+
+[Sentence 2]
+EN: I tried to build perfect sentences before I opened my mouth, but the words never came fast enough.
+KR: 입을 열기 전에 완벽한 문장을 만들려고 노력했지만, 단어들은 결코 충분히 빨리 나오지 않았습니다.
+
+[Sentence 3]
+EN: When you speak later, words come out more naturally.
+KR: 나중에 말을 할 때 단어들이 더 자연스럽게 나옵니다.
+
+[Sentence 4]
+EN: Every time you hear the same word or phrase, it gets stronger in your memory.
+KR: 당신이 같은 단어나 구절을 들을 때마다, 그것은 당신의 기억 속에서 더 강해집니다.
+
+[Sentence 5]
+EN: The goal is to understand around 90 to 95% of what you hear.
+KR: 목표는 들리는 내용의 약 90에서 95퍼센트를 이해하는 것입니다.
+
+[Sentence 6]
+EN: Easy English creates faster improvement in a surprising way because you understand more.
+KR: 쉬운 영어는 더 많은 것을 이해할 수 있기 때문에 놀라운 방식으로 더 빠른 향상을 만들어냅니다.
+
+[Sentence 7]
+EN: Learning by listening is very powerful, but some habits can slow you down without you even knowing.
+KR: 듣기를 통한 학습은 매우 강력하지만, 일부 습관은 본인도 모르게 학습 속도를 늦출 수 있습니다.
+
+[Sentence 8]
+EN: Unknown words become clear over time through repeated exposure.
+KR: 모르는 단어는 반복적인 노출을 통해 시간이 지나면 명확해집니다.

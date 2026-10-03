@@ -1,0 +1,89 @@
+[Card 1]
+headword: stuck
+part_of_speech: adjective
+meaning_kr: 갇힌
+definition_en: unable to move or make progress in a situation
+definition_kr_literal: 어떤 상황에서 움직이거나 진전을 이루지 못하는 상태
+example_en: Every day you watch others succeed while you feel stuck.
+example_kr_literal: 당신은 자신이 정체되었다고 느끼는 동안 매일 다른 사람들이 성공하는 것을 지켜봅니다.
+
+[Card 2]
+headword: negotiate
+part_of_speech: verb
+meaning_kr: 협상하다
+definition_en: to discuss something formally in order to reach an agreement
+definition_kr_literal: 합의에 도달하기 위해 무언가를 공식적으로 논의하는 것
+example_en: School made you memorize dates, but never taught you how to negotiate or protect your money.
+example_kr_literal: 학교는 당신에게 날짜를 암기하게 했지만, 돈을 협상하거나 지키는 방법은 절대 가르쳐 주지 않았습니다.
+
+[Card 3]
+headword: controlled
+part_of_speech: verb
+meaning_kr: 통제하다
+definition_en: to have power over someone or something so that they do what you want
+definition_kr_literal: 누군가나 무언가가 당신이 원하는 대로 행동하도록 그들에 대해 권력을 갖는 것
+example_en: You will either be educated about money, or you will be controlled by those who are.
+example_kr_literal: 당신은 돈에 대해 교육받거나, 아니면 교육받은 사람들에게 조종당하게 될 것입니다.
+
+[Card 4]
+headword: financially
+part_of_speech: adverb
+meaning_kr: 재정적으로
+definition_en: in a way that relates to money or the management of money
+definition_kr_literal: 돈이나 돈의 관리와 관련된 방식으로
+example_en: Most people are struggling financially because they did not develop a skill the world needs.
+example_kr_literal: 대부분의 사람들은 세상이 필요로 하는 기술을 개발하지 않았기 때문에 재정적으로 어려움을 겪고 있습니다.
+
+[Card 5]
+headword: replaced
+part_of_speech: verb
+meaning_kr: 대체되다
+definition_en: to be taken over by something or someone else that is often better or newer
+definition_kr_literal: 더 좋거나 더 새로운 무언가 또는 누군가에게 대체되는 것
+example_en: The world is moving online, and you must move with it or be replaced by those who did.
+example_kr_literal: 세상은 온라인으로 이동하고 있으며, 당신은 그 흐름에 따르지 않으면 그렇게 한 사람들에게 대체될 것입니다.
+
+[Card 6]
+headword: trigger
+part_of_speech: verb
+meaning_kr: 유발하다
+definition_en: to cause a particular reaction or event to happen
+definition_kr_literal: 특정한 반응이나 사건이 일어나게 만드는 것
+example_en: They don't know what triggers their anger or why they sabotage their own success.
+example_kr_literal: 그들은 무엇이 자신의 분노를 유발하는지 혹은 왜 자신이 스스로의 성공을 방해하는지 알지 못합니다.
+
+[Card 7]
+headword: sabotage
+part_of_speech: verb
+meaning_kr: 방해하다
+definition_en: to secretly or indirectly destroy or stop something from being successful
+definition_kr_literal: 비밀리에 혹은 간접적으로 무언가가 성공하지 못하도록 파괴하거나 막는 것
+example_en: Many people do not realize why they sabotage their own success.
+example_kr_literal: 많은 사람은 왜 자신이 스스로의 성공을 방해하는지 깨닫지 못합니다.
+
+[Card 8]
+headword: trapped
+part_of_speech: adjective
+meaning_kr: 갇힌
+definition_en: unable to escape from a place or a difficult situation
+definition_kr_literal: 장소나 어려운 상황에서 빠져나올 수 없는
+example_en: Most people are trapped in themselves because they do not know they are in a prison.
+example_kr_literal: 대부분의 사람은 자신이 감옥에 있다는 사실을 모르기 때문에 자기 자신 안에 갇혀 있습니다.
+
+[Card 9]
+headword: unstoppable
+part_of_speech: adjective
+meaning_kr: 막을 수 없는
+definition_en: impossible to stop or prevent; very powerful
+definition_kr_literal: 멈추거나 막을 수 없는; 매우 강력한
+example_en: If you become a problem solver, you will be respected, needed, and unstoppable.
+example_kr_literal: 당신이 문제 해결사가 된다면, 당신은 존중받고, 필요로 하며, 멈출 수 없는 사람이 될 것입니다.
+
+[Card 10]
+headword: struggle
+part_of_speech: noun
+meaning_kr: 고군분투
+definition_en: a long and difficult experience or effort to achieve something
+definition_kr_literal: 무언가를 성취하기 위한 길고 어려운 경험이나 노력
+example_en: One hour a day of education can make you more powerful than 10 years of struggle.
+example_kr_literal: 하루 한 시간의 교육은 당신을 10년의 고생보다 더 강력하게 만들 수 있습니다.

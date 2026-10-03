@@ -1,0 +1,235 @@
+{
+  "version": 1,
+  "video_id": "4BAcluPUjVA",
+  "items": [
+    {
+      "id": "h01",
+      "source_sentence": "My children live far, but this week something special is happening.",
+      "kr_hint": "아이들은 멀리 살지만, 이번 주에는 특별한 일이 있습니다.",
+      "correct_chunks": [
+        "My children",
+        "live",
+        "far",
+        "but this week",
+        "something special",
+        "is happening"
+      ],
+      "distractors": [
+        "was happening",
+        "will be happening"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "is happening",
+        "alternatives": [
+          "was happening",
+          "will be happening"
+        ],
+        "note": "present progressive"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h02",
+      "source_sentence": "I thought, \"Maybe he doesn't like to talk, or maybe something is wrong.\".",
+      "kr_hint": "나는 '혹시 그가 말하는 걸 좋아하지 않거나, 아니면 무슨 문제가 있는 걸까?'라고 생각했다.",
+      "correct_chunks": [
+        "I",
+        "thought",
+        "Maybe he doesn't",
+        "like",
+        "to talk",
+        "or maybe",
+        "something is wrong"
+      ],
+      "distractors": [
+        "think",
+        "have thought"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "thought",
+        "alternatives": [
+          "think",
+          "have thought"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h03",
+      "source_sentence": "I wanted to say something, something true, something strong, but I stayed quiet.",
+      "kr_hint": "나는 무언가 진실하고 강한 말을 하고 싶었지만 가만히 있었다.",
+      "correct_chunks": [
+        "I",
+        "wanted",
+        "to say",
+        "something something true",
+        "something strong",
+        "but I",
+        "stayed",
+        "quiet"
+      ],
+      "distractors": [
+        "want",
+        "have wanted"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "wanted",
+        "alternatives": [
+          "want",
+          "have wanted"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h04",
+      "source_sentence": "If your wife still argues with you, it means she still feels something.",
+      "kr_hint": "만약 아내가 여전히 당신과 다툰다면, 그것은 그녀가 아직 감정을 느끼고 있다는 뜻입니다.",
+      "correct_chunks": [
+        "If your wife",
+        "still argues",
+        "with you",
+        "it",
+        "means",
+        "she",
+        "still feels",
+        "something"
+      ],
+      "distractors": [
+        "meant",
+        "has meant"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "means",
+        "alternatives": [
+          "meant",
+          "has meant"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h05",
+      "source_sentence": "I thought it was hate.\" I said, \"Maybe it was love.",
+      "kr_hint": "나는 그것이 증오라고 생각했어.\" 내가 말했다, \"어쩌면 그것은 사랑이었을지도 몰라.",
+      "correct_chunks": [
+        "I",
+        "thought",
+        "it",
+        "was",
+        "hate",
+        "I said",
+        "Maybe it",
+        "was",
+        "love"
+      ],
+      "distractors": [
+        "think",
+        "have thought"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "thought",
+        "alternatives": [
+          "think",
+          "have thought"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h06",
+      "source_sentence": "He held the letter in his hand, and then he opened it.",
+      "kr_hint": "그는 편지를 손에 들고 있었고, 그러고 나서 그것을 열었다.",
+      "correct_chunks": [
+        "He",
+        "held",
+        "the letter",
+        "in his hand and then",
+        "he",
+        "opened",
+        "it"
+      ],
+      "distractors": [
+        "holds",
+        "has held"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "held",
+        "alternatives": [
+          "holds",
+          "has held"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h07",
+      "source_sentence": "I asked, \"If today was your last chance, what would you do?\"?",
+      "kr_hint": "나는 \"만약 오늘이 당신의 마지막 기회라면, 무엇을 하겠습니까?\"라고 물었다?",
+      "correct_chunks": [
+        "I",
+        "asked",
+        "If today was",
+        "your last chance what",
+        "would",
+        "you",
+        "do"
+      ],
+      "distractors": [
+        "ask",
+        "have asked"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "asked",
+        "alternatives": [
+          "ask",
+          "have asked"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "?"
+    },
+    {
+      "id": "h08",
+      "source_sentence": "Maybe this trip was also about one ride, one broken man, one chance to speak, and one truth that I now believe more than ever.",
+      "kr_hint": "아마도 이번 여행은 한 번의 여정과 상처받은 한 남자, 말할 기회 한 번, 그리고 내가 이제 그 어느 때보다 더 믿게 된 하나의 진실에 관한 것이기도 했을 것이다.",
+      "correct_chunks": [
+        "Maybe this trip",
+        "was also",
+        "about one ride one",
+        "broken",
+        "man one chance",
+        "to speak",
+        "and one truth",
+        "that I now",
+        "believe more than ever"
+      ],
+      "distractors": [
+        "is",
+        "has been"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "was",
+        "alternatives": [
+          "is",
+          "has been"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    }
+  ]
+}

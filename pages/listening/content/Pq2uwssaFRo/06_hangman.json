@@ -1,0 +1,229 @@
+{
+  "version": 1,
+  "video_id": "Pq2uwssaFRo",
+  "items": [
+    {
+      "id": "h01",
+      "source_sentence": "You are destroying pieces of your life, because your time is your life.",
+      "kr_hint": "당신은 당신 인생의 조각들을 파괴하고 있는 것입니다, 왜냐하면 당신의 시간은 당신의 인생이기 때문입니다.",
+      "correct_chunks": [
+        "You",
+        "are destroying",
+        "pieces",
+        "of your life",
+        "because your time is",
+        "your life"
+      ],
+      "distractors": [
+        "were destroying",
+        "will be destroying"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "are destroying",
+        "alternatives": [
+          "were destroying",
+          "will be destroying"
+        ],
+        "note": "present progressive"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h02",
+      "source_sentence": "Your comfort zone is killing your dreams silently, because there is no growth in comfort.",
+      "kr_hint": "안락함 속에서는 성장이 없기 때문에 당신의 안전지대는 당신의 꿈을 조용히 죽이고 있습니다.",
+      "correct_chunks": [
+        "Your comfort zone",
+        "is killing",
+        "your dreams",
+        "silently",
+        "because there is",
+        "no growth",
+        "in comfort"
+      ],
+      "distractors": [
+        "was killing",
+        "will be killing"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "is killing",
+        "alternatives": [
+          "was killing",
+          "will be killing"
+        ],
+        "note": "present progressive"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h03",
+      "source_sentence": "You think so much that you become tired before even starting.",
+      "kr_hint": "당신은 너무 많이 생각해서 시작하기도 전에 지쳐 버립니다.",
+      "correct_chunks": [
+        "You",
+        "think",
+        "so much",
+        "that you",
+        "become",
+        "tired",
+        "before even starting"
+      ],
+      "distractors": [
+        "tir",
+        "have tired"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "tired",
+        "alternatives": [
+          "tir",
+          "have tired"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h04",
+      "source_sentence": "Willpower means doing the right thing, even when you don't feel like doing it.",
+      "kr_hint": "의지력이란 하고 싶지 않을 때조차 옳은 일을 하는 것을 의미합니다.",
+      "correct_chunks": [
+        "Willpower",
+        "means",
+        "doing the right",
+        "thing even",
+        "when you don't feel",
+        "like doing it"
+      ],
+      "distractors": [
+        "meant",
+        "has meant"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "means",
+        "alternatives": [
+          "meant",
+          "has meant"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h05",
+      "source_sentence": "If you keep comparing yourself to others, you will never be happy.",
+      "kr_hint": "당신이 계속해서 자신을 남들과 비교한다면 결코 행복해질 수 없을 것입니다.",
+      "correct_chunks": [
+        "If you keep",
+        "comparing yourself",
+        "to others",
+        "you",
+        "will never",
+        "be",
+        "happy"
+      ],
+      "distractors": [
+        "would will",
+        "wills"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "will",
+        "alternatives": [
+          "would will",
+          "wills"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h06",
+      "source_sentence": "If you want to speak fluent English, don't ask the one who's scared to open his mouth.",
+      "kr_hint": "영어를 유창하게 말하고 싶다면 입을 여는 것을 두려워하는 사람에게 묻지 마십시오.",
+      "correct_chunks": [
+        "If you want",
+        "to speak",
+        "fluent English don't",
+        "ask",
+        "the one who's",
+        "scared",
+        "to open",
+        "his mouth"
+      ],
+      "distractors": [
+        "scars",
+        "has scared"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "scared",
+        "alternatives": [
+          "scars",
+          "has scared"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h07",
+      "source_sentence": "Stop copying what everyone else is doing and start building your version of life.",
+      "kr_hint": "남들이 하는 행동을 따라 하는 것을 멈추고 당신만의 삶을 만들어 가기 시작하세요.",
+      "correct_chunks": [
+        "Stop",
+        "copying what",
+        "everyone else",
+        "is doing",
+        "and start",
+        "building your version",
+        "of life"
+      ],
+      "distractors": [
+        "was doing",
+        "will be doing"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "is doing",
+        "alternatives": [
+          "was doing",
+          "will be doing"
+        ],
+        "note": "present progressive"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h08",
+      "source_sentence": "But if you're not working, if you're not showing up, if you're not proving your worth, life will ignore you.",
+      "kr_hint": "하지만 노력하지 않고, 나타나지 않으며, 자신의 가치를 증명하지 않는다면 삶은 당신을 무시할 것입니다.",
+      "correct_chunks": [
+        "But if you're",
+        "not working if you're",
+        "not showing up",
+        "if you're",
+        "not proving your worth life",
+        "will",
+        "ignore you"
+      ],
+      "distractors": [
+        "would will",
+        "wills"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "will",
+        "alternatives": [
+          "would will",
+          "wills"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "."
+    }
+  ]
+}

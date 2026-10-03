@@ -1,0 +1,237 @@
+{
+  "version": 1,
+  "video_id": "vKKn7lO_Y6c",
+  "items": [
+    {
+      "id": "h01",
+      "source_sentence": "When you learn a new language, your brain tries to help you by using what it knows.",
+      "kr_hint": "새로운 언어를 배울 때, 당신의 뇌는 자신이 알고 있는 것을 사용하여 당신을 도우려고 합니다.",
+      "correct_chunks": [
+        "When you learn",
+        "a new language",
+        "your brain",
+        "tries",
+        "to help",
+        "you",
+        "by using what",
+        "it",
+        "knows"
+      ],
+      "distractors": [
+        "tried",
+        "has tried"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "tries",
+        "alternatives": [
+          "tried",
+          "has tried"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h02",
+      "source_sentence": "When your brain thinks in simple English, it thinks faster.",
+      "kr_hint": "당신의 뇌가 쉬운 영어로 생각할 때, 더 빠르게 생각합니다.",
+      "correct_chunks": [
+        "When your brain thinks",
+        "in simple English",
+        "it",
+        "thinks",
+        "faster"
+      ],
+      "distractors": [
+        "thought",
+        "has thought"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "thinks",
+        "alternatives": [
+          "thought",
+          "has thought"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h03",
+      "source_sentence": "When you are walking, when you are waiting, when you are sitting quietly, you can talk in your brain.",
+      "kr_hint": "걸을 때, 기다릴 때, 조용히 앉아 있을 때, 당신은 머릿속으로 말할 수 있다.",
+      "correct_chunks": [
+        "When you are walking",
+        "when you are waiting",
+        "when you are sitting quietly",
+        "you",
+        "can",
+        "talk",
+        "in your brain"
+      ],
+      "distractors": [
+        "could can",
+        "cans"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "can",
+        "alternatives": [
+          "could can",
+          "cans"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h04",
+      "source_sentence": "When you feel good with short sentences, you can try to make your sentences a little longer.",
+      "kr_hint": "짧은 문장이 편안하게 느껴지면 문장을 조금 더 길게 만들어 보세요.",
+      "correct_chunks": [
+        "When you feel",
+        "good",
+        "with short sentences",
+        "you",
+        "can try",
+        "to make",
+        "your sentences",
+        "a little longer"
+      ],
+      "distractors": [
+        "could try",
+        "tries"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "can try",
+        "alternatives": [
+          "could try",
+          "tries"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h05",
+      "source_sentence": "You need to give it small drops of practice every day, so it can grow strong.",
+      "kr_hint": "당신은 영어가 강하게 자랄 수 있도록 매일 조금씩 연습이라는 물방울을 주어야 합니다.",
+      "correct_chunks": [
+        "You",
+        "need",
+        "to give",
+        "it small drops",
+        "of practice",
+        "every day",
+        "so it",
+        "can grow",
+        "strong"
+      ],
+      "distractors": [
+        "could grow",
+        "grow"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "can grow",
+        "alternatives": [
+          "could grow",
+          "grow"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h06",
+      "source_sentence": "Your brain will learn to think in English, and one day, it will feel easy and natural.",
+      "kr_hint": "당신의 뇌는 영어로 생각하는 법을 배우게 될 것이고, 언젠가는 쉽고 자연스럽게 느껴질 것입니다.",
+      "correct_chunks": [
+        "Your brain",
+        "will learn",
+        "to think",
+        "in English and one day",
+        "it",
+        "will feel",
+        "easy and natural"
+      ],
+      "distractors": [
+        "would learn",
+        "learns"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "will learn",
+        "alternatives": [
+          "would learn",
+          "learns"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h07",
+      "source_sentence": "You are ready to share your ideas, and it will feel easier.",
+      "kr_hint": "당신은 자신의 생각을 공유할 준비가 되었고, 그것은 더 쉽게 느껴질 것입니다.",
+      "correct_chunks": [
+        "You",
+        "are",
+        "ready",
+        "to share",
+        "your ideas and it",
+        "will feel",
+        "easier"
+      ],
+      "distractors": [
+        "were",
+        "have been"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "are",
+        "alternatives": [
+          "were",
+          "have been"
+        ],
+        "note": "verb form"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h08",
+      "source_sentence": "Now you are ready to learn another secret that can change how you speak English.",
+      "kr_hint": "이제 여러분은 영어를 말하는 방식을 바꿀 수 있는 또 다른 비밀을 배울 준비가 되었습니다.",
+      "correct_chunks": [
+        "Now you",
+        "are",
+        "ready",
+        "to learn",
+        "another secret",
+        "that can change",
+        "how you",
+        "speak",
+        "English"
+      ],
+      "distractors": [
+        "is",
+        "was",
+        "has been"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "are",
+        "alternatives": [
+          "is",
+          "was",
+          "has been"
+        ],
+        "note": "verb form"
+      },
+      "final_punctuation": "."
+    }
+  ]
+}

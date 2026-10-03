@@ -1,0 +1,227 @@
+{
+  "version": 1,
+  "video_id": "gEZPVCbIuR0",
+  "items": [
+    {
+      "id": "h01",
+      "source_sentence": "Teacher, why can I understand English, but I cannot speak it?",
+      "kr_hint": "선생님, 왜 저는 영어를 이해할 수는 있는데 말할 수는 없는 건가요?",
+      "correct_chunks": [
+        "Teacher why",
+        "can I",
+        "understand",
+        "English",
+        "but I cannot",
+        "speak",
+        "it"
+      ],
+      "distractors": [
+        "could I",
+        "is"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "can I",
+        "alternatives": [
+          "could I",
+          "is"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "?"
+    },
+    {
+      "id": "h02",
+      "source_sentence": "If your brain only reads books, it becomes good at reading.",
+      "kr_hint": "만약 당신의 뇌가 책만 읽는다면, 읽기를 잘하게 됩니다.",
+      "correct_chunks": [
+        "If your brain",
+        "only reads",
+        "books",
+        "it",
+        "becomes",
+        "good",
+        "at reading"
+      ],
+      "distractors": [
+        "read",
+        "has read"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "reads",
+        "alternatives": [
+          "read",
+          "has read"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h03",
+      "source_sentence": "We want your brain to hear English, understand English, and answer in English.",
+      "kr_hint": "우리는 당신의 뇌가 영어를 듣고, 영어를 이해하고, 영어로 대답하기를 바랍니다.",
+      "correct_chunks": [
+        "We want",
+        "your brain",
+        "to hear",
+        "English",
+        "understand",
+        "English and answer",
+        "in English"
+      ],
+      "distractors": [
+        "englished",
+        "have englished"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "English",
+        "alternatives": [
+          "englished",
+          "have englished"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h04",
+      "source_sentence": "If you never speak, your brain never gets this training.",
+      "kr_hint": "만약 당신이 절대 말하지 않는다면, 당신의 뇌는 이런 훈련을 절대 받지 못합니다.",
+      "correct_chunks": [
+        "If you",
+        "never speak",
+        "your brain",
+        "never gets",
+        "this training"
+      ],
+      "distractors": [
+        "got",
+        "has gotten"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "gets",
+        "alternatives": [
+          "got",
+          "has gotten"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h05",
+      "source_sentence": "If you spend all your time memorizing grammar rules, your brain becomes very good at remembering grammar rules.",
+      "kr_hint": "만약 여러분이 모든 시간을 문법 규칙을 암기하는 데 쓴다면 여러분의 뇌는 문법 규칙을 기억하는 데 매우 능숙해집니다.",
+      "correct_chunks": [
+        "If you spend",
+        "all",
+        "your time",
+        "memorizing grammar rules",
+        "your brain",
+        "becomes",
+        "very good",
+        "at remembering grammar rules"
+      ],
+      "distractors": [
+        "became",
+        "has become"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "becomes",
+        "alternatives": [
+          "became",
+          "has become"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h06",
+      "source_sentence": "Every conversation helps reinforce the pathways inside your brain that makes speaking easier and faster.",
+      "kr_hint": "모든 대화는 말하기를 더 쉽고 빠르게 만드는 뇌 속의 경로를 강화하는 데 도움을 줍니다.",
+      "correct_chunks": [
+        "Every conversation",
+        "helps",
+        "reinforce",
+        "the pathways",
+        "inside your brain",
+        "that makes speaking",
+        "easier and faster"
+      ],
+      "distractors": [
+        "helped",
+        "has helped"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "helps",
+        "alternatives": [
+          "helped",
+          "has helped"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h07",
+      "source_sentence": "If you judge the tree only by what you could see above the ground, you might believe nothing important was happening.",
+      "kr_hint": "만약 당신이 나무를 지상에서 볼 수 있는 것으로만 판단한다면, 중요한 일이 아무것도 일어나지 않고 있다고 믿을지도 모릅니다.",
+      "correct_chunks": [
+        "If you judge",
+        "the tree",
+        "only",
+        "by what you could see above the ground you might believe",
+        "nothing important",
+        "was happening"
+      ],
+      "distractors": [
+        "is happening",
+        "will be happening"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "was happening",
+        "alternatives": [
+          "is happening",
+          "will be happening"
+        ],
+        "note": "past progressive"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h08",
+      "source_sentence": "Instead of remembering isolated vocabulary, your brain starts remembering complete language patterns.",
+      "kr_hint": "개별적인 어휘를 기억하는 대신, 여러분의 뇌는 완전한 언어 패턴을 기억하기 시작합니다.",
+      "correct_chunks": [
+        "Instead",
+        "of remembering isolated vocabulary",
+        "your brain",
+        "starts",
+        "remembering complete language",
+        "patterns"
+      ],
+      "distractors": [
+        "started",
+        "has started"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "starts",
+        "alternatives": [
+          "started",
+          "has started"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    }
+  ]
+}

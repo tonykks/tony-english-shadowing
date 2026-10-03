@@ -1,0 +1,31 @@
+[Sentence 1]
+EN: If you wait until your English is perfect, you may wait forever.
+KR: 여러분의 영어가 완벽해질 때까지 기다린다면, 영영 기다려야 할지도 모릅니다.
+
+[Sentence 2]
+EN: When you repeat something often, it becomes easier.
+KR: 무언가를 자주 반복하면 그것은 더 쉬워집니다.
+
+[Sentence 3]
+EN: These are small moments, but small moments become big progress.
+KR: 이것들은 작은 순간들이지만, 작은 순간들이 큰 발전을 이룬다.
+
+[Sentence 4]
+EN: If you speak for just 10 minutes every day, you will be surprised by your progress after a few months.
+KR: 매일 10분씩만 말하면, 몇 달 뒤 당신의 발전에 놀라게 될 것입니다.
+
+[Sentence 5]
+EN: Your confidence will grow gradually if you practice every day.
+KR: 매일 연습하면 당신의 자신감은 점차적으로 커질 것입니다.
+
+[Sentence 6]
+EN: If you have a positive mindset, you believe you can improve even when learning feels difficult.
+KR: 긍정적인 마인드셋을 가지고 있다면, 배우는 것이 어렵게 느껴질 때조차 당신은 발전할 수 있다고 믿습니다.
+
+[Sentence 7]
+EN: When you learn them as complete units, your brain no longer needs to build every sentence from the beginning.
+KR: 이것들을 통째로 배우면, 뇌가 더 이상 모든 문장을 처음부터 만들 필요가 없어집니다.
+
+[Sentence 8]
+EN: Every conversation strengthens your understanding, even when you cannot immediately see the results.
+KR: 당신이 당장 결과를 볼 수 없을 때조차 모든 대화는 당신의 이해력을 강화합니다.

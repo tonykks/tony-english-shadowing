@@ -1,0 +1,116 @@
+[Card 1]
+headword: understand
+part_of_speech: verb
+meaning_kr: 이해하다
+definition_en: to know the meaning of something
+definition_kr_literal: 무엇인가의 의미를 아는 것
+example_en: Teacher, why can I understand English, but I cannot speak it?
+example_kr_literal: 선생님, 왜 저는 영어를 이해할 수는 있는데 말할 수는 없는 걸까요?
+
+[Card 2]
+headword: habit
+part_of_speech: noun
+meaning_kr: 습관
+definition_en: something you do often and regularly
+definition_kr_literal: 자주 그리고 규칙적으로 하는 무언가
+example_en: Your brain is simply using the wrong habit.
+example_kr_literal: 당신의 뇌가 단순히 잘못된 습관을 사용하고 있는 것입니다.
+
+[Card 3]
+headword: practice
+part_of_speech: noun
+meaning_kr: 연습
+definition_en: doing something many times to get better at it
+definition_kr_literal: 더 잘하기 위해 무언가를 여러 번 하는 것
+example_en: The brain becomes stronger with practice.
+example_kr_literal: 뇌는 연습을 통해 더 강해집니다.
+
+[Card 4]
+headword: translate
+part_of_speech: verb
+meaning_kr: 번역하다
+definition_en: to change words from one language to another
+definition_kr_literal: 단어를 한 언어에서 다른 언어로 바꾸는 것
+example_en: His brain was translating every word.
+example_kr_literal: 그의 뇌는 모든 단어를 번역하고 있었습니다.
+
+[Card 5]
+headword: natural
+part_of_speech: adjective
+meaning_kr: 자연스러운
+definition_en: happening in a simple or normal way
+definition_kr_literal: 단순하거나 일반적인 방식으로 일어나는 것
+example_en: We want English to become natural.
+example_kr_literal: 우리는 영어가 자연스러워지기를 원합니다.
+
+[Card 6]
+headword: simple
+part_of_speech: adjective
+meaning_kr: 간단한
+definition_en: easy to understand or do
+definition_kr_literal: 이해하거나 하기 쉬운
+example_en: Speak with simple English.
+example_kr_literal: 쉬운 영어로 말하세요.
+
+[Card 7]
+headword: memory
+part_of_speech: noun
+meaning_kr: 기억력
+definition_en: the ability to remember things
+definition_kr_literal: 무언가를 기억하는 능력
+example_en: Anna believed she had a bad memory.
+example_kr_literal: 안나는 자신이 나쁜 기억력을 가졌다고 믿었습니다.
+
+[Card 8]
+headword: repeat
+part_of_speech: verb
+meaning_kr: 반복하다
+definition_en: to say or do something again
+definition_kr_literal: 무언가를 다시 말하거나 행하는 것
+example_en: You remember your address because you repeat it again and again.
+example_kr_literal: 당신은 주소를 반복해서 말하기 때문에 기억합니다.
+
+[Card 9]
+headword: imagine
+part_of_speech: verb
+meaning_kr: 상상하다
+definition_en: to form a picture in your mind
+definition_kr_literal: 마음속으로 그림을 그리는 것
+example_en: Imagine yourself speaking English for 1 minute without stopping.
+example_kr_literal: 멈추지 않고 1분 동안 영어로 말하는 자신의 모습을 상상해 보세요.
+
+[Card 10]
+headword: consistency
+part_of_speech: noun
+meaning_kr: 일관성
+definition_en: doing the same thing regularly over time
+definition_kr_literal: 시간을 두고 같은 일을 규칙적으로 하는 것
+example_en: It is not about perfection, but about consistency.
+example_kr_literal: 그것은 완벽함에 관한 것이 아니라 꾸준함에 관한 것입니다.
+
+[Card 11]
+headword: improve
+part_of_speech: verb
+meaning_kr: 향상하다
+definition_en: to become better at something
+definition_kr_literal: 무언가를 더 잘하게 되는 것
+example_en: Who will improve faster?
+example_kr_literal: 누가 더 빨리 향상될까요?
+
+[Card 12]
+headword: result
+part_of_speech: noun
+meaning_kr: 결과
+definition_en: something that happens because of an action
+definition_kr_literal: 어떤 행동 때문에 발생하는 일
+example_en: Small actions become big results.
+example_kr_literal: 작은 행동들이 큰 결과가 됩니다.
+
+[Card 13]
+headword: progress
+part_of_speech: noun
+meaning_kr: 진전
+definition_en: moving forward or getting better
+definition_kr_literal: 앞으로 나아가거나 더 나아지는 것
+example_en: Sometimes your progress is invisible.
+example_kr_literal: 때때로 당신의 진전은 눈에 보이지 않습니다.

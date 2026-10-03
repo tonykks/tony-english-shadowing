@@ -1,0 +1,31 @@
+[Sentence 1]
+EN: Teacher, why can I understand English, but I cannot speak it?
+KR: 선생님, 왜 저는 영어를 이해할 수는 있는데 말할 수는 없는 건가요?
+
+[Sentence 2]
+EN: If your brain only reads books, it becomes good at reading.
+KR: 만약 당신의 뇌가 책만 읽는다면, 읽기를 잘하게 됩니다.
+
+[Sentence 3]
+EN: We want your brain to hear English, understand English, and answer in English.
+KR: 우리는 당신의 뇌가 영어를 듣고, 영어를 이해하고, 영어로 대답하기를 바랍니다.
+
+[Sentence 4]
+EN: If you never speak, your brain never gets this training.
+KR: 만약 당신이 절대 말하지 않는다면, 당신의 뇌는 이런 훈련을 절대 받지 못합니다.
+
+[Sentence 5]
+EN: If you spend all your time memorizing grammar rules, your brain becomes very good at remembering grammar rules.
+KR: 만약 여러분이 모든 시간을 문법 규칙을 암기하는 데 쓴다면 여러분의 뇌는 문법 규칙을 기억하는 데 매우 능숙해집니다.
+
+[Sentence 6]
+EN: Every conversation helps reinforce the pathways inside your brain that makes speaking easier and faster.
+KR: 모든 대화는 말하기를 더 쉽고 빠르게 만드는 뇌 속의 경로를 강화하는 데 도움을 줍니다.
+
+[Sentence 7]
+EN: If you judge the tree only by what you could see above the ground, you might believe nothing important was happening.
+KR: 만약 당신이 나무를 지상에서 볼 수 있는 것으로만 판단한다면, 중요한 일이 아무것도 일어나지 않고 있다고 믿을지도 모릅니다.
+
+[Sentence 8]
+EN: Instead of remembering isolated vocabulary, your brain starts remembering complete language patterns.
+KR: 개별적인 어휘를 기억하는 대신, 여러분의 뇌는 완전한 언어 패턴을 기억하기 시작합니다.

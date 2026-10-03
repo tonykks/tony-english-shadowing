@@ -1,0 +1,89 @@
+[Card 1]
+headword: empty
+part_of_speech: adjective
+meaning_kr: 텅 빈
+definition_en: containing nothing, or feeling like your mind is not thinking of any words
+definition_kr_literal: 아무것도 들어 있지 않거나, 머릿속에 떠오르는 단어가 없다고 느끼는 상태
+example_en: When it is time to speak, your mind suddenly becomes empty.
+example_kr_literal: 말할 시간이 되면 갑자기 머릿속이 하얘집니다.
+
+[Card 2]
+headword: build
+part_of_speech: verb
+meaning_kr: 만들다
+definition_en: to create or put together something, like sentences or structures
+definition_kr_literal: 문장이나 구조처럼 무언가를 만들거나 조합하는 것
+example_en: They understand the grammar, but they cannot build a sentence fast enough.
+example_kr_literal: 그들은 문법은 이해하지만, 충분히 빠르게 문장을 만들지 못합니다.
+
+[Card 3]
+headword: familiar
+part_of_speech: adjective
+meaning_kr: 익숙한
+definition_en: known to you because you have heard or seen it many times before
+definition_kr_literal: 여러 번 보고 들어서 알고 있는 상태
+example_en: After hearing these phrases many times, they become familiar to you.
+example_kr_literal: 이 문구들을 여러 번 듣고 나면, 그것들이 익숙해집니다.
+
+[Card 4]
+headword: passive
+part_of_speech: adjective
+meaning_kr: 수동적인
+definition_en: not taking an active role; just watching or listening without doing anything
+definition_kr_literal: 주도적인 역할을 하지 않고, 아무것도 하지 않은 채 그저 보기만 하거나 듣기만 하는 것
+example_en: Do not think that listening is passive or unimportant because your brain is actually working.
+example_kr_literal: 듣는 것이 수동적이거나 중요하지 않다고 생각하지 마세요. 왜냐하면 당신의 뇌는 실제로 작동하고 있기 때문입니다.
+
+[Card 5]
+headword: foundation
+part_of_speech: noun
+meaning_kr: 기초
+definition_en: the basic ideas or structures that support something bigger
+definition_kr_literal: 더 큰 무언가를 지탱하는 기본적인 아이디어나 구조.
+example_en: Listening is one of the foundations of learning to speak a language.
+example_kr_literal: 듣기는 언어 말하기를 배우는 기초 중 하나입니다.
+
+[Card 6]
+headword: receive
+part_of_speech: verb
+meaning_kr: 받다
+definition_en: to get or take something that is being given to you
+definition_kr_literal: 주어지는 무언가를 얻거나 받아들이는 것.
+example_en: Your brain needs to receive enough English input before it can use it easily.
+example_kr_literal: 당신의 뇌는 그것을 쉽게 사용하기 전에 충분한 영어 입력을 받아들일 필요가 있습니다.
+
+[Card 7]
+headword: pattern
+part_of_speech: noun
+meaning_kr: 패턴
+definition_en: a repeated way that something is organized or happens
+definition_kr_literal: 무언가가 조직되거나 일어나는 반복적인 방식.
+example_en: When you hear different sentences, your brain begins to notice the pattern.
+example_kr_literal: 서로 다른 문장들을 들을 때, 당신의 뇌는 그 패턴을 알아차리기 시작합니다.
+
+[Card 8]
+headword: expression
+part_of_speech: noun
+meaning_kr: 표현
+definition_en: a common word or phrase that people use to communicate thoughts
+definition_kr_literal: 사람들이 생각을 전달하기 위해 사용하는 흔한 단어나 구절.
+example_en: Listening teaches you many common expressions that make your English sound natural.
+example_kr_literal: 듣기는 당신의 영어를 자연스럽게 들리게 만드는 많은 흔한 표현들을 가르쳐 줍니다.
+
+[Card 9]
+headword: rhythm
+part_of_speech: noun
+meaning_kr: 리듬
+definition_en: the musical pattern of sounds, speed, and stress in a language
+definition_kr_literal: 언어 속 소리, 속도, 그리고 강세의 음악적인 패턴
+example_en: You can read a book, but you cannot fully learn the natural rhythm of English without listening.
+example_kr_literal: 책을 읽을 수는 있지만, 듣지 않고는 영어의 자연스러운 리듬을 완전히 배울 수 없습니다.
+
+[Card 10]
+headword: wasted
+part_of_speech: adjective
+meaning_kr: 헛된
+definition_en: used in a way that produces no useful result
+definition_kr_literal: 유용한 결과를 만들어내지 못하는 방식으로 사용되는
+example_en: Sometimes quiet listening feels slow, but it is never wasted time.
+example_kr_literal: 때로는 조용히 듣는 것이 느리게 느껴질 수 있지만, 결코 헛된 시간은 아닙니다.

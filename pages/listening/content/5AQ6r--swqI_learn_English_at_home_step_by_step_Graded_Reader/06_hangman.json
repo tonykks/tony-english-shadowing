@@ -1,0 +1,226 @@
+{
+  "version": 1,
+  "video_id": "5AQ6r--swqI",
+  "items": [
+    {
+      "id": "h01",
+      "source_sentence": "Can I really speak fluently without going to a school?",
+      "kr_hint": "학원에 다니지 않고도 정말 유창하게 말할 수 있을까요?",
+      "correct_chunks": [
+        "Can I really",
+        "speak",
+        "fluently",
+        "without going",
+        "to a school"
+      ],
+      "distractors": [
+        "could I",
+        "is"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "Can I",
+        "alternatives": [
+          "could I",
+          "is"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "?"
+    },
+    {
+      "id": "h02",
+      "source_sentence": "My voice is not perfect, but it is my voice and it matters even if no one hears me.",
+      "kr_hint": "내 목소리가 완벽하지는 않지만, 그것은 나의 목소리이며 아무도 내 말을 듣지 않더라도 그 목소리는 중요합니다.",
+      "correct_chunks": [
+        "My voice",
+        "is not",
+        "perfect",
+        "but it",
+        "is",
+        "my voice and it",
+        "matters even",
+        "if no one hears",
+        "me"
+      ],
+      "distractors": [
+        "was",
+        "has been"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "is",
+        "alternatives": [
+          "was",
+          "has been"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h03",
+      "source_sentence": "It begins when you use your voice even when no one is listening.",
+      "kr_hint": "그것은 아무도 듣지 않을 때조차 당신이 목소리를 낼 때 시작됩니다.",
+      "correct_chunks": [
+        "It",
+        "begins",
+        "when you use",
+        "your voice",
+        "even",
+        "when no one is listening"
+      ],
+      "distractors": [
+        "began",
+        "has begun"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "begins",
+        "alternatives": [
+          "began",
+          "has begun"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h04",
+      "source_sentence": "I don't understand every word, but the voice is calm.",
+      "kr_hint": "모든 단어를 이해할 수는 없지만 목소리가 차분합니다.",
+      "correct_chunks": [
+        "I don't",
+        "understand",
+        "every word",
+        "but the voice",
+        "is",
+        "calm"
+      ],
+      "distractors": [
+        "were",
+        "have been"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "is",
+        "alternatives": [
+          "were",
+          "have been"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h05",
+      "source_sentence": "If I see that word again tomorrow, I will understand it better.",
+      "kr_hint": "내일 그 단어를 다시 보게 된다면, 더 잘 이해할 것이다.",
+      "correct_chunks": [
+        "If I see",
+        "that word again",
+        "tomorrow",
+        "I",
+        "will understand",
+        "it better"
+      ],
+      "distractors": [
+        "would understand",
+        "understands"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "will understand",
+        "alternatives": [
+          "would understand",
+          "understands"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h06",
+      "source_sentence": "It teaches you to be brave, to use your words, to not wait for others.",
+      "kr_hint": "그것은 당신에게 용기를 내고, 당신의 언어를 사용하며, 다른 사람들을 기다리지 말라고 가르칩니다.",
+      "correct_chunks": [
+        "It",
+        "teaches",
+        "you to",
+        "be",
+        "brave to use",
+        "your words",
+        "to not",
+        "wait",
+        "for others"
+      ],
+      "distractors": [
+        "taught",
+        "has taught"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "teaches",
+        "alternatives": [
+          "taught",
+          "has taught"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h07",
+      "source_sentence": "If it types the wrong word, I know I said it wrong.",
+      "kr_hint": "만약 전화기가 잘못된 단어를 입력하면, 제가 틀리게 말했다는 것을 압니다.",
+      "correct_chunks": [
+        "If it types",
+        "the wrong word",
+        "I",
+        "know",
+        "I said it wrong"
+      ],
+      "distractors": [
+        "knew",
+        "has known"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "know",
+        "alternatives": [
+          "knew",
+          "has known"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h08",
+      "source_sentence": "I remember a time when I didn't believe I could do this.",
+      "kr_hint": "나는 내가 이것을 할 수 있다고 믿지 않았던 때를 기억합니다.",
+      "correct_chunks": [
+        "I remember",
+        "a time",
+        "when I didn't believe",
+        "I",
+        "could do",
+        "this"
+      ],
+      "distractors": [
+        "can do",
+        "do"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "could do",
+        "alternatives": [
+          "can do",
+          "do"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "."
+    }
+  ]
+}

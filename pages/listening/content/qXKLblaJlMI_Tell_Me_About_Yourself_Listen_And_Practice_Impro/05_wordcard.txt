@@ -1,0 +1,89 @@
+[Card 1]
+headword: structure
+part_of_speech: noun
+meaning_kr: 구조
+definition_en: the way in which the parts of something are arranged or organized
+definition_kr_literal: 어떤 것의 구성 요소들이 배열되거나 조직된 방식.
+example_en: Without a clear structure, your answers may sound messy and confusing to the interviewer.
+example_kr_literal: 명확한 구조가 없으면 면접관에게 당신의 답변이 산만하고 혼란스럽게 들릴 수 있습니다.
+
+[Card 2]
+headword: confident
+part_of_speech: adjective
+meaning_kr: 자신감 있는
+definition_en: feeling sure about your own ability to do things well
+definition_kr_literal: 일을 잘 해낼 수 있다는 자신의 능력에 대해 확신하는 기분.
+example_en: You need to strike a balance between being confident and being humble during your interview.
+example_kr_literal: 면접 중에 자신감 있는 태도와 겸손한 태도 사이에서 균형을 잡아야 합니다.
+
+[Card 3]
+headword: memorize
+part_of_speech: verb
+meaning_kr: 암기하다
+definition_en: to learn something so that you remember it perfectly
+definition_kr_literal: 완벽하게 기억할 수 있도록 무언가를 배우는 것.
+example_en: If you memorize every word of your answer, you might sound like a robot.
+example_kr_literal: 답변의 모든 단어를 암기하면 로봇처럼 들릴 수 있습니다.
+
+[Card 4]
+headword: stiff
+part_of_speech: adjective
+meaning_kr: 딱딱한
+definition_en: behaving in a way that is not relaxed or friendly
+definition_kr_literal: 편안하거나 친근하지 않은 방식으로 행동하는 것.
+example_en: Trying to sound perfect often makes people appear stiff and unnatural.
+example_kr_literal: 완벽하게 들리려고 노력하는 것은 종종 사람들을 경직되고 부자연스럽게 보이게 만듭니다.
+
+[Card 5]
+headword: fateful
+part_of_speech: adjective
+meaning_kr: 운명적인
+definition_en: having an important and usually negative effect on what happens in the future
+definition_kr_literal: 앞으로 일어날 일에 중요하고 대개 부정적인 영향을 미치는
+example_en: I remember my fateful first job interview where I was so nervous that I could not speak.
+example_kr_literal: 나는 너무 긴장해서 말을 할 수 없었던 나의 운명적인 첫 면접을 기억한다.
+
+[Card 6]
+headword: follow-up
+part_of_speech: adjective
+meaning_kr: 후속의
+definition_en: happening or done after an earlier event to add more information
+definition_kr_literal: 더 많은 정보를 추가하기 위해 이전 사건 이후에 일어나거나 행해지는
+example_en: If the interviewer wants further detail about your experience, they will ask follow-up questions.
+example_kr_literal: 면접관이 당신의 경험에 대해 더 자세한 내용을 원한다면, 그들은 후속 질문을 할 것이다.
+
+[Card 7]
+headword: passionate
+part_of_speech: adjective
+meaning_kr: 열정적인
+definition_en: having or showing very strong feelings or excitement about something
+definition_kr_literal: 무언가에 대해 매우 강한 감정이나 흥분을 가지고 있거나 보여주는
+example_en: I have always been passionate about biology, which helped me focus on my science project.
+example_kr_literal: 나는 항상 생물학에 열정적이었고, 그것은 내가 과학 프로젝트에 집중하도록 도와주었다.
+
+[Card 8]
+headword: come across
+part_of_speech: phrasal verb
+meaning_kr: 인상을 주다
+definition_en: to seem or appear in a particular way to other people
+definition_kr_literal: 다른 사람들에게 특정한 방식으로 보이거나 나타나는
+example_en: If you speak too fast during an interview, you might come across as nervous to the interviewer.
+example_kr_literal: 면접 중에 너무 빨리 말하면, 면접관에게 긴장한 것처럼 보일 수 있다.
+
+[Card 9]
+headword: humble
+part_of_speech: adjective
+meaning_kr: 겸손한
+definition_en: not thinking that you are better or more important than other people
+definition_kr_literal: 자신이 다른 사람들보다 더 낫거나 더 중요하다고 생각하지 않는 것
+example_en: It is important to be humble about your achievements rather than sounding like you are bragging.
+example_kr_literal: 자랑하는 것처럼 들리기보다는 자신의 성취에 대해 겸손한 것이 중요합니다.
+
+[Card 10]
+headword: attention span
+part_of_speech: noun phrase
+meaning_kr: 주의 집중 시간
+definition_en: the length of time that someone can keep their thoughts focused on something
+definition_kr_literal: 어떤 것에 생각을 집중할 수 있는 시간의 길이
+example_en: Because human attention spans are getting shorter, you should keep your interview answers brief.
+example_kr_literal: 인간의 주의 집중 시간이 점점 짧아지고 있기 때문에, 면접 답변은 간결하게 유지해야 합니다.

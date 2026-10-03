@@ -1,0 +1,89 @@
+[Card 1]
+headword: comprehensible
+part_of_speech: adjective
+meaning_kr: 이해할 수 있는
+definition_en: able to be understood
+definition_kr_literal: 이해될 수 있는.
+example_en: The teacher gives us comprehensible input so we can learn English naturally.
+example_kr_literal: 선생님은 우리가 영어를 자연스럽게 배울 수 있도록 이해 가능한 입력을 제공합니다.
+
+[Card 2]
+headword: frustrated
+part_of_speech: adjective
+meaning_kr: 좌절감을 느끼는
+definition_en: feeling annoyed or upset because you cannot change or achieve something
+definition_kr_literal: 무언가를 바꾸거나 달성할 수 없어서 짜증이 나거나 속상한 느낌.
+example_en: Many students feel frustrated when they read books that are too difficult for them.
+example_kr_literal: 많은 학생은 자신에게 너무 어려운 책을 읽을 때 좌절감을 느낍니다.
+
+[Card 3]
+headword: consistent
+part_of_speech: adjective
+meaning_kr: 일관된
+definition_en: always acting or behaving in the same way; happening regularly
+definition_kr_literal: 항상 같은 방식으로 행동하거나 처신하는; 규칙적으로 일어나는.
+example_en: Small and consistent study habits are much more effective than studying for one long day.
+example_kr_literal: 작고 꾸준한 공부 습관이 하루를 길게 공부하는 것보다 훨씬 더 효과적입니다.
+
+[Card 4]
+headword: motivation
+part_of_speech: noun
+meaning_kr: 동기
+definition_en: the reason or desire someone has to do something
+definition_kr_literal: 누군가가 무언가를 하려는 이유나 열망.
+example_en: Finding English content about your favorite hobbies can help increase your motivation to study.
+example_kr_literal: 자신이 좋아하는 취미에 관한 영어 콘텐츠를 찾는 것은 공부에 대한 동기를 높이는 데 도움이 될 수 있습니다.
+
+[Card 5]
+headword: context
+part_of_speech: noun
+meaning_kr: 문맥
+definition_en: the words surrounding a particular word that help explain its meaning
+definition_kr_literal: 특정한 단어의 의미를 설명하는 데 도움을 주는 그 단어 주변의 말들
+example_en: If you see a new word, try to guess the meaning using the context of the sentence.
+example_kr_literal: 새로운 단어를 보면 문맥을 사용하여 그 의미를 추측해 보세요.
+
+[Card 6]
+headword: shadowing
+part_of_speech: noun
+meaning_kr: 쉐도잉
+definition_en: a technique where you listen to audio and repeat it immediately afterward
+definition_kr_literal: 오디오를 듣고 즉시 따라 말하는 기술
+example_en: Shadowing is a great way to practice the rhythm and sounds of a native speaker.
+example_kr_literal: 쉐도잉은 원어민의 리듬과 소리를 연습하기에 아주 좋은 방법입니다.
+
+[Card 7]
+headword: internalize
+part_of_speech: verb
+meaning_kr: 내면화하다
+definition_en: to make a habit or idea part of your own way of thinking
+definition_kr_literal: 습관이나 아이디어를 자신의 사고방식의 일부로 만드는 것
+example_en: After months of practice, she was able to internalize the grammar rules without even thinking.
+example_kr_literal: 수개월의 연습 끝에 그녀는 생각조차 하지 않고도 문법 규칙을 내면화할 수 있게 되었습니다.
+
+[Card 8]
+headword: structured
+part_of_speech: adjective
+meaning_kr: 구조화된
+definition_en: organized in a clear, logical, and formal way
+definition_kr_literal: 명확하고 논리적이며 격식 있는 방식으로 정리된
+example_en: Some students prefer structured classes where a teacher guides them step-by-step.
+example_kr_literal: 일부 학생들은 선생님이 단계별로 지도해 주는 구조화된 수업을 선호합니다.
+
+[Card 9]
+headword: hinder
+part_of_speech: verb
+meaning_kr: 방해하다
+definition_en: to make it difficult for someone to do something or for something to happen
+definition_kr_literal: 누군가가 무언가를 하기 어렵게 만들거나 무언가가 일어나기 어렵게 만드는 것
+example_en: Too much stress and boredom can actively hinder your ability to learn a new language.
+example_kr_literal: 너무 많은 스트레스와 지루함은 새로운 언어를 배우는 여러분의 능력을 적극적으로 방해할 수 있습니다.
+
+[Card 10]
+headword: accelerate
+part_of_speech: verb
+meaning_kr: 촉진하다
+definition_en: to make something happen faster or sooner
+definition_kr_literal: 무언가가 더 빠르거나 더 일찍 일어나도록 만드는 것
+example_en: Enjoyment tends to accelerate your learning because your brain is more relaxed.
+example_kr_literal: 즐거움은 뇌를 더 편안하게 만들기 때문에 학습을 가속화하는 경향이 있습니다.

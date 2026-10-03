@@ -1,0 +1,31 @@
+[Sentence 1]
+EN: Real conversations can help you learn English in a natural way.
+KR: 실제 대화는 여러분이 자연스러운 방식으로 영어를 배우도록 도울 수 있습니다.
+
+[Sentence 2]
+EN: In the same way, you do not become a confident speaker only by reading about English.
+KR: 이와 마찬가지로, 당신은 영어에 관해 읽는 것만으로는 자신감 있는 화자가 되지 않습니다.
+
+[Sentence 3]
+EN: He still made mistakes, but he answered faster.
+KR: 그는 여전히 실수를 했지만, 더 빠르게 대답했어요.
+
+[Sentence 4]
+EN: And when something is interesting, you often remember it better.
+KR: 그리고 무언가가 흥미로우면, 흔히 더 잘 기억하게 됩니다.
+
+[Sentence 5]
+EN: And if you do not have a partner, you can still prepare yourself for real conversations.
+KR: 그리고 만약 파트너가 없더라도, 당신은 여전히 실제 대화를 위해 스스로를 준비할 수 있습니다.
+
+[Sentence 6]
+EN: When we encounter information again and again, our brains become better at recognizing and retrieving it.
+KR: 우리가 정보를 거듭 마주칠 때, 우리의 뇌는 그것을 인식하고 인출하는 데 더 능숙해진다.
+
+[Sentence 7]
+EN: Language is often remembered more effectively when it is connected with people, places, emotions, and events.
+KR: 언어는 사람, 장소, 감정, 그리고 사건과 연결될 때 흔히 더 효과적으로 기억됩니다.
+
+[Sentence 8]
+EN: Your confidence begins to grow through experience rather than through waiting.
+KR: 당신의 자신감은 기다림보다는 경험을 통해 커지기 시작합니다.

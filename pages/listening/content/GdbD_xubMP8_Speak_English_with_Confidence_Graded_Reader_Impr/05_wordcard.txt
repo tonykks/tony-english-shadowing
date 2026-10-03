@@ -1,0 +1,107 @@
+[Card 1]
+headword: blank
+part_of_speech: adjective
+meaning_kr: 멍한
+definition_en: empty; having no thoughts or memories
+definition_kr_literal: 텅 빈; 아무런 생각이나 기억이 없는
+example_en: When I am nervous, my mind goes blank.
+example_kr_literal: 나는 긴장하면 머릿속이 하얘진다.
+
+[Card 2]
+headword: translate
+part_of_speech: verb
+meaning_kr: 번역하다
+definition_en: to change words from one language into another
+definition_kr_literal: 한 언어의 단어를 다른 언어로 바꾸는 것
+example_en: I am translating English words into my language.
+example_kr_literal: 나는 영어 단어를 내 모국어로 번역하고 있다.
+
+[Card 3]
+headword: repetition
+part_of_speech: noun
+meaning_kr: 반복
+definition_en: the act of doing something again and again
+definition_kr_literal: 무언가를 반복해서 하는 행위
+example_en: Confidence grows through repetition.
+example_kr_literal: 자신감은 반복을 통해 커진다.
+
+[Card 4]
+headword: fluent
+part_of_speech: adjective
+meaning_kr: 유창한
+definition_en: able to speak a language easily and correctly
+definition_kr_literal: 언어를 쉽고 정확하게 말할 수 있는
+example_en: Every fluent speaker was once a beginner.
+example_kr_literal: 유창하게 말하는 모든 사람도 한때는 초보자였다.
+
+[Card 5]
+headword: automatic
+part_of_speech: adjective
+meaning_kr: 무의식적인
+definition_en: done without thinking; happening by itself
+definition_kr_literal: 생각 없이 행해지는 것, 저절로 일어나는 것.
+example_en: These phrases become automatic after you practice.
+example_kr_literal: 이 문구들은 연습하면 자동적으로 나오게 됩니다.
+
+[Card 6]
+headword: embarrassed
+part_of_speech: adjective
+meaning_kr: 당혹스러운
+definition_en: feeling uncomfortable or ashamed
+definition_kr_literal: 불편하거나 부끄러움을 느끼는 것.
+example_en: Don't feel embarrassed when you make a mistake.
+example_kr_literal: 실수를 하더라도 당황해하지 마세요.
+
+[Card 7]
+headword: respect
+part_of_speech: noun
+meaning_kr: 존중
+definition_en: polite behavior toward someone
+definition_kr_literal: 누군가를 향한 예의 바른 행동.
+example_en: Using polite phrases shows respect to others.
+example_kr_literal: 예의 바른 문구를 사용하는 것은 타인에 대한 존중을 보여줍니다.
+
+[Card 8]
+headword: communication
+part_of_speech: noun
+meaning_kr: 의사소통
+definition_en: the act of sharing information or ideas
+definition_kr_literal: 정보나 아이디어를 공유하는 행위.
+example_en: Clear communication is better than perfect grammar.
+example_kr_literal: 명확한 의사소통이 완벽한 문법보다 더 낫습니다.
+
+[Card 9]
+headword: pace
+part_of_speech: noun
+meaning_kr: 속도
+definition_en: the speed at which you do something
+definition_kr_literal: 무언가를 하는 속도
+example_en: The pace of your speech helps people understand you.
+example_kr_literal: 말하기 속도는 사람들이 당신을 이해하는 데 도움을 줍니다.
+
+[Card 10]
+headword: pattern
+part_of_speech: noun
+meaning_kr: 패턴
+definition_en: a way of doing something that repeats
+definition_kr_literal: 반복되는 어떤 일을 하는 방식
+example_en: Once you learn the pattern, conversation becomes easier.
+example_kr_literal: 일단 패턴을 배우면 대화가 더 쉬워집니다.
+
+[Card 11]
+headword: describe
+part_of_speech: verb
+meaning_kr: 묘사하다
+definition_en: to say what someone or something is like
+definition_kr_literal: 누군가나 무언가가 어떤지 말하는 것
+example_en: If you forget a word, you can describe it instead.
+example_kr_literal: 단어가 생각나지 않으면 대신 그것을 설명할 수 있습니다.
+
+[Card 12]
+headword: technique
+part_of_speech: noun
+meaning_kr: 기술
+definition_en: a special way of doing a task
+definition_kr_literal: 과업을 수행하는 특별한 방식
+example_en: You can use this technique to speak more freely.
+example_kr_literal: 더 자유롭게 말하기 위해 이 기술을 사용할 수 있습니다.

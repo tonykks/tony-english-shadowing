@@ -1,0 +1,31 @@
+[Sentence 1]
+EN: I was happy because Tom was with me.
+KR: 나는 톰이 나와 함께 있어서 행복했다.
+
+[Sentence 2]
+EN: Tom went to the hospital, but the doctor could not save him.
+KR: 톰은 병원에 갔지만, 의사는 그를 살릴 수 없었다.
+
+[Sentence 3]
+EN: I wanted her to smile again, but I knew it would take time.
+KR: 나는 그녀가 다시 웃기를 바랐지만, 시간이 걸릴 것임을 알고 있었다.
+
+[Sentence 4]
+EN: We were not the best team, but we had fun.
+KR: 우리가 최고의 팀은 아니었지만, 우리는 즐거웠다.
+
+[Sentence 5]
+EN: When I finished, I gave it to the teacher.
+KR: 내가 끝냈을 때, 나는 그것을 선생님께 드렸다.
+
+[Sentence 6]
+EN: I sat on the bench where Tom and I always sat.
+KR: 나는 톰과 내가 항상 앉던 벤치에 앉았다.
+
+[Sentence 7]
+EN: After the game, the coach called my name.
+KR: 경기가 끝난 후, 코치님이 내 이름을 불렀다.
+
+[Sentence 8]
+EN: A tear came down my face, but I didn't feel weak.
+KR: 눈물 한 방울이 얼굴을 타고 흘러내렸지만, 나는 나약함을 느끼지 않았다.

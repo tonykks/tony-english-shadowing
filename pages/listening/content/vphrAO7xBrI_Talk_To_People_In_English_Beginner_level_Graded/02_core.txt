@@ -1,0 +1,31 @@
+[Sentence 1]
+EN: I want to tell you something important today.
+KR: 오늘 여러분께 중요한 이야기를 하나 하고 싶습니다.
+
+[Sentence 2]
+EN: People who practiced speaking, even with mistakes, improved much faster than people who only studied grammar books.
+KR: 실수를 하더라도 직접 말하기 연습을 한 사람들이 문법책만 공부한 사람들보다 훨씬 더 빠르게 향상되었습니다.
+
+[Sentence 3]
+EN: Without talking, you can know a thousand words and still feel stuck.
+KR: 말하기 없이는 천 개의 단어를 알아도 여전히 막힌 느낌을 받을 수 있습니다.
+
+[Sentence 4]
+EN: He froze up completely when the interviewer asked him a hard question.
+KR: 면접관이 어려운 질문을 던지자 그는 완전히 얼어붙었습니다.
+
+[Sentence 5]
+EN: You do not need flawless English in order to talk to people.
+KR: 사람들과 대화하기 위해 완벽한 영어가 필요한 것은 아닙니다.
+
+[Sentence 6]
+EN: They assume that if they make a mistake, others will laugh at them or consider them foolish.
+KR: 그들은 만약 자신이 실수를 하면 다른 사람들이 비웃거나 자신을 어리석다고 생각할 것이라고 가정합니다.
+
+[Sentence 7]
+EN: Learners who practice speaking regularly, mistakes and all, progressed far more rapidly than those who confined themselves to grammar textbooks alone.
+KR: 실수를 하더라도 꾸준히 말하기 연습을 하는 학습자들이 문법 교재에만 국한된 사람들보다 훨씬 더 빠르게 발전했습니다.
+
+[Sentence 8]
+EN: She still made mistakes, of course, but she kept talking again and again.
+KR: 물론 여전히 실수는 했지만, 그녀는 계속해서 반복해서 말했다.

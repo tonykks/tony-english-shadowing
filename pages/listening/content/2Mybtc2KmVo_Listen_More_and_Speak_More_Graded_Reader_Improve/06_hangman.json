@@ -1,0 +1,235 @@
+{
+  "version": 1,
+  "video_id": "2Mybtc2KmVo",
+  "items": [
+    {
+      "id": "h01",
+      "source_sentence": "Do you study English every day, but when it is time to speak, your mind suddenly becomes empty?",
+      "kr_hint": "매일 영어를 공부하는데 정작 말을 할 시간이 되면 머릿속이 갑자기 하얘지나요?",
+      "correct_chunks": [
+        "Do",
+        "you study English",
+        "every day",
+        "but when it is",
+        "time",
+        "to speak",
+        "your mind suddenly",
+        "becomes",
+        "empty"
+      ],
+      "distractors": [
+        "did",
+        "has done"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "Do",
+        "alternatives": [
+          "did",
+          "has done"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "?"
+    },
+    {
+      "id": "h02",
+      "source_sentence": "They understand the grammar, but they cannot build a sentence fast enough.",
+      "kr_hint": "그들은 문법은 이해하지만, 문장을 충분히 빠르게 만들지 못합니다.",
+      "correct_chunks": [
+        "They",
+        "understand",
+        "the grammar",
+        "but they cannot",
+        "build",
+        "a sentence fast enough"
+      ],
+      "distractors": [
+        "theyed",
+        "have theyed"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "They",
+        "alternatives": [
+          "theyed",
+          "have theyed"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h03",
+      "source_sentence": "You cannot easily use a language that your brain has not heard enough times.",
+      "kr_hint": "여러분은 뇌가 충분히 많이 듣지 못한 언어를 쉽게 사용할 수 없습니다.",
+      "correct_chunks": [
+        "You cannot easily",
+        "use",
+        "a language",
+        "that your brain",
+        "has not",
+        "heard",
+        "enough times"
+      ],
+      "distractors": [
+        "have",
+        "had"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "has",
+        "alternatives": [
+          "have",
+          "had"
+        ],
+        "note": "present perfect"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h04",
+      "source_sentence": "Listening also teaches you how English sentences are built.",
+      "kr_hint": "듣기는 또한 영어 문장이 어떻게 구성되는지를 가르쳐 줍니다.",
+      "correct_chunks": [
+        "Listening also",
+        "teaches",
+        "you",
+        "how",
+        "English sentences",
+        "are built"
+      ],
+      "distractors": [
+        "taught",
+        "has taught"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "teaches",
+        "alternatives": [
+          "taught",
+          "has taught"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h05",
+      "source_sentence": "You can read a sentence 100 times and still not know exactly how it sounds in a real conversation.",
+      "kr_hint": "문장을 100번 읽어도 실제 대화에서 그것이 정확히 어떻게 들리는지 여전히 모를 수 있습니다.",
+      "correct_chunks": [
+        "You",
+        "can read",
+        "a sentence 100 times and still",
+        "not know",
+        "exactly",
+        "how",
+        "it",
+        "sounds",
+        "in a real conversation"
+      ],
+      "distractors": [
+        "could read",
+        "read"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "can read",
+        "alternatives": [
+          "could read",
+          "read"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h06",
+      "source_sentence": "When you listen to something you can mostly understand, your brain feels calmer.",
+      "kr_hint": "대부분 이해할 수 있는 내용을 들을 때 당신의 뇌는 더 차분함을 느낍니다.",
+      "correct_chunks": [
+        "When you listen to",
+        "something you",
+        "can",
+        "mostly",
+        "understand",
+        "your brain",
+        "feels",
+        "calmer"
+      ],
+      "distractors": [
+        "could can",
+        "cans"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "can",
+        "alternatives": [
+          "could can",
+          "cans"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h07",
+      "source_sentence": "Easy content helps you build the foundation you need for more difficult English later.",
+      "kr_hint": "쉬운 콘텐츠는 나중에 더 어려운 영어를 하기 위해 필요한 기초를 쌓도록 도와줍니다.",
+      "correct_chunks": [
+        "Easy content helps",
+        "you",
+        "build",
+        "the foundation",
+        "you",
+        "need",
+        "for more difficult",
+        "English later"
+      ],
+      "distractors": [
+        "helped",
+        "has helped"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "Easy content helps",
+        "alternatives": [
+          "helped",
+          "has helped"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h08",
+      "source_sentence": "The faster you use a useful phrase, the easier it becomes to remember.",
+      "kr_hint": "유용한 표현을 빨리 사용할수록 기억하기가 더 쉬워집니다.",
+      "correct_chunks": [
+        "The faster",
+        "you",
+        "use",
+        "a useful phrase",
+        "the easier",
+        "it",
+        "becomes",
+        "to remember"
+      ],
+      "distractors": [
+        "became",
+        "has become"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "becomes",
+        "alternatives": [
+          "became",
+          "has become"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    }
+  ]
+}

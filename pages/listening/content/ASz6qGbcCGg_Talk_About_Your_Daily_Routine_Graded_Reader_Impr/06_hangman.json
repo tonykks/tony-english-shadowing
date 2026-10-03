@@ -1,0 +1,234 @@
+{
+  "version": 1,
+  "video_id": "ASz6qGbcCGg",
+  "items": [
+    {
+      "id": "h01",
+      "source_sentence": "Have you ever wanted to talk about your day in English, but you didn't know where to start?",
+      "kr_hint": "영어로 오늘 있었던 일을 이야기하고 싶은데, 어디서부터 시작해야 할지 몰랐던 적 있나요?",
+      "correct_chunks": [
+        "Have",
+        "you",
+        "ever wanted",
+        "to talk",
+        "about your day",
+        "in English",
+        "but you didn't",
+        "know",
+        "where to start"
+      ],
+      "distractors": [
+        "has",
+        "had"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "Have",
+        "alternatives": [
+          "has",
+          "had"
+        ],
+        "note": "present perfect"
+      },
+      "final_punctuation": "?"
+    },
+    {
+      "id": "h02",
+      "source_sentence": "You just need to start small and build your story from the moment you wake up to the moment you go to bed.",
+      "kr_hint": "작게 시작해서 잠에서 깨어나는 순간부터 잠자리에 드는 순간까지의 이야기를 만들어 나가기만 하면 됩니다.",
+      "correct_chunks": [
+        "You",
+        "just need",
+        "to start small",
+        "and build your story",
+        "from the moment you wake",
+        "up to",
+        "the moment you",
+        "go",
+        "to bed"
+      ],
+      "distractors": [
+        "youed",
+        "have youed"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "You",
+        "alternatives": [
+          "youed",
+          "have youed"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h03",
+      "source_sentence": "When language is connected to your life, it stays in your memory.",
+      "kr_hint": "언어가 당신의 삶과 연결될 때, 그것은 당신의 기억 속에 남습니다.",
+      "correct_chunks": [
+        "When language is connected",
+        "to your life",
+        "it",
+        "stays",
+        "in your memory"
+      ],
+      "distractors": [
+        "stayed",
+        "has stayed"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "stays",
+        "alternatives": [
+          "stayed",
+          "has stayed"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h04",
+      "source_sentence": "If you can describe your routine, you can build the habit of speaking.",
+      "kr_hint": "당신의 일상을 묘사할 수 있다면, 말하기 습관을 기를 수 있습니다.",
+      "correct_chunks": [
+        "If you can",
+        "describe",
+        "your routine",
+        "you",
+        "can build",
+        "the habit",
+        "of speaking"
+      ],
+      "distractors": [
+        "could build",
+        "builds"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "can build",
+        "alternatives": [
+          "could build",
+          "builds"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h05",
+      "source_sentence": "As you get dressed or brush your teeth, say each step in English.",
+      "kr_hint": "옷을 입거나 양치질을 할 때 각 단계를 영어로 말해 보세요.",
+      "correct_chunks": [
+        "As",
+        "you",
+        "get",
+        "dressed",
+        "or brush",
+        "your teeth say",
+        "each step",
+        "in English"
+      ],
+      "distractors": [
+        "dresses",
+        "has dressed"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "dressed",
+        "alternatives": [
+          "dresses",
+          "has dressed"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h06",
+      "source_sentence": "And because you do them every day, they're easy to remember.",
+      "kr_hint": "그리고 여러분이 그것들을 매일 하기 때문에 기억하기 쉽습니다.",
+      "correct_chunks": [
+        "And because you do",
+        "them",
+        "every day they're easy",
+        "to remember"
+      ],
+      "distractors": [
+        "did",
+        "has done"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "And because you do",
+        "alternatives": [
+          "did",
+          "has done"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h07",
+      "source_sentence": "This is a simple paragraph, but it sounds like something a native speaker would say.",
+      "kr_hint": "이것은 간단한 단락이지만 원어민이 말할 법한 내용처럼 들린다.",
+      "correct_chunks": [
+        "This",
+        "is",
+        "a simple paragraph",
+        "but it",
+        "sounds",
+        "like something",
+        "a native speaker",
+        "would",
+        "say"
+      ],
+      "distractors": [
+        "was",
+        "has been"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "is",
+        "alternatives": [
+          "was",
+          "has been"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h08",
+      "source_sentence": "Keep going, and soon you'll be able to describe your whole day in English from morning to night.",
+      "kr_hint": "계속하다 보면 곧 아침부터 밤까지 하루 전체를 영어로 묘사할 수 있게 될 것입니다.",
+      "correct_chunks": [
+        "Keep",
+        "going and soon you'll",
+        "be",
+        "able",
+        "to describe",
+        "your whole day",
+        "in English",
+        "from morning",
+        "to night"
+      ],
+      "distractors": [
+        "was",
+        "has been"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "be",
+        "alternatives": [
+          "was",
+          "has been"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    }
+  ]
+}

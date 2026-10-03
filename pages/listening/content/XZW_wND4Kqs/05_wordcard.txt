@@ -1,0 +1,89 @@
+[Card 1]
+headword: discipline
+part_of_speech: noun
+meaning_kr: 절제
+definition_en: the ability to control your behavior and work hard in a planned way
+definition_kr_literal: 자신의 행동을 통제하고 계획적인 방식으로 열심히 일하는 능력
+example_en: This one simple discipline, waking up at the same time every day, builds inner power.
+example_kr_literal: 매일 같은 시간에 일어나는 이 하나의 단순한 규율이 내면의 힘을 길러줍니다.
+
+[Card 2]
+headword: sharper
+part_of_speech: adjective
+meaning_kr: 예리한
+definition_en: having a more active, clear, or focused mind
+definition_kr_literal: 더 활기차고, 맑거나, 집중력이 높은 정신 상태
+example_en: When you wake up on time every day, your brain becomes faster, sharper, and more focused.
+example_kr_literal: 매일 제시간에 일어나면 뇌는 더 빠르고, 날카롭고, 더 집중하게 됩니다.
+
+[Card 3]
+headword: non-negotiable
+part_of_speech: adjective
+meaning_kr: 협상의 여지가 없는
+definition_en: something that cannot be changed or ignored under any circumstances
+definition_kr_literal: 어떠한 상황에서도 바꿀 수 없거나 무시할 수 없는 것
+example_en: Choose your time, and make that waking time non-negotiable every single day.
+example_kr_literal: 기상 시간을 정하고, 그 기상 시간을 매일 절대 변경할 수 없는 것으로 만드세요.
+
+[Card 4]
+headword: snooze
+part_of_speech: verb
+meaning_kr: 스누즈하다
+definition_en: to press a button on an alarm clock to stop it temporarily so you can sleep for a few more minutes
+definition_kr_literal: 알람 시계의 버튼을 눌러 잠시 멈추고 몇 분 더 잘 수 있게 하는 것
+example_en: When the alarm rings, your hand reaches out to snooze, but that choice often leads to chaos.
+example_kr_literal: 알람이 울리면 손이 뻗어 스누즈 버튼을 누르게 되지만, 그 선택은 종종 혼란을 초래합니다.
+
+[Card 5]
+headword: foundation
+part_of_speech: noun
+meaning_kr: 기반
+definition_en: the basic ideas or structures that something is built upon
+definition_kr_literal: 무언가가 그 위에 세워지는 기본적인 아이디어나 구조.
+example_en: Protect your morning mind like gold because that first hour is your foundation.
+example_kr_literal: 아침의 정신을 금처럼 소중히 보호하세요. 그 첫 한 시간이 당신의 기반이기 때문입니다.
+
+[Card 6]
+headword: anxious
+part_of_speech: adjective
+meaning_kr: 불안해하는
+definition_en: feeling very worried or nervous about something
+definition_kr_literal: 무언가에 대해 매우 걱정하거나 긴장하는 느낌.
+example_en: Checking stressful messages on your phone right after waking up makes you feel anxious and tired.
+example_kr_literal: 잠에서 깨자마자 휴대전화로 스트레스를 주는 메시지를 확인하는 것은 당신을 불안하고 피곤하게 만듭니다.
+
+[Card 7]
+headword: crave
+part_of_speech: verb
+meaning_kr: 갈망하다
+definition_en: to have a very strong desire for something
+definition_kr_literal: 무언가에 대해 매우 강한 열망을 가지는 것.
+example_en: At first, your brain will feel uncomfortable and crave the dopamine from your phone.
+example_kr_literal: 처음에는 당신의 뇌가 불편함을 느끼고 휴대전화에서 나오는 도파민을 갈망할 것입니다.
+
+[Card 8]
+headword: urgent
+part_of_speech: adjective
+meaning_kr: 긴급한
+definition_en: needing attention or action very quickly
+definition_kr_literal: 매우 빠르게 주의나 행동이 필요한 것.
+example_en: Many people waste their day doing small tasks that feel urgent but are not important.
+example_kr_literal: 많은 사람들은 긴급하게 느껴지지만 중요하지는 않은 작은 일들을 하며 하루를 낭비합니다.
+
+[Card 9]
+headword: unmotivated
+part_of_speech: adjective
+meaning_kr: 동기 부여가 안 된
+definition_en: lacking the interest or desire to do something
+definition_kr_literal: 무언가를 하려는 흥미나 의욕이 부족한 상태.
+example_en: If you feed your brain negativity, you will wonder why you still feel unmotivated.
+example_kr_literal: 당신의 뇌에 부정적인 것들을 주입한다면, 왜 여전히 의욕이 생기지 않는지 의아해하게 될 것입니다.
+
+[Card 10]
+headword: unstoppable
+part_of_speech: adjective
+meaning_kr: 막을 수 없는
+definition_en: impossible to prevent or stop from achieving success
+definition_kr_literal: 성공을 달성하는 것을 막거나 멈출 수 없는 상태.
+example_en: If you watch this video from beginning to end, you will become truly unstoppable.
+example_kr_literal: 이 영상을 처음부터 끝까지 시청한다면, 당신은 진정으로 막을 수 없는 사람이 될 것입니다.

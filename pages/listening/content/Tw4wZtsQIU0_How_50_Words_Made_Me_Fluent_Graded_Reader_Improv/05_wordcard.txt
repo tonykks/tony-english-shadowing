@@ -1,0 +1,89 @@
+[Card 1]
+headword: fluent
+part_of_speech: adjective
+meaning_kr: 유창한
+definition_en: able to speak or write a language easily and well
+definition_kr_literal: 언어를 쉽고 능숙하게 말하거나 쓸 수 있는
+example_en: What if you did not need thousands of English words to become fluent?
+example_kr_literal: 유창해지기 위해 수천 개의 영어 단어가 필요하지 않다면 어떨까요?
+
+[Card 2]
+headword: simple
+part_of_speech: adjective
+meaning_kr: 간단한
+definition_en: easy to understand or do
+definition_kr_literal: 이해하거나 하기에 쉬운
+example_en: I learned to think in simple English.
+example_kr_literal: 나는 쉬운 영어로 생각하는 법을 배웠습니다.
+
+[Card 3]
+headword: master
+part_of_speech: verb
+meaning_kr: 통달하다
+definition_en: to learn or understand something completely
+definition_kr_literal: 무언가를 완전히 배우거나 이해하는 것
+example_en: I started mastering a small group of powerful words.
+example_kr_literal: 나는 소수의 강력한 단어들을 완전히 익히기 시작했습니다.
+
+[Card 4]
+headword: confidence
+part_of_speech: noun
+meaning_kr: 자신감
+definition_en: the belief that you can do things well
+definition_kr_literal: 일을 잘 해낼 수 있다는 믿음
+example_en: I started to speak with more confidence.
+example_kr_literal: 나는 더 자신감 있게 말하기 시작했습니다.
+
+[Card 5]
+headword: translate
+part_of_speech: verb
+meaning_kr: 번역하다
+definition_en: to change words from one language into another
+definition_kr_literal: 한 언어의 단어를 다른 언어로 바꾸는 것
+example_en: I wanted to stop translating every thought into English.
+example_kr_literal: 나는 모든 생각을 영어로 번역하는 것을 멈추고 싶었다.
+
+[Card 6]
+headword: describe
+part_of_speech: verb
+meaning_kr: 묘사하다
+definition_en: to say what someone or something is like
+definition_kr_literal: 누군가나 무언가가 어떤지를 말하는 것
+example_en: I started looking around and describing people in simple English.
+example_kr_literal: 나는 주위를 둘러보며 사람들을 쉬운 영어로 묘사하기 시작했다.
+
+[Card 7]
+headword: connect
+part_of_speech: verb
+meaning_kr: 연결하다
+definition_en: to join or link two or more things together
+definition_kr_literal: 둘 이상의 것을 합치거나 연결하는 것
+example_en: Try to connect the word with something real.
+example_kr_literal: 단어를 실제 무언가와 연결해 보세요.
+
+[Card 8]
+headword: memorize
+part_of_speech: verb
+meaning_kr: 암기하다
+definition_en: to learn something so that you remember it perfectly
+definition_kr_literal: 완벽하게 기억할 수 있도록 무언가를 배우는 것
+example_en: Instead of memorizing one sentence, I learned how to build sentences.
+example_kr_literal: 한 문장을 외우는 대신, 나는 문장을 만드는 법을 배웠다.
+
+[Card 9]
+headword: communicate
+part_of_speech: verb
+meaning_kr: 의사소통하다
+definition_en: to share information or feelings with others
+definition_kr_literal: 다른 사람들과 정보나 감정을 공유하는 것
+example_en: I had communicated with another person in English.
+example_kr_literal: 나는 다른 사람과 영어로 의사소통한 적이 있었다.
+
+[Card 10]
+headword: beginner
+part_of_speech: noun
+meaning_kr: 초보자
+definition_en: a person who is starting to learn or do something
+definition_kr_literal: 무언가를 배우거나 시작하는 사람
+example_en: If you are a beginner, do not feel bad about your English.
+example_kr_literal: 당신이 초보자라면, 영어에 대해 기분 나빠하지 마세요.

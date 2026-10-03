@@ -1,0 +1,31 @@
+[Sentence 1]
+EN: This is completely natural, but it's also remarkably slow and it can leave you feeling self-conscious about your English abilities.
+KR: 이것은 완전히 자연스러운 일이지만, 또한 매우 느리고 영어 실력에 대해 자의식을 느끼게 만들 수 있습니다.
+
+[Sentence 2]
+EN: Countless students fall into it, often without realizing.
+KR: 수많은 학생들이 종종 자신이 그러고 있다는 것도 모른 채 이 덫에 빠진다.
+
+[Sentence 3]
+EN: Do you genuinely need to understand every single word in order to comprehend meaning?
+KR: 의미를 이해하기 위해서 모든 단어를 정말로 다 알아야 할까요?
+
+[Sentence 4]
+EN: If you understand 90% of a sentence, comprehension is well within reach.
+KR: 문장의 90%를 이해한다면, 이해는 충분히 가능한 범위 안에 있습니다.
+
+[Sentence 5]
+EN: Gradually, the baby links those sounds to objects, sensations, and actions.
+KR: 점차 아기는 그 소리들을 사물, 감각, 그리고 행동과 연결합니다.
+
+[Sentence 6]
+EN: When you glance at a cup, simply think cup, not the equivalent word in your native language, just cup directly.
+KR: 컵을 볼 때 모국어로 된 단어를 떠올리지 말고 단순히 컵이라고만 생각하세요, 바로 컵이라고 말이죠.
+
+[Sentence 7]
+EN: Rather than grinding to a halt, simply say the thing you use when it rains.
+KR: 말문이 막히는 대신 비가 올 때 사용하는 물건이라고 간단히 말하세요.
+
+[Sentence 8]
+EN: Silence is if fear of error keeps you silent, your progress will inevitably stagnate.
+KR: 침묵은 만약 실수에 대한 두려움이 당신을 침묵하게 만든다면, 당신의 발전은 필연적으로 정체될 것입니다.

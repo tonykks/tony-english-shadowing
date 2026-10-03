@@ -1,0 +1,240 @@
+{
+  "version": 1,
+  "video_id": "EAZsMx1PanQ",
+  "items": [
+    {
+      "id": "h01",
+      "source_sentence": "Why do some people study English for years, but still cannot speak confidently, while others start speaking much faster?",
+      "kr_hint": "왜 어떤 사람들은 영어를 수년간 공부하고도 자신 있게 말하지 못하는 반면, 다른 사람들은 훨씬 더 빨리 말하기 시작할까요?",
+      "correct_chunks": [
+        "Why",
+        "do",
+        "some people study English",
+        "for years",
+        "but still cannot",
+        "speak",
+        "confidently",
+        "while others start",
+        "speaking much faster"
+      ],
+      "distractors": [
+        "did",
+        "has done"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "do",
+        "alternatives": [
+          "did",
+          "has done"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "?"
+    },
+    {
+      "id": "h02",
+      "source_sentence": "No matter how much he learned, he always found a reason to postpone speaking.",
+      "kr_hint": "아무리 많이 배워도 그는 항상 말하기를 미룰 이유를 찾아냈습니다.",
+      "correct_chunks": [
+        "No matter",
+        "how much",
+        "he",
+        "learned",
+        "he",
+        "always found",
+        "a reason",
+        "to postpone",
+        "speaking"
+      ],
+      "distractors": [
+        "learns",
+        "has learned"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "learned",
+        "alternatives": [
+          "learns",
+          "has learned"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h03",
+      "source_sentence": "Some people think this sounds strange, but it is actually one of the most powerful speaking exercises available.",
+      "kr_hint": "어떤 사람들은 이것이 이상하게 들린다고 생각하지만, 사실 이는 가장 강력한 말하기 연습 중 하나입니다.",
+      "correct_chunks": [
+        "Some people",
+        "think",
+        "this sounds strange",
+        "but it",
+        "is",
+        "actually one",
+        "of the most powerful speaking exercises available"
+      ],
+      "distractors": [
+        "was",
+        "has been"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "is",
+        "alternatives": [
+          "was",
+          "has been"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h04",
+      "source_sentence": "The changes may seem small at first but over time, they become powerful.",
+      "kr_hint": "변화는 처음에는 작아 보일 수 있지만 시간이 지나면 강력해집니다.",
+      "correct_chunks": [
+        "The changes",
+        "may seem",
+        "small",
+        "at first",
+        "but",
+        "over time",
+        "they",
+        "become",
+        "powerful"
+      ],
+      "distractors": [
+        "might seem",
+        "seems"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "may seem",
+        "alternatives": [
+          "might seem",
+          "seems"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h05",
+      "source_sentence": "Every time you use English, you strengthen the pathways that help you communicate.",
+      "kr_hint": "영어를 사용할 때마다 여러분은 의사소통을 돕는 경로를 강화하게 됩니다.",
+      "correct_chunks": [
+        "Every time",
+        "you",
+        "use",
+        "English you strengthen",
+        "the pathways",
+        "that help you",
+        "communicate"
+      ],
+      "distractors": [
+        "youed",
+        "has youed"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "you",
+        "alternatives": [
+          "youed",
+          "has youed"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h06",
+      "source_sentence": "But if you keep speaking, one day you will look back and realize how much you have changed.",
+      "kr_hint": "하지만 계속해서 말하다 보면, 어느 날 뒤돌아보았을 때 자신이 얼마나 많이 변했는지 깨닫게 될 것입니다.",
+      "correct_chunks": [
+        "But if you keep",
+        "speaking one day",
+        "you",
+        "will look",
+        "back and realize",
+        "how much",
+        "you",
+        "have changed"
+      ],
+      "distractors": [
+        "would look",
+        "looks"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "will look",
+        "alternatives": [
+          "would look",
+          "looks"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h07",
+      "source_sentence": "Ali was protecting himself from mistakes, but he was also protecting himself from progress.",
+      "kr_hint": "알리는 실수를 하지 않으려고 자신을 보호하고 있었지만, 동시에 발전으로부터도 자신을 보호하고 있었다.",
+      "correct_chunks": [
+        "Ali",
+        "was protecting",
+        "himself",
+        "from mistakes",
+        "but he",
+        "was also",
+        "protecting himself",
+        "from progress"
+      ],
+      "distractors": [
+        "is protecting",
+        "will be protecting"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "was protecting",
+        "alternatives": [
+          "is protecting",
+          "will be protecting"
+        ],
+        "note": "past progressive"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h08",
+      "source_sentence": "Every time you choose to speak instead of staying silent, you are moving closer to that future.",
+      "kr_hint": "침묵하는 대신 말하기를 선택할 때마다, 당신은 그 미래로 더 가까이 다가가고 있습니다.",
+      "correct_chunks": [
+        "Every time you",
+        "choose",
+        "to speak",
+        "instead",
+        "of staying silent",
+        "you",
+        "are moving",
+        "closer",
+        "to that future"
+      ],
+      "distractors": [
+        "was moving",
+        "will be moving"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "are moving",
+        "alternatives": [
+          "was moving",
+          "will be moving"
+        ],
+        "note": "present progressive"
+      },
+      "final_punctuation": "."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+[Sentence 1]
+EN: You need space for the original sentence in your language, the words in English, the grammar rules, the pronunciation, the actual meaning you want to share.
+KR: 당신은 모국어로 된 원문, 영어 단어, 문법 규칙, 발음, 그리고 실제로 공유하고 싶은 의미를 위한 공간이 필요합니다.
+
+[Sentence 2]
+EN: Your working memory is small, and translation fills it up completely.
+KR: 당신의 작업 기억은 작고, 번역은 그것을 완전히 채워 버립니다.
+
+[Sentence 3]
+EN: Translating is the bottleneck that slows down your speaking.
+KR: 번역은 당신의 말하기 속도를 늦추는 병목 구간입니다.
+
+[Sentence 4]
+EN: This is precisely what occurs when you translate while attempting to speak.
+KR: 이것이 바로 당신이 말하기를 시도하면서 번역할 때 일어나는 일입니다.
+
+[Sentence 5]
+EN: This is precisely why translation leaves you feeling slow and mentally exhausted.
+KR: 이것이 바로 번역이 당신을 느리고 정신적으로 지치게 만드는 이유입니다.
+
+[Sentence 6]
+EN: The baby hears the word milk while actually drinking milk.
+KR: 아기는 실제로 우유를 마시는 동안 우유라는 단어를 듣습니다.
+
+[Sentence 7]
+EN: My brain wanted to circumvent the harder, unfamiliar route and take the easy way instead.
+KR: 제 뇌는 더 어렵고 낯선 길을 우회하여 대신 쉬운 길을 택하고 싶어 했습니다.
+
+[Sentence 8]
+EN: But eventually, one day, you simply stop thinking about the mechanics altogether.
+KR: 하지만 결국 어느 날, 여러분은 그 작동 원리에 대해 생각하는 것을 완전히 멈추게 됩니다.

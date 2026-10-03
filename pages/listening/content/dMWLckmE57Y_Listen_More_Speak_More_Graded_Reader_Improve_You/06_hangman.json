@@ -1,0 +1,230 @@
+{
+  "version": 1,
+  "video_id": "dMWLckmE57Y",
+  "items": [
+    {
+      "id": "h01",
+      "source_sentence": "I thought speaking practice was the answer, but nothing felt natural.",
+      "kr_hint": "저는 말하기 연습이 답이라고 생각했지만, 무엇 하나 자연스럽게 느껴지지 않았습니다.",
+      "correct_chunks": [
+        "I",
+        "thought",
+        "speaking practice",
+        "was",
+        "the answer",
+        "but nothing felt natural"
+      ],
+      "distractors": [
+        "think",
+        "have thought"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "thought",
+        "alternatives": [
+          "think",
+          "have thought"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h02",
+      "source_sentence": "I tried to build perfect sentences before I opened my mouth, but the words never came fast enough.",
+      "kr_hint": "입을 열기 전에 완벽한 문장을 만들려고 노력했지만, 단어들은 결코 충분히 빨리 나오지 않았습니다.",
+      "correct_chunks": [
+        "I",
+        "tried",
+        "to build perfect sentences",
+        "before I",
+        "opened",
+        "my mouth",
+        "but the words",
+        "never came",
+        "fast enough"
+      ],
+      "distractors": [
+        "try",
+        "have tried"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "tried",
+        "alternatives": [
+          "try",
+          "have tried"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h03",
+      "source_sentence": "When you speak later, words come out more naturally.",
+      "kr_hint": "나중에 말을 할 때 단어들이 더 자연스럽게 나옵니다.",
+      "correct_chunks": [
+        "When you speak",
+        "later",
+        "words",
+        "come",
+        "out more naturally"
+      ],
+      "distractors": [
+        "worded",
+        "has worded"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "words",
+        "alternatives": [
+          "worded",
+          "has worded"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h04",
+      "source_sentence": "Every time you hear the same word or phrase, it gets stronger in your memory.",
+      "kr_hint": "당신이 같은 단어나 구절을 들을 때마다, 그것은 당신의 기억 속에서 더 강해집니다.",
+      "correct_chunks": [
+        "Every time",
+        "you",
+        "hear",
+        "the same word",
+        "or phrase",
+        "it",
+        "gets",
+        "stronger",
+        "in your memory"
+      ],
+      "distractors": [
+        "got",
+        "has gotten"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "gets",
+        "alternatives": [
+          "got",
+          "has gotten"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h05",
+      "source_sentence": "The goal is to understand around 90 to 95% of what you hear.",
+      "kr_hint": "목표는 들리는 내용의 약 90에서 95퍼센트를 이해하는 것입니다.",
+      "correct_chunks": [
+        "The goal",
+        "is",
+        "to understand",
+        "around 90",
+        "to 95",
+        "of what you hear"
+      ],
+      "distractors": [
+        "was",
+        "has been"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "is",
+        "alternatives": [
+          "was",
+          "has been"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h06",
+      "source_sentence": "Easy English creates faster improvement in a surprising way because you understand more.",
+      "kr_hint": "쉬운 영어는 더 많은 것을 이해할 수 있기 때문에 놀라운 방식으로 더 빠른 향상을 만들어냅니다.",
+      "correct_chunks": [
+        "Easy",
+        "English",
+        "creates",
+        "faster improvement",
+        "in a surprising way",
+        "because you understand",
+        "more"
+      ],
+      "distractors": [
+        "created",
+        "has created"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "creates",
+        "alternatives": [
+          "created",
+          "has created"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h07",
+      "source_sentence": "Learning by listening is very powerful, but some habits can slow you down without you even knowing.",
+      "kr_hint": "듣기를 통한 학습은 매우 강력하지만, 일부 습관은 본인도 모르게 학습 속도를 늦출 수 있습니다.",
+      "correct_chunks": [
+        "Learning by",
+        "listening is very powerful",
+        "but some habits",
+        "can",
+        "slow you",
+        "down without",
+        "you",
+        "even knowing"
+      ],
+      "distractors": [
+        "was powerfuling",
+        "will be powerfuling"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "listening is very powerful",
+        "alternatives": [
+          "was powerfuling",
+          "will be powerfuling"
+        ],
+        "note": "present progressive"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h08",
+      "source_sentence": "Unknown words become clear over time through repeated exposure.",
+      "kr_hint": "모르는 단어는 반복적인 노출을 통해 시간이 지나면 명확해집니다.",
+      "correct_chunks": [
+        "Unknown",
+        "words",
+        "become",
+        "clear",
+        "over time",
+        "through repeated exposure"
+      ],
+      "distractors": [
+        "worded",
+        "has worded"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "words",
+        "alternatives": [
+          "worded",
+          "has worded"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    }
+  ]
+}

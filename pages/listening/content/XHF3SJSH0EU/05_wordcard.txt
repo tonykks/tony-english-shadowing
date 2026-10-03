@@ -1,0 +1,89 @@
+[Card 1]
+headword: confident
+part_of_speech: adjective
+meaning_kr: 자신감 있는
+definition_en: believing that you can do things well
+definition_kr_literal: 당신이 일을 잘할 수 있다고 믿는 것
+example_en: You need to be confident to speak in front of many people.
+example_kr_literal: 많은 사람들 앞에서 말하려면 자신감이 필요합니다.
+
+[Card 2]
+headword: discipline
+part_of_speech: noun
+meaning_kr: 절제
+definition_en: the ability to control your behavior and work hard
+definition_kr_literal: 행동을 통제하고 열심히 노력하는 능력
+example_en: You need discipline to finish your work every day.
+example_kr_literal: 매일 업무를 끝내려면 절제력이 필요합니다.
+
+[Card 3]
+headword: achieve
+part_of_speech: verb
+meaning_kr: 성취하다
+definition_en: to succeed in doing something good
+definition_kr_literal: 좋은 일을 해내는 데 성공하는 것
+example_en: I want to achieve my goals by working hard.
+example_kr_literal: 저는 열심히 노력해서 제 목표를 성취하고 싶습니다.
+
+[Card 4]
+headword: momentum
+part_of_speech: noun
+meaning_kr: 추진력
+definition_en: the power to keep moving forward
+definition_kr_literal: 계속 앞으로 나아갈 수 있는 힘
+example_en: Small wins help you build momentum for bigger tasks.
+example_kr_literal: 작은 성공들은 더 큰 과업을 위한 추진력을 쌓도록 도와줍니다.
+
+[Card 5]
+headword: competence
+part_of_speech: noun
+meaning_kr: 능력
+definition_en: the ability to do something well
+definition_kr_literal: 무언가를 잘할 수 있는 능력
+example_en: Confidence comes from your competence in doing a task.
+example_kr_literal: 자신감은 어떤 일을 수행하는 당신의 능력에서 옵니다.
+
+[Card 6]
+headword: scare
+part_of_speech: verb
+meaning_kr: 겁주다
+definition_en: to make someone feel afraid
+definition_kr_literal: 누군가를 두렵게 만들다
+example_en: Do not let your fears scare you away from trying.
+example_kr_literal: 두려움 때문에 시도하는 것을 포기하지 마세요.
+
+[Card 7]
+headword: transform
+part_of_speech: verb
+meaning_kr: 변형시키다
+definition_en: to change something completely
+definition_kr_literal: 무언가를 완전히 바꾸다
+example_en: This new habit will transform your daily life.
+example_kr_literal: 이 새로운 습관은 당신의 일상을 변화시킬 것입니다.
+
+[Card 8]
+headword: posture
+part_of_speech: noun
+meaning_kr: 자세
+definition_en: the way you hold your body when sitting or standing
+definition_kr_literal: 앉거나 서 있을 때 몸을 유지하는 방식
+example_en: Good posture helps you look and feel more confident.
+example_kr_literal: 바른 자세는 당신이 더 자신감 있어 보이고 느끼도록 돕습니다.
+
+[Card 9]
+headword: compare
+part_of_speech: verb
+meaning_kr: 비교하다
+definition_en: to look at how two things are different or similar
+definition_kr_literal: 두 가지가 어떻게 다르거나 비슷한지 살펴보는 것
+example_en: Do not compare your life to other people on social media.
+example_kr_literal: 소셜 미디어에 있는 다른 사람들과 당신의 삶을 비교하지 마세요.
+
+[Card 10]
+headword: perfection
+part_of_speech: noun
+meaning_kr: 완벽
+definition_en: the state of having no mistakes
+definition_kr_literal: 실수가 없는 상태
+example_en: Waiting for perfection stops you from starting.
+example_kr_literal: 완벽함을 기다리는 것은 당신이 시작하는 것을 막습니다.

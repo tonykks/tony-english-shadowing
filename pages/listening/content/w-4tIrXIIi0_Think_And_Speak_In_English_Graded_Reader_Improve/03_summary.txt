@@ -1,0 +1,19 @@
+[Part 1]
+EN: The speaker introduces Marco, a student who struggles to speak quickly despite having good grammar and a large vocabulary. The cause of this delay is identified as the 'translation trap,' where Marco mentally translates his thoughts back and forth between his native language and English. This multi-step process significantly hinders his speaking speed.
+KR: 화자는 훌륭한 문법과 방대한 어휘력을 갖추고 있음에도 불구하고 빠르게 말하는 데 어려움을 겪는 학생 마르코를 소개합니다. 이러한 지연의 원인은 마르코가 머릿속에서 모국어와 영어를 오가며 생각하는 '번역의 함정'으로 밝혀집니다. 이 다단계 과정은 그의 말하기 속도를 현저히 저해합니다.
+
+[Part 2]
+EN: The speaker uses a math analogy to explain why translation causes mental exhaustion. Because the brain's working memory can only process about four to seven pieces of information at once, constant translation consumes all available mental resources, leaving no room for natural conversation or fluidity.
+KR: 화자는 왜 번역이 정신적 피로를 유발하는지 설명하기 위해 수학적 비유를 사용합니다. 뇌의 작업 기억은 한 번에 약 4개에서 7개의 정보만 처리할 수 있기 때문에, 끊임없는 번역은 가용할 수 있는 모든 정신적 자원을 소모하여 자연스러운 대화나 유창함을 위한 여유를 남기지 않습니다.
+
+[Part 3]
+EN: To overcome this hurdle, the speaker suggests bypassing the native language entirely and forming direct connections between thoughts and English. Using the example of how infants learn, the speaker emphasizes that language should be associated with actions, images, and feelings rather than direct translation, which makes the process more intuitive.
+KR: 이 장애물을 극복하기 위해 화자는 모국어를 완전히 배제하고 생각과 영어 사이의 직접적인 연결을 형성할 것을 제안합니다. 유아가 언어를 배우는 방식을 예로 들며, 화자는 언어가 직접적인 번역보다는 행동, 이미지, 감정과 연관되어야 하며 이것이 과정을 더 직관적으로 만든다고 강조합니다.
+
+[Part 4]
+EN: The speaker provides actionable steps to cultivate this new habit, such as labeling objects, describing one's day in short sentences, and having internal conversations in English. Additionally, changing device settings to English and writing simple daily diary entries help train the brain to transition to English without the need for an intermediary language.
+KR: 화자는 사물에 이름 붙이기, 짧은 문장으로 하루 일과 묘사하기, 영어로 속으로 대화하기와 같이 이 새로운 습관을 기르기 위한 실행 가능한 단계를 제공합니다. 또한 기기 설정을 영어로 변경하고 간단한 일기를 쓰는 것은 뇌가 중간 언어 없이 영어로 전환하도록 훈련하는 데 도움이 됩니다.
+
+[Part 5]
+EN: Reflecting on Marco's eventual success, the speaker highlights that this transition is a skill developed through consistent, deliberate, and incremental practice rather than overnight mastery. By focusing on speed and natural expression over perfection, learners can eventually internalize the language, as demonstrated when Marco finally answered the 'weekend' question with natural ease.
+KR: 마르코의 최종적인 성공을 되돌아보며, 화자는 이러한 전환이 하룻밤 사이에 이루어지는 숙달이 아니라 꾸준하고 의도적이며 점진적인 연습을 통해 개발되는 기술임을 강조합니다. 완벽함보다 속도와 자연스러운 표현에 집중함으로써 학습자들은 마르코가 마침내 '주말'에 대한 질문에 자연스럽고 편안하게 대답했을 때처럼 언어를 완전히 내면화할 수 있습니다.

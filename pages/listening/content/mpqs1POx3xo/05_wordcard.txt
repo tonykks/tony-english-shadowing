@@ -1,0 +1,89 @@
+[Card 1]
+headword: clarity
+part_of_speech: noun
+meaning_kr: 명료함
+definition_en: the quality of being easy to understand or see
+definition_kr_literal: 이해하거나 보기 쉬운 성질.
+example_en: When someone speaks with power, clarity, and charm, they get better jobs.
+example_kr_literal: 누군가 힘 있고 명확하며 매력적으로 말할 때, 그들은 더 좋은 직업을 얻습니다.
+
+[Card 2]
+headword: fidgeting
+part_of_speech: verb
+meaning_kr: 안절부절못하다
+definition_en: making small movements, especially of the hands and feet, because of nervousness or impatience
+definition_kr_literal: 초조함이나 조급함 때문에 특히 손과 발을 작게 움직이는 것.
+example_en: Avoid fidgeting or playing with your hands during an interview, as it shows nervousness.
+example_kr_literal: 면접 중에 안절부절못하거나 손을 만지작거리는 행동은 긴장한 것처럼 보이니 피하십시오.
+
+[Card 3]
+headword: storytelling
+part_of_speech: noun
+meaning_kr: 스토리텔링
+definition_en: the activity of telling or writing stories to share information or emotions
+definition_kr_literal: 정보나 감정을 공유하기 위해 이야기를 하거나 글로 쓰는 활동.
+example_en: If you want to stay memorable, you need to master the art of storytelling.
+example_kr_literal: 기억에 남는 사람이 되고 싶다면, 스토리텔링의 기술을 마스터해야 합니다.
+
+[Card 4]
+headword: empathy
+part_of_speech: noun
+meaning_kr: 공감
+definition_en: the ability to understand and share the feelings of another person
+definition_kr_literal: 다른 사람의 감정을 이해하고 공유하는 능력.
+example_en: Empathy is the ability to put yourself in someone else's shoes and listen with your heart.
+example_kr_literal: 공감이란 상대방의 입장이 되어 마음으로 듣는 능력입니다.
+
+[Card 5]
+headword: identity
+part_of_speech: noun
+meaning_kr: 정체성
+definition_en: the qualities or beliefs that make a particular person or group different from others
+definition_kr_literal: 특정한 개인이나 집단을 다른 사람들과 다르게 만드는 특성이나 신념
+example_en: A name is not just a word; it is a person's identity and sense of self.
+example_kr_literal: 이름은 단순한 단어가 아니며, 한 사람의 정체성이자 자아의식입니다.
+
+[Card 6]
+headword: emotional intelligence
+part_of_speech: noun phrase
+meaning_kr: 감성 지능
+definition_en: the ability to understand, use, and manage your own emotions in positive ways
+definition_kr_literal: 자신의 감정을 긍정적인 방식으로 이해하고 사용하며 관리하는 능력
+example_en: If you master emotional intelligence, you will rise higher in relationships and business.
+example_kr_literal: 당신이 감성 지능을 마스터한다면 관계와 비즈니스에서 더 높이 올라갈 것입니다.
+
+[Card 7]
+headword: impulsive
+part_of_speech: adjective
+meaning_kr: 충동적인
+definition_en: acting or done suddenly without careful thought about the results
+definition_kr_literal: 결과에 대해 신중하게 생각하지 않고 갑작스럽게 행동하거나 행해지는 것
+example_en: Reacting to a difficult situation is often impulsive, whereas responding is thoughtful.
+example_kr_literal: 어려운 상황에 반응하는 것은 종종 충동적이지만, 대응하는 것은 사려 깊은 것입니다.
+
+[Card 8]
+headword: vulnerability
+part_of_speech: noun
+meaning_kr: 취약성
+definition_en: the quality of being open about your feelings and showing your true self, even if it feels risky
+definition_kr_literal: 위험하게 느껴지더라도 자신의 감정을 솔직하게 드러내고 진정한 모습을 보여주는 특성
+example_en: Many people think vulnerability is weakness, but in reality, it is your greatest strength.
+example_kr_literal: 많은 사람이 취약성을 나약함이라고 생각하지만, 실제로는 그것이 당신의 가장 큰 강점입니다.
+
+[Card 9]
+headword: pity
+part_of_speech: noun
+meaning_kr: 연민
+definition_en: the feeling of sadness or sympathy for someone else's unhappiness
+definition_kr_literal: 다른 사람의 불행에 대해 느끼는 슬픔이나 동정심
+example_en: Vulnerability should be used to create connection, not to make people feel pity for you.
+example_kr_literal: 취약함은 사람들과 유대감을 형성하는 데 사용해야지, 사람들이 당신을 가엾게 여기도록 만드는 데 사용해서는 안 됩니다.
+
+[Card 10]
+headword: unforgettable
+part_of_speech: adjective
+meaning_kr: 잊을 수 없는
+definition_en: so special or beautiful that you cannot forget it
+definition_kr_literal: 잊을 수 없을 정도로 특별하거나 아름다운
+example_en: If you become a good storyteller, people will love listening to you and you will become unforgettable.
+example_kr_literal: 당신이 훌륭한 이야기꾼이 된다면, 사람들은 당신의 이야기를 듣는 것을 좋아하게 될 것이고 당신은 잊을 수 없는 존재가 될 것입니다.

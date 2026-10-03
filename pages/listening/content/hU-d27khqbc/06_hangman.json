@@ -1,0 +1,233 @@
+{
+  "version": 1,
+  "video_id": "hU-d27khqbc",
+  "items": [
+    {
+      "id": "h01",
+      "source_sentence": "Point one train your mind to be calm, especially in chaos.",
+      "kr_hint": "첫 번째, 특히 혼란 속에서도 침착함을 유지하도록 마음을 훈련하세요.",
+      "correct_chunks": [
+        "Point one train",
+        "your mind to",
+        "be",
+        "calm especially",
+        "in chaos"
+      ],
+      "distractors": [
+        "was",
+        "has been"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "be",
+        "alternatives": [
+          "was",
+          "has been"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h02",
+      "source_sentence": "Spending time with yourself means knowing who you really are, understanding what you think, what you feel, and why you feel it.",
+      "kr_hint": "혼자만의 시간을 보내는 것은 당신이 진정 누구인지 알고, 당신이 무엇을 생각하고 무엇을 느끼며 왜 그렇게 느끼는지 이해하는 것을 의미합니다.",
+      "correct_chunks": [
+        "Spending time",
+        "with yourself",
+        "means",
+        "knowing who",
+        "you",
+        "really are understanding",
+        "what you think what you feel and why you",
+        "feel",
+        "it"
+      ],
+      "distractors": [
+        "meant",
+        "has meant"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "means",
+        "alternatives": [
+          "meant",
+          "has meant"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h03",
+      "source_sentence": "You say something wrong in a conversation and you think about it for 7 hours.",
+      "kr_hint": "대화 중에 잘못된 말을 하면 당신은 7시간 동안 그 생각만 하게 됩니다.",
+      "correct_chunks": [
+        "You say",
+        "something wrong",
+        "in a conversation and you",
+        "think",
+        "about it",
+        "for 7 hours"
+      ],
+      "distractors": [
+        "thought",
+        "have thought"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "think",
+        "alternatives": [
+          "thought",
+          "have thought"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h04",
+      "source_sentence": "Every time you choose comfort, you are saying no to your growth.",
+      "kr_hint": "당신이 안락함을 선택할 때마다, 당신은 자신의 성장에 아니라고 말하는 것입니다.",
+      "correct_chunks": [
+        "Every time",
+        "you",
+        "choose",
+        "comfort",
+        "you",
+        "are saying",
+        "no",
+        "to your growth"
+      ],
+      "distractors": [
+        "was saying",
+        "will be saying"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "are saying",
+        "alternatives": [
+          "was saying",
+          "will be saying"
+        ],
+        "note": "present progressive"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h05",
+      "source_sentence": "The present, it's all you have and it's the only place where life actually happens.",
+      "kr_hint": "현재는 당신이 가진 전부이며 삶이 실제로 일어나는 유일한 곳입니다.",
+      "correct_chunks": [
+        "The present it's all",
+        "you",
+        "have",
+        "and it's",
+        "the only",
+        "place",
+        "where life actually",
+        "happens"
+      ],
+      "distractors": [
+        "has",
+        "had"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "have",
+        "alternatives": [
+          "has",
+          "had"
+        ],
+        "note": "present perfect"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h06",
+      "source_sentence": "You can't stop the storm, but you can learn how to stand in it.",
+      "kr_hint": "당신은 폭풍을 멈출 수는 없지만, 그 속에서 어떻게 버틸지는 배울 수 있습니다.",
+      "correct_chunks": [
+        "You can't",
+        "stop",
+        "the storm",
+        "but you",
+        "can learn",
+        "how",
+        "to stand",
+        "in it"
+      ],
+      "distractors": [
+        "could learn",
+        "learn"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "can learn",
+        "alternatives": [
+          "could learn",
+          "learn"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h07",
+      "source_sentence": "You don't need to turn the whole ship in one second you just need to adjust the wheel by one degree.",
+      "kr_hint": "배 전체를 1초 만에 돌릴 필요는 없으며 단지 키를 1도만 조정하면 됩니다.",
+      "correct_chunks": [
+        "You don't",
+        "need",
+        "to turn",
+        "the whole ship",
+        "in one second you",
+        "just need",
+        "to adjust",
+        "the wheel",
+        "by one degree"
+      ],
+      "distractors": [
+        "needed",
+        "have needed"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "need",
+        "alternatives": [
+          "needed",
+          "have needed"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h08",
+      "source_sentence": "Your mental strength will explode the moment you eliminate what weakens you.",
+      "kr_hint": "당신을 약하게 만드는 것들을 제거하는 순간 당신의 정신력은 폭발할 것입니다.",
+      "correct_chunks": [
+        "Your mental strength",
+        "will",
+        "explode",
+        "the moment you eliminate what",
+        "weakens",
+        "you"
+      ],
+      "distractors": [
+        "would will",
+        "wills"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "will",
+        "alternatives": [
+          "would will",
+          "wills"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "."
+    }
+  ]
+}

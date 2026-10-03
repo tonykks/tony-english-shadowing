@@ -1,0 +1,89 @@
+[Card 1]
+headword: strange
+part_of_speech: adjective
+meaning_kr: 이상한
+definition_en: different from what is normal or expected
+definition_kr_literal: 정상적이거나 예상되는 것과는 다른
+example_en: That was the first strange thing about the taxi driver.
+example_kr_literal: 그것이 그 택시 운전사에 대한 첫 번째 이상한 점이었다.
+
+[Card 2]
+headword: silence
+part_of_speech: noun
+meaning_kr: 침묵
+definition_en: a complete lack of sound or talking
+definition_kr_literal: 소리나 대화가 완전히 없는 상태
+example_en: Sometimes silence speaks louder than words.
+example_kr_literal: 때때로 침묵은 말보다 더 크게 말한다.
+
+[Card 3]
+headword: pain
+part_of_speech: noun
+meaning_kr: 고통
+definition_en: a strong feeling of sadness or physical hurt
+definition_kr_literal: 슬픔이나 신체적 고통에 대한 강한 느낌
+example_en: I knew there was deep pain inside this man.
+example_kr_literal: 나는 이 남자 내면에 깊은 고통이 있다는 것을 알았다.
+
+[Card 4]
+headword: argue
+part_of_speech: verb
+meaning_kr: 언쟁하다
+definition_en: to speak angrily to someone because you disagree
+definition_kr_literal: 의견이 달라서 누군가에게 화를 내며 말하다
+example_en: If your wife still argues with you, she still feels something.
+example_kr_literal: 만약 당신의 아내가 여전히 당신과 다툰다면, 그녀는 여전히 감정을 느끼고 있는 것이다.
+
+[Card 5]
+headword: ghost
+part_of_speech: noun
+meaning_kr: 유령
+definition_en: the spirit of a dead person, or someone who feels invisible
+definition_kr_literal: 죽은 사람의 영혼, 또는 투명 인간처럼 느껴지는 사람
+example_en: I feel like a ghost in my own house.
+example_kr_literal: 나는 내 집에서 유령처럼 느껴진다.
+
+[Card 6]
+headword: fix
+part_of_speech: verb
+meaning_kr: 고치다
+definition_en: to repair something that is broken
+definition_kr_literal: 망가진 무언가를 수리하는 것
+example_en: I wanted to fix the problems in his life.
+example_kr_literal: 나는 그의 인생에서 발생한 문제들을 고쳐주고 싶었다.
+
+[Card 7]
+headword: mistake
+part_of_speech: noun
+meaning_kr: 실수
+definition_en: an action that is wrong or not correct
+definition_kr_literal: 잘못되었거나 올바르지 않은 행동
+example_en: I also made many mistakes in my marriage.
+example_kr_literal: 나 또한 내 결혼 생활에서 많은 실수를 저질렀다.
+
+[Card 8]
+headword: chance
+part_of_speech: noun
+meaning_kr: 기회
+definition_en: an opportunity to do something
+definition_kr_literal: 무언가를 할 수 있는 기회
+example_en: If today was your last chance, what would you do?
+example_kr_literal: 만약 오늘이 당신의 마지막 기회라면, 당신은 무엇을 하겠습니까?
+
+[Card 9]
+headword: interrupt
+part_of_speech: verb
+meaning_kr: 방해하다
+definition_en: to stop someone from speaking by saying something
+definition_kr_literal: 누군가가 말하는 도중에 말을 하여 말을 끊는 것
+example_en: I waited and did not want to interrupt him while he read.
+example_kr_literal: 나는 기다렸고 그가 읽는 동안 그를 방해하고 싶지 않았다.
+
+[Card 10]
+headword: truth
+part_of_speech: noun
+meaning_kr: 진실
+definition_en: the actual facts about a situation
+definition_kr_literal: 상황에 대한 실제 사실
+example_en: He decided it was time to tell the truth.
+example_kr_literal: 그는 진실을 말할 때가 되었다고 결정했다.

@@ -1,0 +1,31 @@
+[Sentence 1]
+EN: Do you want to understand people when they speak English?
+KR: 사람들이 영어로 말할 때 그 내용을 이해하고 싶으신가요?
+
+[Sentence 2]
+EN: If you know 95% of the words, then the book is good for you.
+KR: 만약 네가 단어의 95%를 안다면, 그 책은 너에게 좋은 책이다.
+
+[Sentence 3]
+EN: If you want to learn words in English, read something every day.
+KR: 만약 당신이 영어 단어를 배우고 싶다면 매일 무엇인가를 읽으세요.
+
+[Sentence 4]
+EN: When you speak a language, your mouth needs to move in a new way.
+KR: 언어를 말할 때 당신의 입은 새로운 방식으로 움직여야 합니다.
+
+[Sentence 5]
+EN: When you want better pronunciation, [clears throat] be like a shadow.
+KR: 더 나은 발음을 원할 때, 그림자가 되세요.
+
+[Sentence 6]
+EN: If you want to speak English, do not worry too much about grammar.
+KR: 영어를 말하고 싶다면 문법에 대해 너무 걱정하지 마세요.
+
+[Sentence 7]
+EN: If you want to understand English, don't stop after one listen.
+KR: 영어를 이해하고 싶다면, 한 번 듣고 멈추지 마세요.
+
+[Sentence 8]
+EN: If you speak every day, even a little, you will feel better.
+KR: 매일 조금씩이라도 말하면 기분이 더 좋아질 것이다.

@@ -1,0 +1,89 @@
+[Card 1]
+headword: confident
+part_of_speech: adjective
+meaning_kr: 자신감 있는
+definition_en: feeling sure about your ability to do something well
+definition_kr_literal: 무언가를 잘할 수 있다는 능력에 대해 확신하는 기분
+example_en: You do not become a confident speaker only by reading about English books.
+example_kr_literal: 당신은 영어 책에 관해 읽는 것만으로는 자신감 있는 화자가 되지 않습니다.
+
+[Card 2]
+headword: repetition
+part_of_speech: noun
+meaning_kr: 반복
+definition_en: the act of doing or saying the same thing many times
+definition_kr_literal: 같은 것을 여러 번 하거나 말하는 행위
+example_en: Your brain learns better through the repetition of words and phrases.
+example_kr_literal: 당신의 뇌는 단어와 구절의 반복을 통해 더 잘 배웁니다.
+
+[Card 3]
+headword: pattern
+part_of_speech: noun
+meaning_kr: 패턴
+definition_en: a repeated way in which something happens or is done
+definition_kr_literal: 무언가가 일어나거나 행해지는 반복적인 방식
+example_en: After hearing a question many times, your brain starts to know the pattern.
+example_kr_literal: 질문을 여러 번 들은 후, 당신의 뇌는 그 패턴을 알기 시작합니다.
+
+[Card 4]
+headword: familiar
+part_of_speech: adjective
+meaning_kr: 익숙한
+definition_en: easy to recognize because you have seen or heard it before
+definition_kr_literal: 이전에 본 적이 있거나 들은 적이 있어서 알아보기 쉬운
+example_en: Once the question becomes familiar, your brain does not need to work as hard.
+example_kr_literal: 일단 그 질문이 익숙해지면, 당신의 뇌는 그렇게 열심히 일할 필요가 없습니다.
+
+[Card 5]
+headword: starving
+part_of_speech: adjective
+meaning_kr: 굶주린
+definition_en: feeling very hungry
+definition_kr_literal: 매우 배가 고픈
+example_en: Your friend might say 'I'm starving' instead of just saying 'I'm hungry'.
+example_kr_literal: 당신의 친구는 단순히 '배고파'라고 말하는 대신 '배고파 죽겠어'라고 말할지도 모릅니다.
+
+[Card 6]
+headword: exhausted
+part_of_speech: adjective
+meaning_kr: 진이 다 빠진
+definition_en: extremely tired
+definition_kr_literal: 극도로 피곤한
+example_en: I was absolutely exhausted after work, so I went straight home and crashed on the sofa.
+example_kr_literal: 나는 퇴근 후에 완전히 녹초가 되어서 곧장 집으로 가서 소파에 쓰러졌습니다.
+
+[Card 7]
+headword: encounter
+part_of_speech: verb
+meaning_kr: 마주하다
+definition_en: to meet or experience something, often unexpectedly
+definition_kr_literal: 무언가를 만나거나 경험하는 것, 종종 예기치 않게
+example_en: When we encounter new words again and again, our brains get better at recognizing them.
+example_kr_literal: 우리가 새로운 단어들을 계속해서 마주칠 때, 우리 뇌는 그것들을 인식하는 데 더 능숙해집니다.
+
+[Card 8]
+headword: retrieve
+part_of_speech: verb
+meaning_kr: 회상하다
+definition_en: to find and bring back information that was stored in your memory
+definition_kr_literal: 기억 속에 저장된 정보를 찾아 다시 가져오는 것
+example_en: It is easier to retrieve a word from your memory if you have used it in a real conversation.
+example_kr_literal: 실제 대화에서 단어를 사용해 보았다면 기억 속에서 그 단어를 인출하기가 더 쉽습니다.
+
+[Card 9]
+headword: effectively
+part_of_speech: adverb
+meaning_kr: 효과적으로
+definition_en: in a way that produces the result you want
+definition_kr_literal: 당신이 원하는 결과를 만들어내는 방식으로
+example_en: Language is remembered more effectively when it is connected to real emotions.
+example_kr_literal: 언어는 실제 감정과 연결될 때 더 효과적으로 기억됩니다.
+
+[Card 10]
+headword: experience
+part_of_speech: noun
+meaning_kr: 경험
+definition_en: knowledge or skill that you get from doing something
+definition_kr_literal: 무언가를 함으로써 얻게 되는 지식이나 기술
+example_en: Your confidence grows through the experience of speaking, rather than just waiting.
+example_kr_literal: 당신의 자신감은 그저 기다리는 것보다 말하기를 경험함으로써 성장합니다.

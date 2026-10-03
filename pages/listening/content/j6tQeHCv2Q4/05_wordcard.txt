@@ -1,0 +1,89 @@
+[Card 1]
+headword: burn out
+part_of_speech: verb
+meaning_kr: 녹초가 되다
+definition_en: to become extremely tired or sick because you have worked too hard for a long time
+definition_kr_literal: 오랜 기간 너무 열심히 일해서 극도로 지치거나 병이 나는 것
+example_en: They burn out, sacrifice their health, and kill their happiness just to earn more money.
+example_kr_literal: 그들은 더 많은 돈을 벌기 위해 번아웃되고, 건강을 희생하며, 행복을 죽입니다.
+
+[Card 2]
+headword: collapse
+part_of_speech: verb
+meaning_kr: 붕괴하다
+definition_en: to fail or fall apart suddenly
+definition_kr_literal: 갑자기 실패하거나 무너지는 것
+example_en: If he loses his job and has no savings, his entire life will collapse.
+example_kr_literal: 그가 일자리를 잃고 저축한 돈이 없다면, 그의 인생 전체가 무너질 것입니다.
+
+[Card 3]
+headword: budgeting
+part_of_speech: noun
+meaning_kr: 예산 수립
+definition_en: the process of planning how to spend your money to ensure you do not spend more than you earn
+definition_kr_literal: 번 것보다 더 많이 쓰지 않도록 보장하기 위해 돈을 어떻게 쓸지 계획하는 과정
+example_en: Budgeting is not a punishment; it is a way to take control of your financial life.
+example_kr_literal: 예산 편성은 처벌이 아니라, 자신의 재정 생활을 통제하기 위한 방법입니다.
+
+[Card 4]
+headword: compound interest
+part_of_speech: noun
+meaning_kr: 복리
+definition_en: interest that is calculated on the original money and also on the interest that has already been added
+definition_kr_literal: 원금과 이미 더해진 이자에 대해 계산되는 이자
+example_en: The magic of compound interest allows your money to grow much faster over a long period of time.
+example_kr_literal: 복리의 마법은 당신의 돈이 오랜 기간에 걸쳐 훨씬 더 빠르게 불어나게 해 줍니다.
+
+[Card 5]
+headword: currency
+part_of_speech: noun
+meaning_kr: 통화
+definition_en: a system of money used in a country, or something valuable that can be traded
+definition_kr_literal: 한 나라에서 사용하는 화폐 체계, 또는 거래될 수 있는 가치 있는 무언가
+example_en: Time is your most valuable currency, and once it is gone, it never comes back.
+example_kr_literal: 시간은 당신의 가장 가치 있는 화폐이며, 일단 사라지면 절대 돌아오지 않습니다.
+
+[Card 6]
+headword: debt
+part_of_speech: noun
+meaning_kr: 부채
+definition_en: a sum of money that a person or organization owes to someone else
+definition_kr_literal: 개인이나 조직이 다른 누군가에게 갚아야 할 금전적 액수
+example_en: If you learn to master debt, you can use it as a tool rather than letting it become a trap.
+example_kr_literal: 빚을 다스리는 법을 배우면, 그것이 덫이 되게 두는 대신 도구로 활용할 수 있습니다.
+
+[Card 7]
+headword: delay
+part_of_speech: verb
+meaning_kr: 미루다
+definition_en: to make something happen at a later time than originally planned
+definition_kr_literal: 무언가를 원래 계획했던 것보다 더 늦은 시간에 일어나게 만드는 것
+example_en: The more you focus on looking successful, the more you delay actually becoming successful.
+example_kr_literal: 성공한 것처럼 보이는 데 집중할수록, 실제로 성공하는 것은 더 늦어집니다.
+
+[Card 8]
+headword: investment
+part_of_speech: noun
+meaning_kr: 투자
+definition_en: the act of putting money into something with the expectation that it will increase in value over time
+definition_kr_literal: 시간이 지남에 따라 가치가 증가할 것이라는 기대를 가지고 무언가에 돈을 투입하는 행위
+example_en: You do not need to be rich to start making small investments for your future.
+example_kr_literal: 당신은 미래를 위한 작은 투자를 시작하기 위해 부자가 될 필요는 없습니다.
+
+[Card 9]
+headword: possessions
+part_of_speech: noun
+meaning_kr: 소유물
+definition_en: items or things that a person owns
+definition_kr_literal: 한 사람이 소유한 물품이나 물건들
+example_en: Money should be used to build a peaceful life, not just to collect expensive possessions.
+example_kr_literal: 돈은 단지 비싼 소유물을 모으기 위해서가 아니라 평화로운 삶을 구축하기 위해 사용되어야 한다.
+
+[Card 10]
+headword: pillar
+part_of_speech: noun
+meaning_kr: 기둥
+definition_en: a basic or important part of something, such as a foundation or support system
+definition_kr_literal: 기반이나 지원 체계와 같이 어떤 것의 기본적이거나 중요한 부분
+example_en: Each small habit you start today becomes a new pillar for your future financial success.
+example_kr_literal: 당신이 오늘 시작하는 작은 습관 하나하나가 당신의 미래 재정적 성공을 위한 새로운 기둥이 된다.

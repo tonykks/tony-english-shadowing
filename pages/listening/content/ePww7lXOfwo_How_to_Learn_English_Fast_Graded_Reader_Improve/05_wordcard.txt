@@ -1,0 +1,89 @@
+[Card 1]
+headword: mindset
+part_of_speech: noun
+meaning_kr: 사고방식
+definition_en: a particular way of thinking or a set of beliefs about something
+definition_kr_literal: 무언가에 대한 특정한 사고방식이나 일련의 신념.
+example_en: The first step to learning English is to change your mindset from wanting to be perfect to wanting to make progress.
+example_kr_literal: 영어를 배우는 첫 단계는 완벽해지고 싶어 하는 마음에서 발전하고 싶어 하는 마음으로 사고방식을 바꾸는 것입니다.
+
+[Card 2]
+headword: consistently
+part_of_speech: adverb
+meaning_kr: 일관되게
+definition_en: in a way that happens or continues over a period of time without stopping
+definition_kr_literal: 어떤 기간 동안 멈추지 않고 일어나거나 계속되는 방식으로.
+example_en: If you study consistently for ten minutes every day, you will see better results than studying for hours only once a week.
+example_kr_literal: 매일 10분씩 꾸준히 공부하면 일주일에 한 번 몇 시간씩 공부하는 것보다 더 좋은 결과를 볼 수 있을 것입니다.
+
+[Card 3]
+headword: hesitation
+part_of_speech: noun
+meaning_kr: 주저
+definition_en: a short pause before doing something, often because you are nervous or unsure
+definition_kr_literal: 긴장하거나 확신이 없어서 무언가를 하기 전에 잠시 멈추는 것.
+example_en: You should celebrate whenever you can speak a full sentence without any hesitation.
+example_kr_literal: 주저함 없이 완전한 문장을 말할 수 있을 때마다 스스로를 축하해야 합니다.
+
+[Card 4]
+headword: shadowing
+part_of_speech: noun
+meaning_kr: 쉐도잉
+definition_en: a learning technique where you listen to audio and repeat the words out loud immediately after hearing them
+definition_kr_literal: 오디오를 듣고 들은 직후에 그 단어들을 소리 내어 따라 하는 학습 기법.
+example_en: Shadowing is a very effective way to copy the natural rhythm and pronunciation of English speakers.
+example_kr_literal: 섀도잉은 영어 원어민의 자연스러운 리듬과 발음을 복제하는 매우 효과적인 방법입니다.
+
+[Card 5]
+headword: foundation
+part_of_speech: noun
+meaning_kr: 기반
+definition_en: the basic ideas or structures that support something and help it grow
+definition_kr_literal: 무언가를 지탱하고 그것이 성장하도록 돕는 기본적인 아이디어나 구조
+example_en: Consistent listening is the foundation of speaking because it trains your brain to recognize correct sounds and rhythm.
+example_kr_literal: 꾸준히 듣는 것은 올바른 소리와 리듬을 인식하도록 뇌를 훈련시키기 때문에 말하기의 기초가 됩니다.
+
+[Card 6]
+headword: mimic
+part_of_speech: verb
+meaning_kr: 흉내 내다
+definition_en: to copy the way someone speaks or moves, usually to learn or to entertain
+definition_kr_literal: 보통 배우거나 즐겁게 하기 위해 누군가가 말하거나 움직이는 방식을 흉내 내는 것
+example_en: When you practice active listening, try to mimic the speaker's tone and speed to sound more natural.
+example_kr_literal: 능동적 듣기를 연습할 때는 더 자연스럽게 들리도록 화자의 어조와 속도를 흉내 내 보세요.
+
+[Card 7]
+headword: fluency
+part_of_speech: noun
+meaning_kr: 유창성
+definition_en: the ability to speak or write a language easily, well, and naturally
+definition_kr_literal: 언어를 쉽고 잘하며 자연스럽게 말하거나 쓰는 능력
+example_en: Your fluency will grow step by step as you practice speaking small, simple sentences every day.
+example_kr_literal: 매일 짧고 간단한 문장을 말하는 연습을 하면 유창함은 단계적으로 향상될 것입니다.
+
+[Card 8]
+headword: automatically
+part_of_speech: adverb
+meaning_kr: 자동으로
+definition_en: happening by itself without needing conscious thought or effort
+definition_kr_literal: 의식적인 생각이나 노력 없이 저절로 일어나는 것
+example_en: Once your ears are trained, your brain will automatically recognize sentence patterns without you having to translate them.
+example_kr_literal: 귀가 훈련되면 뇌는 문장을 번역할 필요 없이 자동으로 문장 패턴을 인식하게 될 것입니다.
+
+[Card 9]
+headword: context
+part_of_speech: noun
+meaning_kr: 문맥
+definition_en: the situation or surrounding words that help explain the meaning of a specific word or phrase
+definition_kr_literal: 특정한 단어나 구의 의미를 설명하는 데 도움을 주는 상황이나 주변 단어들.
+example_en: It is much faster to learn words in context by listening to full sentences rather than memorizing a list of single words.
+example_kr_literal: 낱말 목록을 암기하는 것보다 완전한 문장을 들음으로써 문맥 속에서 단어를 배우는 것이 훨씬 더 빠릅니다.
+
+[Card 10]
+headword: progress
+part_of_speech: noun
+meaning_kr: 진전
+definition_en: movement toward an improved or more developed state
+definition_kr_literal: 더 향상되었거나 더 발전된 상태를 향한 움직임.
+example_en: Every time you speak a sentence correctly, you are making progress toward your goal of becoming a confident speaker.
+example_kr_literal: 문장을 올바르게 말할 때마다 여러분은 자신감 있는 연사가 되겠다는 목표를 향해 나아가고 있는 것입니다.

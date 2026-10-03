@@ -1,0 +1,89 @@
+[Card 1]
+headword: silent
+part_of_speech: adjective
+meaning_kr: 침묵하는
+definition_en: making no sound; not speaking
+definition_kr_literal: 아무런 소리도 내지 않고; 말을 하지 않는
+example_en: Do you become completely silent when it is time to speak?
+example_kr_literal: 말할 시간이 되면 완전히 조용해지나요?
+
+[Card 2]
+headword: improve
+part_of_speech: verb
+meaning_kr: 개선하다
+definition_en: to make something better
+definition_kr_literal: 무언가를 더 좋게 만드는 것
+example_en: You need to start speaking to improve your English.
+example_kr_literal: 당신의 영어를 향상하기 위해서는 말하기를 시작해야 합니다.
+
+[Card 3]
+headword: confident
+part_of_speech: adjective
+meaning_kr: 자신감 있는
+definition_en: feeling sure about your ability to do something
+definition_kr_literal: 무언가를 할 수 있다는 자신의 능력에 대해 확신하는 것
+example_en: You can become a more confident speaker.
+example_kr_literal: 당신은 더 자신감 있는 화자가 될 수 있습니다.
+
+[Card 4]
+headword: mistake
+part_of_speech: noun
+meaning_kr: 실수
+definition_en: an action or thought that is not correct
+definition_kr_literal: 올바르지 않은 행동이나 생각
+example_en: Do not stop because of one mistake.
+example_kr_literal: 한 번의 실수 때문에 멈추지 마세요.
+
+[Card 5]
+headword: panic
+part_of_speech: verb
+meaning_kr: 당황하다
+definition_en: to feel very afraid and lose control of your actions
+definition_kr_literal: 매우 두려움을 느끼고 자신의 행동을 통제하지 못하는 것
+example_en: If you forget a word, do not panic.
+example_kr_literal: 단어를 잊어버려도 당황하지 마십시오.
+
+[Card 6]
+headword: describe
+part_of_speech: verb
+meaning_kr: 묘사하다
+definition_en: to say what someone or something is like
+definition_kr_literal: 누군가나 무언가가 어떤지 말하는 것
+example_en: When you make breakfast, describe what you are doing.
+example_kr_literal: 아침 식사를 만들 때, 무엇을 하고 있는지 설명해 보십시오.
+
+[Card 7]
+headword: nervous
+part_of_speech: adjective
+meaning_kr: 불안한
+definition_en: feeling worried or afraid
+definition_kr_literal: 걱정하거나 두려워하는 느낌
+example_en: Many students are too nervous to open their mouths.
+example_kr_literal: 많은 학생이 너무 긴장해서 입을 열지 못합니다.
+
+[Card 8]
+headword: habit
+part_of_speech: noun
+meaning_kr: 습관
+definition_en: something you do often and regularly
+definition_kr_literal: 자주 그리고 규칙적으로 하는 무언가
+example_en: Speaking English every day will become a strong habit.
+example_kr_literal: 매일 영어를 말하는 것은 강력한 습관이 될 것입니다.
+
+[Card 9]
+headword: regular
+part_of_speech: adjective
+meaning_kr: 규칙적인
+definition_en: happening at the same time or often
+definition_kr_literal: 동시에 일어나거나 자주 일어나는
+example_en: Your mouth needs regular practice to speak better.
+example_kr_literal: 더 잘 말하기 위해서는 입을 정기적으로 연습해야 합니다.
+
+[Card 10]
+headword: action
+part_of_speech: noun
+meaning_kr: 행동
+definition_en: the process of doing something
+definition_kr_literal: 무언가를 하는 과정
+example_en: Action comes first, then confidence grows.
+example_kr_literal: 행동이 먼저이고, 그 다음에 자신감이 생깁니다.

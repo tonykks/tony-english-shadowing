@@ -1,0 +1,89 @@
+[Card 1]
+headword: fluently
+part_of_speech: adverb
+meaning_kr: 유창하게
+definition_en: able to speak or write a language easily and correctly
+definition_kr_literal: 어떤 언어를 쉽고 정확하게 말하거나 쓸 수 있는.
+example_en: Many people want to speak English fluently, so they watch videos and listen to podcasts.
+example_kr_literal: 많은 사람이 영어를 유창하게 말하고 싶어 해서 영상을 보거나 팟캐스트를 듣는다.
+
+[Card 2]
+headword: habit
+part_of_speech: noun
+meaning_kr: 습관
+definition_en: a thing that you do often and almost without thinking
+definition_kr_literal: 거의 생각하지 않고 자주 하는 행동.
+example_en: Reading English every day is a simple habit that many learners forget to start.
+example_kr_literal: 매일 영어 책을 읽는 것은 많은 학습자가 시작하기를 잊는 간단한 습관이다.
+
+[Card 3]
+headword: confident
+part_of_speech: adjective
+meaning_kr: 자신감 있는
+definition_en: feeling sure about your own ability to do things well
+definition_kr_literal: 일을 잘 해낼 자신의 능력에 대해 확신하는.
+example_en: I wanted to sound confident when speaking, but I often felt nervous.
+example_kr_literal: 나는 말할 때 자신감 있게 들리고 싶었지만, 종종 긴장감을 느꼈다.
+
+[Card 4]
+headword: familiar
+part_of_speech: adjective
+meaning_kr: 익숙한
+definition_en: well known to you or easily recognized because you have seen it before
+definition_kr_literal: 이전에 본 적이 있어서 잘 알고 있거나 쉽게 알아볼 수 있는.
+example_en: After reading for a few days, words that looked strange before started to feel familiar.
+example_kr_literal: 며칠 동안 읽고 나니 전에는 낯설게 보였던 단어들이 친숙하게 느껴지기 시작했다.
+
+[Card 5]
+headword: separate
+part_of_speech: adjective
+meaning_kr: 별개의
+definition_en: different from each other; not connected
+definition_kr_literal: 서로 다른; 연결되지 않은
+example_en: Many learners wrongly think that reading and speaking are separate skills.
+example_kr_literal: 많은 학습자들은 읽기와 말하기가 별개의 기술이라고 잘못 생각합니다.
+
+[Card 6]
+headword: frustrated
+part_of_speech: adjective
+meaning_kr: 좌절감을 느끼는
+definition_en: feeling annoyed or upset because you cannot do something you want to do
+definition_kr_literal: 하고 싶은 것을 할 수 없어서 짜증이 나거나 속상한 느낌
+example_en: Learners often feel frustrated when they choose a book that is too difficult to understand.
+example_kr_literal: 학습자들은 이해하기에 너무 어려운 책을 고를 때 종종 좌절감을 느낍니다.
+
+[Card 7]
+headword: consistent
+part_of_speech: adjective
+meaning_kr: 일관된
+definition_en: always behaving or happening in the same way, especially in a positive way
+definition_kr_literal: 항상 같은 방식으로 행동하거나 일어나는 것, 특히 긍정적인 방식에서
+example_en: Reading easy books every day helps you stay consistent with your learning goals.
+example_kr_literal: 매일 쉬운 책을 읽는 것은 학습 목표를 꾸준히 지키는 데 도움이 됩니다.
+
+[Card 8]
+headword: translation
+part_of_speech: noun
+meaning_kr: 번역
+definition_en: the act of changing speech or writing from one language into another
+definition_kr_literal: 말이나 글을 한 언어에서 다른 언어로 바꾸는 행위
+example_en: Soon, simple sentences appeared in my mind without needing any translation.
+example_kr_literal: 곧, 번역이 필요 없이 간단한 문장들이 내 머릿속에 떠올랐습니다.
+
+[Card 9]
+headword: pressure
+part_of_speech: noun
+meaning_kr: 압박감
+definition_en: a feeling of worry or stress because you have to do something difficult
+definition_kr_literal: 어려운 일을 해야 하기 때문에 느끼는 걱정이나 스트레스
+example_en: Reading is a powerful tool because it teaches you new words without any pressure.
+example_kr_literal: 독서는 압박감 없이 새로운 단어를 가르쳐 주기 때문에 강력한 도구입니다.
+
+[Card 10]
+headword: repeatedly
+part_of_speech: adverb
+meaning_kr: 되풀이하여
+definition_en: happening or being done many times
+definition_kr_literal: 여러 번 발생하거나 행해지는
+example_en: Because you see these words repeatedly, they become part of your active vocabulary.
+example_kr_literal: 이 단어들을 반복적으로 보기 때문에 그것들은 당신의 능동적 어휘의 일부가 됩니다.

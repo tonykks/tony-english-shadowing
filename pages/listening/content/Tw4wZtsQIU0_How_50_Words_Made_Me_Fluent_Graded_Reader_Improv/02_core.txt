@@ -1,0 +1,31 @@
+[Sentence 1]
+EN: What if you did not need thousands of English words to become fluent?
+KR: 영어를 유창하게 하기 위해 수천 개의 영어 단어가 필요하지 않다면 어떨까요?
+
+[Sentence 2]
+EN: You understand some English when you read but when someone asks you a simple question you do not know what to say.
+KR: 읽을 때는 영어를 어느 정도 이해하지만 누군가 간단한 질문을 하면 무슨 말을 해야 할지 모릅니다.
+
+[Sentence 3]
+EN: Instead of memorizing one sentence, I was learning how to build sentences.
+KR: 문장 하나를 암기하는 대신, 나는 문장을 만드는 방법을 배우고 있었다.
+
+[Sentence 4]
+EN: So if you are a beginner, do not feel bad because you do not know many words.
+KR: 그러니 만약 당신이 초보자라면, 단어를 많이 알지 못한다고 해서 기분 나빠하지 마세요.
+
+[Sentence 5]
+EN: I chose five words in the morning, and I promised myself that I would use those five words during the day.
+KR: 저는 아침에 다섯 개의 단어를 골랐고, 하루 동안 그 다섯 단어를 사용하겠다고 스스로에게 약속했습니다.
+
+[Sentence 6]
+EN: I wanted to stop translating every thought from my native language into English.
+KR: 나는 내 모국어로 하는 모든 생각을 영어로 번역하는 것을 멈추고 싶었다.
+
+[Sentence 7]
+EN: When you learn to ride a bicycle, you do not expect to balance perfectly on the first day.
+KR: 자전거 타는 법을 배울 때, 첫날부터 완벽하게 균형을 잡을 것이라고 기대하지는 않습니다.
+
+[Sentence 8]
+EN: After I learned to think in simple English, something important changed.
+KR: 내가 간단한 영어로 생각하는 법을 배운 후에, 중요한 무언가가 변했다.

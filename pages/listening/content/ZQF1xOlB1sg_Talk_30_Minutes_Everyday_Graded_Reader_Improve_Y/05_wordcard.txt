@@ -1,0 +1,89 @@
+[Card 1]
+headword: perfect
+part_of_speech: adjective
+meaning_kr: 완벽한
+definition_en: having no mistakes or flaws
+definition_kr_literal: 실수나 결점이 없는 것
+example_en: You do not need to speak perfect English to be understood.
+example_kr_literal: 의사소통을 하기 위해 완벽한 영어를 구사할 필요는 없습니다.
+
+[Card 2]
+headword: confident
+part_of_speech: adjective
+meaning_kr: 자신감 있는
+definition_en: feeling sure about your own ability to do things well
+definition_kr_literal: 어떤 일을 잘 해낼 수 있다는 자신의 능력에 대해 확신하는 것
+example_en: You will feel more confident if you practice speaking every day.
+example_kr_literal: 매일 말하기 연습을 하면 더 자신감이 생길 것입니다.
+
+[Card 3]
+headword: memorize
+part_of_speech: verb
+meaning_kr: 암기하다
+definition_en: to learn something so that you remember it exactly
+definition_kr_literal: 어떤 것을 정확히 기억하기 위해 배우는 것
+example_en: Do not just memorize vocabulary; try to use the words.
+example_kr_literal: 단어를 단순히 암기만 하지 말고, 그 단어들을 사용해 보세요.
+
+[Card 4]
+headword: practice
+part_of_speech: verb
+meaning_kr: 연습하다
+definition_en: to do something regularly to improve your skill
+definition_kr_literal: 기술을 향상시키기 위해 정기적으로 무언가를 하는 것
+example_en: Your mouth needs to practice moving in new ways.
+example_kr_literal: 당신의 입은 새로운 방식으로 움직이는 연습을 해야 합니다.
+
+[Card 5]
+headword: communicate
+part_of_speech: verb
+meaning_kr: 소통하다
+definition_en: to share information or ideas with others
+definition_kr_literal: 다른 사람들과 정보나 아이디어를 공유하는 것
+example_en: Your goal when speaking is simply to communicate your ideas.
+example_kr_literal: 말할 때 당신의 목표는 단순히 당신의 아이디어를 전달하는 것입니다.
+
+[Card 6]
+headword: consistency
+part_of_speech: noun
+meaning_kr: 일관성
+definition_en: the act of doing something regularly in the same way
+definition_kr_literal: 무언가를 정기적으로 같은 방식으로 하는 행동
+example_en: Consistency is more important than studying for a long time.
+example_kr_literal: 일관성이 오랜 시간 동안 공부하는 것보다 더 중요합니다.
+
+[Card 7]
+headword: improve
+part_of_speech: verb
+meaning_kr: 향상되다
+definition_en: to become better at something
+definition_kr_literal: 무언가를 더 잘하게 되는 것
+example_en: Your grammar will improve if you keep speaking daily.
+example_kr_literal: 매일 계속해서 말하면 당신의 문법은 향상될 것입니다.
+
+[Card 8]
+headword: repeat
+part_of_speech: verb
+meaning_kr: 반복하다
+definition_en: to say or do something again
+definition_kr_literal: 무언가를 다시 말하거나 행동하는 것
+example_en: You can repeat a sentence if you make a mistake.
+example_kr_literal: 실수를 하면 문장을 반복할 수 있습니다.
+
+[Card 9]
+headword: translate
+part_of_speech: verb
+meaning_kr: 번역하다
+definition_en: to change words from one language into another
+definition_kr_literal: 한 언어의 단어를 다른 언어로 바꾸는 것
+example_en: Try not to translate every sentence in your head before speaking.
+example_kr_literal: 말하기 전에 모든 문장을 머릿속으로 번역하지 않도록 노력하세요.
+
+[Card 10]
+headword: progress
+part_of_speech: noun
+meaning_kr: 진전
+definition_en: the process of improving or developing
+definition_kr_literal: 개선하거나 발전하는 과정
+example_en: Small daily changes lead to real progress over time.
+example_kr_literal: 매일의 작은 변화가 시간이 지나면 실질적인 발전으로 이어집니다.

@@ -1,0 +1,89 @@
+[Card 1]
+headword: courage
+part_of_speech: noun
+meaning_kr: 용기
+definition_en: the ability to do something even when you are afraid
+definition_kr_literal: 두려울 때조차 무언가를 할 수 있는 능력
+example_en: You need courage to use the English you already know.
+example_kr_literal: 당신은 이미 알고 있는 영어를 사용하기 위해 용기가 필요합니다.
+
+[Card 2]
+headword: describe
+part_of_speech: verb
+meaning_kr: 묘사하다
+definition_en: to say what someone or something is like
+definition_kr_literal: 누군가나 무언가가 어떤지 말하는 것
+example_en: Look around your room and describe what you see.
+example_kr_literal: 당신의 방을 둘러보고 당신이 보는 것을 묘사하세요.
+
+[Card 3]
+headword: mistake
+part_of_speech: noun
+meaning_kr: 실수
+definition_en: something that you do wrong
+definition_kr_literal: 당신이 잘못하는 무언가
+example_en: Mistakes are a normal part of learning.
+example_kr_literal: 실수는 학습의 정상적인 부분입니다.
+
+[Card 4]
+headword: familiar
+part_of_speech: adjective
+meaning_kr: 익숙한
+definition_en: known to you because you have heard or seen it before
+definition_kr_literal: 이전에 들어보았거나 보았기 때문에 당신에게 알려진
+example_en: Your ears need time to become familiar with English sounds.
+example_kr_literal: 당신의 귀는 영어 소리에 익숙해질 시간이 필요합니다.
+
+[Card 5]
+headword: method
+part_of_speech: noun
+meaning_kr: 방법
+definition_en: a way of doing something
+definition_kr_literal: 무언가를 하는 방법
+example_en: This method helps your ears, brain, and mouth work together.
+example_kr_literal: 이 방법은 당신의 귀와 뇌, 그리고 입이 함께 작동하도록 돕습니다.
+
+[Card 6]
+headword: patient
+part_of_speech: adjective
+meaning_kr: 참을성 있는
+definition_en: able to wait for a long time without becoming angry
+definition_kr_literal: 화내지 않고 오랫동안 기다릴 수 있는
+example_en: Be patient with yourself while you learn.
+example_kr_literal: 배우는 동안 스스로에게 인내심을 가지세요.
+
+[Card 7]
+headword: practice
+part_of_speech: verb
+meaning_kr: 연습하다
+definition_en: to do something many times to become better at it
+definition_kr_literal: 더 잘하기 위해 무언가를 여러 번 반복하는 것
+example_en: I am practicing my English every day.
+example_kr_literal: 나는 매일 영어를 연습하고 있습니다.
+
+[Card 8]
+headword: rhythm
+part_of_speech: noun
+meaning_kr: 리듬
+definition_en: the pattern of sound in speech
+definition_kr_literal: 말하기에서 소리의 패턴
+example_en: You begin to notice the natural rhythm of English.
+example_kr_literal: 당신은 영어의 자연스러운 리듬을 알아차리기 시작합니다.
+
+[Card 9]
+headword: shadow
+part_of_speech: verb
+meaning_kr: 따라 말하다
+definition_en: to copy someone's speech exactly as they say it
+definition_kr_literal: 누군가의 말을 그들이 말하는 그대로 따라 하는 것
+example_en: Shadowing helps you speak more naturally.
+example_kr_literal: 섀도잉은 당신이 더 자연스럽게 말하도록 돕습니다.
+
+[Card 10]
+headword: understand
+part_of_speech: verb
+meaning_kr: 이해하다
+definition_en: to know the meaning of something
+definition_kr_literal: 무엇인가의 의미를 아는 것
+example_en: The better you understand English, the easier it becomes to answer.
+example_kr_literal: 영어를 더 잘 이해할수록, 답하기는 더 쉬워집니다.

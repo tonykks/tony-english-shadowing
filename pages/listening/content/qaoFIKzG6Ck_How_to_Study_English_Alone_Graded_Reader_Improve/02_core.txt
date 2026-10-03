@@ -1,0 +1,31 @@
+[Sentence 1]
+EN: She was sad about this but Elena had a computer, and Elena had books.
+KR: 그녀는 이 일로 슬펐지만 엘레나에게는 컴퓨터가 있었고, 엘레나에게는 책이 있었습니다.
+
+[Sentence 2]
+EN: A scientist named Hermann Ebbinghaus studied how people forget things.
+KR: 헤르만 에빙하우스라는 과학자가 사람들이 어떻게 망각하는지 연구했습니다.
+
+[Sentence 3]
+EN: When we feel positive emotions while learning, our brain remembers the information better.
+KR: 우리가 학습하는 동안 긍정적인 감정을 느낄 때, 우리의 뇌는 정보를 더 잘 기억한다.
+
+[Sentence 4]
+EN: >> [clears throat] >> Only check the dictionary if the word is really important and you can't guess it.
+KR: >> [목을 가다듬으며] >> 단어가 정말 중요해서 도저히 추측할 수 없을 때만 사전을 확인하세요.
+
+[Sentence 5]
+EN: You just need a good plan and the patience to follow it one small day at a time.
+KR: 당신에게는 좋은 계획과 그것을 하루에 조금씩 꾸준히 따를 인내심만 있으면 됩니다.
+
+[Sentence 6]
+EN: After months of practice, she internalized the grammar rule without even thinking about it.
+KR: 수개월의 연습 끝에 그녀는 문법 규칙을 생각조차 하지 않고 내면화했습니다.
+
+[Sentence 7]
+EN: Some attend structured classes with a teacher guiding them step-by-step.
+KR: 어떤 학생들은 선생님이 단계별로 지도하는 체계적인 수업에 참여합니다.
+
+[Sentence 8]
+EN: Stress and boredom, by contrast, actively hinder learning, while enjoyment tends to accelerate it.
+KR: 반면에 스트레스와 지루함은 학습을 적극적으로 방해하지만, 즐거움은 학습을 촉진하는 경향이 있습니다.
