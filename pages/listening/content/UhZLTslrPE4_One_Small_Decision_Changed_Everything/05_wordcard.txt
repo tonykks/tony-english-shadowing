@@ -1,0 +1,89 @@
+[Card 1]
+headword: medicine
+part_of_speech: noun
+meaning_kr: 약
+definition_en: a substance or treatment used to cure a disease or relieve pain
+definition_kr_literal: 질병을 치료하거나 통증을 완화하는 데 사용되는 물질 또는 치료법
+example_en: He says, 'Doctor, the medicine does not work.'
+example_kr_literal: 그가 '의사 선생님, 이 약이 효과가 없어요.'라고 말한다.
+
+[Card 2]
+headword: sick
+part_of_speech: adjective
+meaning_kr: 아픈
+definition_en: affected by physical or mental illness; not healthy
+definition_kr_literal: 신체적 또는 정신적 질병에 걸린, 건강하지 않은
+example_en: Stress can make you believe you are sick when you are not.
+example_kr_literal: 스트레스는 아프지 않을 때도 자신이 아프다고 믿게 만들 수 있다.
+
+[Card 3]
+headword: stress
+part_of_speech: noun
+meaning_kr: 스트레스
+definition_en: a state of mental or emotional worry caused by difficult situations
+definition_kr_literal: 어려운 상황으로 인해 발생하는 정신적 또는 감정적인 걱정 상태
+example_en: If he does not change, his stress will grow.
+example_kr_literal: 그가 변하지 않는다면, 그의 스트레스는 커질 것이다.
+
+[Card 4]
+headword: rest
+part_of_speech: verb
+meaning_kr: 쉬다
+definition_en: to stop working or moving to relax and recover strength
+definition_kr_literal: 긴장을 풀고 기력을 회복하기 위해 하던 일이나 움직임을 멈추는 것
+example_en: You think it is sickness, but it is your life screaming for rest.
+example_kr_literal: 당신은 그것이 병이라고 생각하지만, 그것은 휴식을 갈망하는 당신의 삶이 내지르는 비명이다.
+
+[Card 5]
+headword: exist
+part_of_speech: verb
+meaning_kr: 존재하다
+definition_en: to be real or present in the physical world
+definition_kr_literal: 물리적 세계에 실재하거나 존재하는 것.
+example_en: If he does not believe me, he will keep looking for medicine that does not exist.
+example_kr_literal: 그가 나를 믿지 않는다면, 그는 존재하지 않는 약을 계속 찾을 것이다.
+
+[Card 6]
+headword: strong
+part_of_speech: adjective
+meaning_kr: 강한
+definition_en: having great power, energy, or ability
+definition_kr_literal: 큰 힘, 에너지, 또는 능력을 가진 것.
+example_en: His face looks tired, but his voice is strong.
+example_kr_literal: 그의 얼굴은 피곤해 보이지만, 그의 목소리는 힘이 있다.
+
+[Card 7]
+headword: health
+part_of_speech: noun
+meaning_kr: 건강
+definition_en: the state of being free from illness or injury
+definition_kr_literal: 질병이나 부상으로부터 자유로운 상태.
+example_en: If you give all your time to work, you lose your health.
+example_kr_literal: 당신이 모든 시간을 일에 쏟는다면, 당신은 건강을 잃는다.
+
+[Card 8]
+headword: balance
+part_of_speech: noun
+meaning_kr: 균형
+definition_en: a state where different things exist in equal or right amounts
+definition_kr_literal: 서로 다른 것들이 동등하거나 적절한 양으로 존재하는 상태.
+example_en: Without balance, no pill will help you.
+example_kr_literal: 균형이 없으면, 어떤 알약도 당신에게 도움이 되지 않을 것이다.
+
+[Card 9]
+headword: survive
+part_of_speech: verb
+meaning_kr: 생존하다
+definition_en: to continue to live or exist, especially after a dangerous event
+definition_kr_literal: 계속해서 살거나 존재하는 것, 특히 위험한 사건 이후에
+example_en: I changed and chose rest, so I survived.
+example_kr_literal: 나는 변화했고 휴식을 선택했기에, 살아남았다.
+
+[Card 10]
+headword: truth
+part_of_speech: noun
+meaning_kr: 진실
+definition_en: the quality of being real or factual
+definition_kr_literal: 실제이거나 사실인 성질
+example_en: I cannot hide the truth anymore.
+example_kr_literal: 나는 더 이상 진실을 숨길 수 없다.

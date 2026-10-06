@@ -1,0 +1,51 @@
+[Sentence 1]
+EN: He says, "Doctor, the medicine does not work.".
+KR: 그는 "의사 선생님, 약이 효과가 없어요."라고 말한다.
+
+[Sentence 2]
+EN: His face looks tired, but his voice is strong.
+KR: 그의 얼굴은 피곤해 보이지만, 목소리는 힘이 있습니다.
+
+[Sentence 3]
+EN: Stress can make you believe you are sick when you are not.
+KR: 스트레스는 당신이 아프지 않은데도 아프다고 믿게 만들 수 있다.
+
+[Sentence 4]
+EN: If he does not believe me, he will keep looking for medicine that does not exist.
+KR: 그가 나를 믿지 않는다면, 그는 존재하지 않는 약을 계속 찾을 것이다.
+
+[Sentence 5]
+EN: You think it is sickness, but it is your life screaming for rest.
+KR: 당신은 그것이 병이라고 생각하지만, 그것은 휴식을 갈망하며 울부짖는 당신의 삶입니다.
+
+[Sentence 6]
+EN: If he does not change, his stress will grow.
+KR: 그가 변하지 않는다면 그의 스트레스는 커질 거야.
+
+[Sentence 7]
+EN: Even the strongest tree falls if it never rests from the storm.
+KR: 가장 강한 나무조차 폭풍 속에서 쉬지 않으면 쓰러진다.
+
+[Sentence 8]
+EN: His fear is deep and his words remind me that stress is not only inside him.
+KR: 그의 두려움은 깊고 그의 말은 스트레스가 단지 그의 내면에만 있는 것이 아니라는 것을 나에게 상기시킨다.
+
+[Sentence 9]
+EN: Because if you fall, then the job is lost anyway.
+KR: 왜냐하면 당신이 쓰러지면, 어차피 일은 수포로 돌아가기 때문입니다.
+
+[Sentence 10]
+EN: If you give all your time to work, you lose your health.
+KR: 모든 시간을 일에 바치면 건강을 잃게 됩니다.
+
+[Sentence 11]
+EN: I believed the same lie that strong people never rest.
+KR: 나는 강한 사람들은 절대 쉬지 않는다는 똑같은 거짓말을 믿었습니다.
+
+[Sentence 12]
+EN: If we never stop, our body will stop us.
+KR: 우리가 멈추지 않는다면 우리 몸이 우리를 멈추게 할 것입니다.
+
+[Sentence 13]
+EN: How many times do we run after money while our health runs away from us?
+KR: 우리의 건강은 우리에게서 멀어지는데 우리는 돈을 쫓아 몇 번이나 달려가나요?

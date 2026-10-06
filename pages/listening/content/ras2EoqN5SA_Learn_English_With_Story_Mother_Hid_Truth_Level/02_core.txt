@@ -1,0 +1,31 @@
+[Sentence 1]
+EN: I'm 22 years old and I work in a small flower shop near my home.
+KR: 저는 22살이고 집 근처의 작은 꽃집에서 일합니다.
+
+[Sentence 2]
+EN: When I was a child, I asked her many questions.
+KR: 어릴 적에 나는 어머니께 많은 질문을 했습니다.
+
+[Sentence 3]
+EN: As I moved the boxes, I found one hidden behind a large suitcase.
+KR: 상자들을 옮기다가 나는 큰 여행 가방 뒤에 숨겨진 상자 하나를 발견했다.
+
+[Sentence 4]
+EN: I stood frozen in the storage room holding the paper like it might disappear if I blinked.
+KR: 나는 눈을 깜빡이면 종이가 사라질지도 모른다는 생각에 그것을 든 채 창고에 얼어붙어 서 있었다.
+
+[Sentence 5]
+EN: She walked to the sink and started washing her hands, even though they were not dirty.
+KR: 그녀는 싱크대로 걸어가서 손을 씻기 시작했는데, 손이 더럽지 않았는데도 그랬다.
+
+[Sentence 6]
+EN: "Because the truth,", she said slowly, "might change how you see me." My heart felt like it stopped.
+KR: 왜냐하면 그 진실이," 그녀가 천천히 말했다, "네가 나를 보는 방식을 바꿀지도 모르니까." 내 심장이 멈춘 것만 같았다.
+
+[Sentence 7]
+EN: "You were in the car, too, but somehow you survived.
+KR: 너도 차 안에 있었지만, 어떻게든 살아남았지.
+
+[Sentence 8]
+EN: And for the first time since that day, I felt a little peace.
+KR: 그리고 그날 이후 처음으로, 나는 약간의 평온을 느꼈다.

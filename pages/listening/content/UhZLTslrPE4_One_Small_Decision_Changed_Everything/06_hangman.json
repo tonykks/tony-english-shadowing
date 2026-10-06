@@ -1,0 +1,364 @@
+{
+  "version": 1,
+  "video_id": "UhZLTslrPE4",
+  "items": [
+    {
+      "id": "h01",
+      "source_sentence": "He says, \"Doctor, the medicine does not work.\".",
+      "kr_hint": "그는 \"의사 선생님, 약이 효과가 없어요.\"라고 말한다.",
+      "correct_chunks": [
+        "He",
+        "says",
+        "Doctor",
+        "the medicine",
+        "does not",
+        "work"
+      ],
+      "distractors": [
+        "sayed",
+        "has sayed"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "says",
+        "alternatives": [
+          "sayed",
+          "has sayed"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h02",
+      "source_sentence": "His face looks tired, but his voice is strong.",
+      "kr_hint": "그의 얼굴은 피곤해 보이지만, 목소리는 힘이 있습니다.",
+      "correct_chunks": [
+        "His face",
+        "looks",
+        "tired",
+        "but his voice",
+        "is",
+        "strong"
+      ],
+      "distractors": [
+        "looked",
+        "has looked"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "looks",
+        "alternatives": [
+          "looked",
+          "has looked"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h03",
+      "source_sentence": "Stress can make you believe you are sick when you are not.",
+      "kr_hint": "스트레스는 당신이 아프지 않은데도 아프다고 믿게 만들 수 있다.",
+      "correct_chunks": [
+        "Stress",
+        "can make",
+        "you believe",
+        "you",
+        "are",
+        "sick",
+        "when you are not"
+      ],
+      "distractors": [
+        "could make",
+        "makes"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "can make",
+        "alternatives": [
+          "could make",
+          "makes"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h04",
+      "source_sentence": "If he does not believe me, he will keep looking for medicine that does not exist.",
+      "kr_hint": "그가 나를 믿지 않는다면, 그는 존재하지 않는 약을 계속 찾을 것이다.",
+      "correct_chunks": [
+        "If he does not",
+        "believe me",
+        "he",
+        "will keep",
+        "looking for",
+        "medicine",
+        "that does not exist"
+      ],
+      "distractors": [
+        "would keep",
+        "keeps"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "will keep",
+        "alternatives": [
+          "would keep",
+          "keeps"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h05",
+      "source_sentence": "You think it is sickness, but it is your life screaming for rest.",
+      "kr_hint": "당신은 그것이 병이라고 생각하지만, 그것은 휴식을 갈망하며 울부짖는 당신의 삶입니다.",
+      "correct_chunks": [
+        "You",
+        "think",
+        "it",
+        "is",
+        "sickness but it",
+        "is",
+        "your life",
+        "screaming for",
+        "rest"
+      ],
+      "distractors": [
+        "were",
+        "have been"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "is",
+        "alternatives": [
+          "were",
+          "have been"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h06",
+      "source_sentence": "If he does not change, his stress will grow.",
+      "kr_hint": "그가 변하지 않는다면 그의 스트레스는 커질 거야.",
+      "correct_chunks": [
+        "If he does not",
+        "change",
+        "his stress",
+        "will grow"
+      ],
+      "distractors": [
+        "would grow",
+        "grows"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "will grow",
+        "alternatives": [
+          "would grow",
+          "grows"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h07",
+      "source_sentence": "Even the strongest tree falls if it never rests from the storm.",
+      "kr_hint": "가장 강한 나무조차 폭풍 속에서 쉬지 않으면 쓰러진다.",
+      "correct_chunks": [
+        "Even the strongest tree",
+        "falls",
+        "if it",
+        "never",
+        "rests",
+        "from the storm"
+      ],
+      "distractors": [
+        "fell",
+        "has fallen"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "falls",
+        "alternatives": [
+          "fell",
+          "has fallen"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h08",
+      "source_sentence": "His fear is deep and his words remind me that stress is not only inside him.",
+      "kr_hint": "그의 두려움은 깊고 그의 말은 스트레스가 단지 그의 내면에만 있는 것이 아니라는 것을 나에게 상기시킨다.",
+      "correct_chunks": [
+        "His fear",
+        "is",
+        "deep and his words remind me",
+        "that stress",
+        "is not",
+        "only",
+        "inside him"
+      ],
+      "distractors": [
+        "was",
+        "has been"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "is",
+        "alternatives": [
+          "was",
+          "has been"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h09",
+      "source_sentence": "Because if you fall, then the job is lost anyway.",
+      "kr_hint": "왜냐하면 당신이 쓰러지면, 어차피 일은 수포로 돌아가기 때문입니다.",
+      "correct_chunks": [
+        "Because if",
+        "you",
+        "fall",
+        "then",
+        "the job",
+        "is lost",
+        "anyway"
+      ],
+      "distractors": [
+        "loses",
+        "has lost"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "is lost",
+        "alternatives": [
+          "loses",
+          "has lost"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h10",
+      "source_sentence": "If you give all your time to work, you lose your health.",
+      "kr_hint": "모든 시간을 일에 바치면 건강을 잃게 됩니다.",
+      "correct_chunks": [
+        "If you give",
+        "all",
+        "your time",
+        "to work",
+        "you",
+        "lose",
+        "your health"
+      ],
+      "distractors": [
+        "alled",
+        "has alled"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "all",
+        "alternatives": [
+          "alled",
+          "has alled"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h11",
+      "source_sentence": "I believed the same lie that strong people never rest.",
+      "kr_hint": "나는 강한 사람들은 절대 쉬지 않는다는 똑같은 거짓말을 믿었습니다.",
+      "correct_chunks": [
+        "I",
+        "believed",
+        "the same",
+        "lie",
+        "that strong people",
+        "never rest"
+      ],
+      "distractors": [
+        "believ",
+        "have believed"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "believed",
+        "alternatives": [
+          "believ",
+          "have believed"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h12",
+      "source_sentence": "If we never stop, our body will stop us.",
+      "kr_hint": "우리가 멈추지 않는다면 우리 몸이 우리를 멈추게 할 것입니다.",
+      "correct_chunks": [
+        "If we",
+        "never stop",
+        "our body",
+        "will stop",
+        "us"
+      ],
+      "distractors": [
+        "would stop",
+        "stops"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "will stop",
+        "alternatives": [
+          "would stop",
+          "stops"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h13",
+      "source_sentence": "How many times do we run after money while our health runs away from us?",
+      "kr_hint": "우리의 건강은 우리에게서 멀어지는데 우리는 돈을 쫓아 몇 번이나 달려가나요?",
+      "correct_chunks": [
+        "How many times",
+        "do",
+        "we",
+        "run",
+        "after money",
+        "while our health runs",
+        "away",
+        "from us"
+      ],
+      "distractors": [
+        "did",
+        "has done"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "do",
+        "alternatives": [
+          "did",
+          "has done"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "?"
+    }
+  ]
+}

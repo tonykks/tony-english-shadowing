@@ -1,0 +1,89 @@
+[Card 1]
+headword: trust
+part_of_speech: verb
+meaning_kr: 신뢰하다
+definition_en: to believe that someone is honest and will not hurt you
+definition_kr_literal: 누군가가 정직하고 당신을 해치지 않을 것이라고 믿는 것
+example_en: I trusted my mother, so I believed everything she told me.
+example_kr_literal: 나는 어머니를 신뢰했기 때문에 어머니가 나에게 말한 모든 것을 믿었다.
+
+[Card 2]
+headword: hidden
+part_of_speech: adjective
+meaning_kr: 숨겨진
+definition_en: put or kept in a place where it cannot be seen
+definition_kr_literal: 보이지 않는 곳에 두거나 보관된
+example_en: I found a hidden box behind a large suitcase in the storage room.
+example_kr_literal: 나는 창고에 있는 큰 여행 가방 뒤에서 숨겨진 상자를 발견했다.
+
+[Card 3]
+headword: document
+part_of_speech: noun
+meaning_kr: 문서
+definition_en: a piece of paper with official information on it
+definition_kr_literal: 공적인 정보가 적힌 종이 한 장
+example_en: The birth certificate was an important document about my life.
+example_kr_literal: 출생 증명서는 내 삶에 관한 중요한 문서였다.
+
+[Card 4]
+headword: freeze
+part_of_speech: verb
+meaning_kr: 얼어붙다
+definition_en: to stop moving suddenly because of surprise or fear
+definition_kr_literal: 놀라움이나 두려움 때문에 갑자기 움직임을 멈추는 것
+example_en: I stood frozen in the room when I saw the truth on the paper.
+example_kr_literal: 나는 종이에 적힌 진실을 보았을 때 방 안에서 얼어붙은 채 서 있었다.
+
+[Card 5]
+headword: disappear
+part_of_speech: verb
+meaning_kr: 사라지다
+definition_en: to become impossible to see; to go away
+definition_kr_literal: 보이지 않게 되다; 사라지다.
+example_en: I held the paper tightly so it would not disappear.
+example_kr_literal: 나는 종이가 사라지지 않도록 꽉 잡았다.
+
+[Card 6]
+headword: silent
+part_of_speech: adjective
+meaning_kr: 조용한
+definition_en: making no sound; quiet
+definition_kr_literal: 소리가 나지 않는; 조용한.
+example_en: The room became silent after she told me the truth.
+example_kr_literal: 그녀가 나에게 진실을 말한 뒤 방은 조용해졌다.
+
+[Card 7]
+headword: truth
+part_of_speech: noun
+meaning_kr: 진실
+definition_en: the real facts about a situation
+definition_kr_literal: 상황에 대한 실제 사실.
+example_en: I felt sad when I finally learned the truth about my parents.
+example_kr_literal: 나는 부모님에 대한 진실을 마침내 알게 되었을 때 슬픔을 느꼈다.
+
+[Card 8]
+headword: fear
+part_of_speech: noun
+meaning_kr: 공포
+definition_en: a bad feeling you have when you are in danger or afraid
+definition_kr_literal: 위험에 처하거나 두려울 때 느끼는 나쁜 감정.
+example_en: I saw fear in her eyes when she talked about the past.
+example_kr_literal: 그녀가 과거에 대해 이야기할 때 나는 그녀의 눈에서 두려움을 보았다.
+
+[Card 9]
+headword: survive
+part_of_speech: verb
+meaning_kr: 살아남다
+definition_en: to continue to live after a dangerous event
+definition_kr_literal: 위험한 사건 이후에도 계속해서 살아남는 것
+example_en: You were in the car accident, but somehow you survived.
+example_kr_literal: 너는 자동차 사고를 당했지만, 어떻게든 살아남았다.
+
+[Card 10]
+headword: accident
+part_of_speech: noun
+meaning_kr: 사고
+definition_en: a sudden event that causes damage or injury
+definition_kr_literal: 피해나 부상을 야기하는 갑작스러운 사건
+example_en: My parents died in a car accident when I was a baby.
+example_kr_literal: 나의 부모님은 내가 아기였을 때 자동차 사고로 돌아가셨다.

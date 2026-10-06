@@ -2,7 +2,7 @@
   "version": 1,
   "app": "Tony's English Shadowing",
   "description": "Curated YouTube English Shadowing Library",
-  "total_count": 48,
+  "total_count": 50,
   "items": [
     {
       "video_id": "Pq2uwssaFRo",
@@ -964,6 +964,46 @@
       "wordcard_count": 10,
       "status": "published",
       "sequence": 48
+    },
+    {
+      "video_id": "UhZLTslrPE4",
+      "title": "One Small Decision Changed Everything",
+      "level": 1,
+      "source_url": "https://youtu.be/UhZLTslrPE4",
+      "channel": "Real Life English 365",
+      "speaker": null,
+      "content_path": "pages/listening/content/UhZLTslrPE4_One_Small_Decision_Changed_Everything",
+      "page_path": "pages/listening/content/UhZLTslrPE4_One_Small_Decision_Changed_Everything/UhZLTslrPE4_One_Small_Decision_Changed_Everything.html",
+      "href": "./pages/listening/content/UhZLTslrPE4_One_Small_Decision_Changed_Everything/UhZLTslrPE4_One_Small_Decision_Changed_Everything.html",
+      "introEn": "In this listening lesson, you will hear a story about a doctor with over 67 years of experience who faces a mysterious patient named John. John visits the clinic repeatedly, complaining of persistent weakness and fatigue despite taking various medicines. As the doctor searches for the source of his illness, she begins to suspect that his physical symptoms are not caused by a disease. You will follow their conversation as they explore whether the patient’s true problem lies in his body or his high-pressure lifestyle. This talk highlights a critical realization about the difference between physical sickness and the exhaustion caused by modern life. Pay close attention to the turning point in their dialogue to understand why the doctor eventually refuses to provide more medication. You will learn how the doctor helps John distinguish between the illusion of strength and the necessity of rest.",
+      "tags": [
+        "Level 1",
+        "신규"
+      ],
+      "section_count": 13,
+      "wordcard_count": 10,
+      "status": "published",
+      "sequence": 49
+    },
+    {
+      "video_id": "ras2EoqN5SA",
+      "title": "Learn English With Story  Mother Hid Truth | Level 4 English Listening Practice || Graded Reader",
+      "level": 1,
+      "source_url": "https://youtu.be/ras2EoqN5SA",
+      "channel": "Cozy English Story",
+      "speaker": null,
+      "content_path": "pages/listening/content/ras2EoqN5SA_Learn_English_With_Story_Mother_Hid_Truth_Level",
+      "page_path": "pages/listening/content/ras2EoqN5SA_Learn_English_With_Story_Mother_Hid_Truth_Level/ras2EoqN5SA_Learn_English_With_Story_Mother_Hid_Truth_Level.html",
+      "href": "./pages/listening/content/ras2EoqN5SA_Learn_English_With_Story_Mother_Hid_Truth_Level/ras2EoqN5SA_Learn_English_With_Story_Mother_Hid_Truth_Level.html",
+      "introEn": "In today’s episode of Cozy English Story, we follow a 22-year-old woman named Lily who discovers a hidden birth certificate while cleaning her storage room. This startling discovery reveals that the woman she has always called mother is actually her aunt and that her biological parents passed away in a car accident when she was an infant. As Lily confronts her aunt about the lifelong secret, she must navigate feelings of betrayal, anger, and confusion. We will explore how these painful truths challenge the definition of family and whether love can survive such a difficult revelation. Please pay close attention to the dialogue between Lily and her aunt to understand how they process this life-changing information. By listening to this story, you will practice emotional vocabulary and improve your ability to follow a complex, dramatic narrative.",
+      "tags": [
+        "Level 1",
+        "신규"
+      ],
+      "section_count": 8,
+      "wordcard_count": 10,
+      "status": "published",
+      "sequence": 50
     }
   ]
 }

@@ -1,0 +1,231 @@
+{
+  "version": 1,
+  "video_id": "ras2EoqN5SA",
+  "items": [
+    {
+      "id": "h01",
+      "source_sentence": "I'm 22 years old and I work in a small flower shop near my home.",
+      "kr_hint": "저는 22살이고 집 근처의 작은 꽃집에서 일합니다.",
+      "correct_chunks": [
+        "I'm 22 years old and I",
+        "work",
+        "in a small flower shop",
+        "near my home"
+      ],
+      "distractors": [
+        "is",
+        "was",
+        "has been"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "I'm 22 years old and I",
+        "alternatives": [
+          "is",
+          "was",
+          "has been"
+        ],
+        "note": "verb form"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h02",
+      "source_sentence": "When I was a child, I asked her many questions.",
+      "kr_hint": "어릴 적에 나는 어머니께 많은 질문을 했습니다.",
+      "correct_chunks": [
+        "When I was",
+        "a child",
+        "I",
+        "asked",
+        "her many questions"
+      ],
+      "distractors": [
+        "asks",
+        "has asked"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "asked",
+        "alternatives": [
+          "asks",
+          "has asked"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h03",
+      "source_sentence": "As I moved the boxes, I found one hidden behind a large suitcase.",
+      "kr_hint": "상자들을 옮기다가 나는 큰 여행 가방 뒤에 숨겨진 상자 하나를 발견했다.",
+      "correct_chunks": [
+        "As",
+        "I",
+        "moved",
+        "the boxes",
+        "I",
+        "found",
+        "one hidden",
+        "behind a large suitcase"
+      ],
+      "distractors": [
+        "moves",
+        "has moved"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "moved",
+        "alternatives": [
+          "moves",
+          "has moved"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h04",
+      "source_sentence": "I stood frozen in the storage room holding the paper like it might disappear if I blinked.",
+      "kr_hint": "나는 눈을 깜빡이면 종이가 사라질지도 모른다는 생각에 그것을 든 채 창고에 얼어붙어 서 있었다.",
+      "correct_chunks": [
+        "I",
+        "stood",
+        "frozen",
+        "in the storage room",
+        "holding the paper",
+        "like it",
+        "might",
+        "disappear",
+        "if I blinked"
+      ],
+      "distractors": [
+        "stand",
+        "have stood"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "stood",
+        "alternatives": [
+          "stand",
+          "have stood"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h05",
+      "source_sentence": "She walked to the sink and started washing her hands, even though they were not dirty.",
+      "kr_hint": "그녀는 싱크대로 걸어가서 손을 씻기 시작했는데, 손이 더럽지 않았는데도 그랬다.",
+      "correct_chunks": [
+        "She",
+        "walked",
+        "to the sink and",
+        "started",
+        "washing her hands",
+        "even",
+        "though they were not",
+        "dirty"
+      ],
+      "distractors": [
+        "walks",
+        "has walked"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "walked",
+        "alternatives": [
+          "walks",
+          "has walked"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h06",
+      "source_sentence": "\"Because the truth,\", she said slowly, \"might change how you see me.\" My heart felt like it stopped.",
+      "kr_hint": "왜냐하면 그 진실이,\" 그녀가 천천히 말했다, \"네가 나를 보는 방식을 바꿀지도 모르니까.\" 내 심장이 멈춘 것만 같았다.",
+      "correct_chunks": [
+        "Because the truth she said",
+        "slowly might",
+        "change how you",
+        "see",
+        "me",
+        "My heart",
+        "felt",
+        "like it",
+        "stopped"
+      ],
+      "distractors": [
+        "may might",
+        "mights"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "might",
+        "alternatives": [
+          "may might",
+          "mights"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h07",
+      "source_sentence": "\"You were in the car, too, but somehow you survived.",
+      "kr_hint": "너도 차 안에 있었지만, 어떻게든 살아남았지.",
+      "correct_chunks": [
+        "You",
+        "were",
+        "in the car too",
+        "but somehow",
+        "you",
+        "survived"
+      ],
+      "distractors": [
+        "are",
+        "have been"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "were",
+        "alternatives": [
+          "are",
+          "have been"
+        ],
+        "note": "verb form"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h08",
+      "source_sentence": "And for the first time since that day, I felt a little peace.",
+      "kr_hint": "그리고 그날 이후 처음으로, 나는 약간의 평온을 느꼈다.",
+      "correct_chunks": [
+        "And",
+        "for the first time",
+        "since that day",
+        "I",
+        "felt",
+        "a little peace"
+      ],
+      "distractors": [
+        "feels",
+        "has felt"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "felt",
+        "alternatives": [
+          "feels",
+          "has felt"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    }
+  ]
+}
