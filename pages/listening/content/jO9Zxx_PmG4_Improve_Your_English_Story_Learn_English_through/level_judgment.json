@@ -1,0 +1,19 @@
+{
+  "level": 1,
+  "score": 2.24,
+  "reasons": [
+    "avg_sentence_words=6.6",
+    "complex_ratio=0.14",
+    "advanced_vocab_ratio=0.006",
+    "idiom_density=0.00",
+    "raw_score=2.24",
+    "rubric_version=absolute-1-5-v1"
+  ],
+  "metrics": {
+    "avg_sentence_words": 6.613,
+    "complex_ratio": 0.142,
+    "advanced_vocab_ratio": 0.0064,
+    "idiom_density": 0.0
+  },
+  "rubric_version": "absolute-1-5-v1"
+}

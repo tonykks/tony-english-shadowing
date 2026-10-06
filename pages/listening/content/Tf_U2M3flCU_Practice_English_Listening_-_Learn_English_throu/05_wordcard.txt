@@ -1,0 +1,89 @@
+[Card 1]
+headword: pregnant
+part_of_speech: adjective
+meaning_kr: 임신한
+definition_en: having a baby developing inside the body
+definition_kr_literal: 몸 안에서 아기가 자라고 있는 것
+example_en: I took a test and I was pregnant.
+example_kr_literal: 나는 검사를 받았고 임신한 상태였다.
+
+[Card 2]
+headword: cradle
+part_of_speech: noun
+meaning_kr: 요람
+definition_en: a small bed for a baby, often one that can be rocked
+definition_kr_literal: 아기를 위한 작은 침대로, 흔들 수 있는 경우가 많음
+example_en: We bought a beautiful yellow cradle for our baby.
+example_kr_literal: 우리는 아기를 위해 아름다운 노란색 요람을 샀다.
+
+[Card 3]
+headword: heartbeat
+part_of_speech: noun
+meaning_kr: 심장 박동
+definition_en: the regular movement or sound the heart makes as it pumps blood
+definition_kr_literal: 심장이 혈액을 펌프질할 때 내는 규칙적인 움직임이나 소리
+example_en: The doctor listened to the baby's heartbeat.
+example_kr_literal: 의사는 아기의 심장 박동 소리를 들었다.
+
+[Card 4]
+headword: loss
+part_of_speech: noun
+meaning_kr: 상실
+definition_en: the fact or feeling of having someone or something taken away
+definition_kr_literal: 누군가나 무언가를 빼앗겼다는 사실 또는 느낌
+example_en: People said, 'I'm sorry for your loss.'
+example_kr_literal: 사람들은 '삼가 조의를 표합니다.'라고 말했다.
+
+[Card 5]
+headword: grieve
+part_of_speech: verb
+meaning_kr: 슬퍼하다
+definition_en: to feel very sad because someone has died
+definition_kr_literal: 누군가 죽어서 매우 슬퍼하는 것
+example_en: He was grieving too, but he stayed quiet.
+example_kr_literal: 그도 슬퍼하고 있었지만, 그는 조용히 있었다.
+
+[Card 6]
+headword: broken
+part_of_speech: adjective
+meaning_kr: 상심한
+definition_en: feeling very sad or hurt emotionally
+definition_kr_literal: 매우 슬프거나 감정적으로 상처받은 느낌
+example_en: We were broken, but we were broken together.
+example_kr_literal: 우리는 무너졌지만, 함께 무너졌다.
+
+[Card 7]
+headword: charity
+part_of_speech: noun
+meaning_kr: 자선 단체
+definition_en: an organization that helps people in need
+definition_kr_literal: 어려움에 처한 사람들을 돕는 단체
+example_en: This story mentions charity.
+example_kr_literal: 이 이야기는 자선 단체를 언급한다.
+
+[Card 8]
+headword: grateful
+part_of_speech: adjective
+meaning_kr: 감사하는
+definition_en: feeling or showing thanks for something
+definition_kr_literal: 어떤 것에 대해 고마움을 느끼거나 표현하는 것
+example_en: The woman who ran the charity was so grateful for our gift.
+example_kr_literal: 그 자선 단체를 운영하던 여성은 우리의 선물에 매우 감사해했다.
+
+[Card 9]
+headword: expect
+part_of_speech: verb
+meaning_kr: 임신 중이다
+definition_en: to be going to have a baby soon
+definition_kr_literal: 곧 아이를 가질 예정이다
+example_en: They were expecting their first baby.
+example_kr_literal: 그들은 첫 아이를 기다리고 있었다.
+
+[Card 10]
+headword: heal
+part_of_speech: verb
+meaning_kr: 치유되다
+definition_en: to become healthy or happy again after a sad or painful time
+definition_kr_literal: 슬프거나 고통스러운 시간을 보낸 뒤 다시 건강해지거나 행복해지다
+example_en: It is okay to take time to heal slowly.
+example_kr_literal: 천천히 치유될 시간을 갖는 것은 괜찮다.

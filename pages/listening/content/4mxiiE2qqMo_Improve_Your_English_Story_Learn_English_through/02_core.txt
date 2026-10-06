@@ -1,0 +1,31 @@
+[Sentence 1]
+EN: I dreamed of wearing a white dress, holding flowers, and walking with a smile.
+KR: 저는 하얀 드레스를 입고 꽃을 든 채 미소를 지으며 걷는 것을 꿈꿨습니다.
+
+[Sentence 2]
+EN: The house was full of people, relatives, friends, and neighbors.
+KR: 집은 사람들, 친척, 친구, 그리고 이웃들로 가득 찼어.
+
+[Sentence 3]
+EN: It was me, but I was younger, standing with him smiling.
+KR: 그것은 나였지만, 더 젊은 시절의 내가 그와 함께 웃으며 서 있는 모습이었다.
+
+[Sentence 4]
+EN: Before I could ask anything, he ran away.
+KR: 내가 무엇을 물어보기도 전에, 그는 달려가 버렸다.
+
+[Sentence 5]
+EN: You smiled at me, and my world changed.
+KR: 당신이 나를 보고 미소 지었을 때, 나의 세상은 변했습니다.
+
+[Sentence 6]
+EN: When I saw you yesterday, you looked happy, but also different.
+KR: 어제 당신을 봤을 때 당신은 행복해 보였지만, 동시에 달라 보이기도 했어요.
+
+[Sentence 7]
+EN: That evening, I told my mother and father about the letter and the photos.
+KR: 그날 저녁, 나는 엄마와 아빠에게 편지와 사진들에 대해 이야기했다.
+
+[Sentence 8]
+EN: Sometimes, life takes away memories, but not the love that once lived in the heart.
+KR: 때때로 삶은 기억을 앗아가지만, 한때 마음속에 살았던 사랑까지는 앗아가지 못한다.

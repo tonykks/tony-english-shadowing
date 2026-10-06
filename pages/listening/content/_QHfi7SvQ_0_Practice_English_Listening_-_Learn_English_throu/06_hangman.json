@@ -1,0 +1,228 @@
+{
+  "version": 1,
+  "video_id": "_QHfi7SvQ_0",
+  "items": [
+    {
+      "id": "h01",
+      "source_sentence": "Let us begin with a beautiful story and the shadowing technique.",
+      "kr_hint": "아름다운 이야기와 쉐도잉 기법으로 시작해 봅시다.",
+      "correct_chunks": [
+        "Let",
+        "us",
+        "begin",
+        "with a beautiful story and the shadowing technique"
+      ],
+      "distractors": [
+        "lets",
+        "has let"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "Let",
+        "alternatives": [
+          "lets",
+          "has let"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h02",
+      "source_sentence": "It is about a smart young woman, a beautiful trip, and an unexpected love.",
+      "kr_hint": "그것은 똑똑한 젊은 여성, 아름다운 여행, 그리고 예상치 못한 사랑에 관한 이야기입니다.",
+      "correct_chunks": [
+        "It",
+        "is",
+        "about a smart young woman",
+        "a beautiful trip and an unexpected love"
+      ],
+      "distractors": [
+        "was",
+        "has been"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "is",
+        "alternatives": [
+          "was",
+          "has been"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h03",
+      "source_sentence": "After all the presentations, our boss stood up and said, \"I am very happy with all of you.",
+      "kr_hint": "모든 발표가 끝난 후, 상사가 일어나서 말했습니다, \"나는 여러분 모두에게 매우 만족합니다.",
+      "correct_chunks": [
+        "After all",
+        "the presentations our boss",
+        "stood",
+        "up and said",
+        "I",
+        "am",
+        "very happy",
+        "with all",
+        "of you"
+      ],
+      "distractors": [
+        "stands",
+        "has stood"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "stood",
+        "alternatives": [
+          "stands",
+          "has stood"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h04",
+      "source_sentence": "As I walked near the dock, a group of boys tried to steal my bag.",
+      "kr_hint": "내가 부두 근처를 걷고 있을 때, 한 무리의 소년들이 내 가방을 훔치려 했다.",
+      "correct_chunks": [
+        "As",
+        "I",
+        "walked",
+        "near the dock",
+        "a group",
+        "of boys",
+        "tried",
+        "to steal",
+        "my bag"
+      ],
+      "distractors": [
+        "walks",
+        "has walked"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "walked",
+        "alternatives": [
+          "walks",
+          "has walked"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h05",
+      "source_sentence": "When I reached the ship, I showed my ticket.",
+      "kr_hint": "배에 도착했을 때 저는 표를 보여주었습니다.",
+      "correct_chunks": [
+        "When I reached",
+        "the ship",
+        "I",
+        "showed",
+        "my ticket"
+      ],
+      "distractors": [
+        "shows",
+        "has shown"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "showed",
+        "alternatives": [
+          "shows",
+          "has shown"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h06",
+      "source_sentence": "People ran for cover, but we stayed there.",
+      "kr_hint": "사람들은 비를 피하려 뛰었지만, 우리는 그곳에 머물렀다.",
+      "correct_chunks": [
+        "People",
+        "ran",
+        "for cover",
+        "but we",
+        "stayed",
+        "there"
+      ],
+      "distractors": [
+        "runs",
+        "has run"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "ran",
+        "alternatives": [
+          "runs",
+          "has run"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h07",
+      "source_sentence": "He said, \"I do not know what this is, but I feel very close to you.",
+      "kr_hint": "그가 말했다, \"이게 뭔지는 모르겠지만, 당신과 매우 가깝게 느껴져요.",
+      "correct_chunks": [
+        "He said",
+        "I",
+        "do not",
+        "know",
+        "what this is",
+        "but I",
+        "feel",
+        "very close",
+        "to you"
+      ],
+      "distractors": [
+        "did",
+        "has done"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "do",
+        "alternatives": [
+          "did",
+          "has done"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h08",
+      "source_sentence": "At the airport, he looked at me and said, \"This is not the end.",
+      "kr_hint": "공항에서 그는 나를 바라보며 말했다, \"이게 끝은 아니야.",
+      "correct_chunks": [
+        "At the airport",
+        "he",
+        "looked",
+        "at me and said",
+        "This",
+        "is",
+        "not",
+        "the end"
+      ],
+      "distractors": [
+        "looks",
+        "has looked"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "looked",
+        "alternatives": [
+          "looks",
+          "has looked"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    }
+  ]
+}

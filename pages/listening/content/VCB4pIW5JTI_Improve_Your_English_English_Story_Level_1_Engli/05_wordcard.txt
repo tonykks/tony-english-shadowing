@@ -1,0 +1,89 @@
+[Card 1]
+headword: luxury
+part_of_speech: noun
+meaning_kr: 사치
+definition_en: great comfort, pleasure, or expensive things that are not necessary
+definition_kr_literal: 필수적이지 않은 큰 안락함, 즐거움, 또는 값비싼 것들.
+example_en: My life was full of luxury; I bought the best clothes and the most expensive cars.
+example_kr_literal: 내 삶은 사치로 가득 찼고, 나는 최고의 옷과 가장 비싼 차들을 샀다.
+
+[Card 2]
+headword: survive
+part_of_speech: verb
+meaning_kr: 생존하다
+definition_en: to continue to live or exist, especially in spite of danger or hardship
+definition_kr_literal: 특히 위험이나 역경에도 불구하고 계속 살거나 존재함.
+example_en: I had no money left, so I had to work hard to survive.
+example_kr_literal: 남은 돈이 없었기 때문에, 나는 살아남기 위해 열심히 일해야 했다.
+
+[Card 3]
+headword: option
+part_of_speech: noun
+meaning_kr: 선택권
+definition_en: a choice or something that is available to be chosen
+definition_kr_literal: 선택 또는 선택할 수 있는 것.
+example_en: I did not want to work in a restaurant, but I had no other option.
+example_kr_literal: 나는 식당에서 일하고 싶지 않았지만, 다른 선택지가 없었다.
+
+[Card 4]
+headword: struggle
+part_of_speech: verb
+meaning_kr: 고군분투하다
+definition_en: to try very hard to do something difficult
+definition_kr_literal: 어려운 일을 해내기 위해 매우 노력함.
+example_en: Life had changed quickly, and I was struggling to accept my new situation.
+example_kr_literal: 삶은 빠르게 변했고, 나는 나의 새로운 상황을 받아들이려고 애쓰고 있었다.
+
+[Card 5]
+headword: pride
+part_of_speech: noun
+meaning_kr: 자존심
+definition_en: a feeling of deep pleasure or satisfaction in one's own achievements or status
+definition_kr_literal: 자신의 성취나 지위에 대해 느끼는 깊은 기쁨이나 만족감.
+example_en: It hurt my pride to wash dishes, but I knew I had to do it.
+example_kr_literal: 설거지를 하는 것은 자존심이 상했지만, 나는 그것을 해야 한다는 것을 알고 있었다.
+
+[Card 6]
+headword: hesitate
+part_of_speech: verb
+meaning_kr: 주저하다
+definition_en: to pause before doing something because you are nervous or unsure
+definition_kr_literal: 긴장되거나 확신이 서지 않아서 무언가를 하기 전에 잠시 멈추는 것.
+example_en: I hesitated before asking for the job because I had never worked before.
+example_kr_literal: 나는 일을 해본 적이 없었기 때문에 일자리를 구하기 전에 망설였다.
+
+[Card 7]
+headword: glamorous
+part_of_speech: adjective
+meaning_kr: 화려한
+definition_en: attractive, exciting, and related to wealth or fame
+definition_kr_literal: 매력적이고 흥미진진하며 부나 명성과 관련된.
+example_en: Washing dishes was not a glamorous job, but it helped me pay for my food.
+example_kr_literal: 설거지는 화려한 직업은 아니었지만, 식비를 감당하는 데 도움이 되었다.
+
+[Card 8]
+headword: earn
+part_of_speech: verb
+meaning_kr: 벌다
+definition_en: to get money or something else in return for work that you have done
+definition_kr_literal: 자신이 한 일에 대한 대가로 돈이나 다른 무언가를 얻는 것.
+example_en: Every dollar I earned felt real because I had worked hard for it.
+example_kr_literal: 내가 번 모든 달러는 열심히 일해서 얻은 것이기에 실감이 났다.
+
+[Card 9]
+headword: patience
+part_of_speech: noun
+meaning_kr: 인내심
+definition_en: the ability to stay calm and wait without becoming annoyed
+definition_kr_literal: 짜증내지 않고 침착하게 기다릴 수 있는 능력.
+example_en: Hard work is important, but you also need patience to build a new life.
+example_kr_literal: 열심히 일하는 것도 중요하지만 새로운 삶을 만들기 위해서는 인내심도 필요합니다.
+
+[Card 10]
+headword: progress
+part_of_speech: noun
+meaning_kr: 진전
+definition_en: movement toward a goal or improvement
+definition_kr_literal: 목표나 개선을 향한 움직임.
+example_en: Saving money was slow, but I was finally making progress.
+example_kr_literal: 돈을 모으는 것은 느렸지만 나는 마침내 진전을 보이고 있었습니다.

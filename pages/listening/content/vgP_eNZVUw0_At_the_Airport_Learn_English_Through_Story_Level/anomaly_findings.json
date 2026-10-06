@@ -1,0 +1,65 @@
+[
+  {
+    "kind": "reporting_verb",
+    "text": "She asked.",
+    "start": 221.682,
+    "end": 221.683,
+    "decision": "keep",
+    "evidence": "matches_caption_window;matches_onscreen_frame",
+    "frame_path": "pages/listening/content/vgP_eNZVUw0/evidence/frame_00221682.jpg",
+    "frame_evidence": "frame_captured_targeted",
+    "onscreen_text": "\"Anna, where are you?\" she asked.\"\nI'm at Terminal 3, waiting for you.\"\nMaya said,",
+    "audio_evidence": "short_audio_window_captured",
+    "audio_path": "pages/listening/content/vgP_eNZVUw0/evidence/audio_00220682.m4a"
+  },
+  {
+    "kind": "reporting_verb",
+    "text": "I asked.",
+    "start": 265.161,
+    "end": 267.216,
+    "decision": "keep",
+    "evidence": "matches_caption_window;matches_onscreen_frame",
+    "frame_path": "pages/listening/content/vgP_eNZVUw0/evidence/frame_00265161.jpg",
+    "frame_evidence": "frame_captured_targeted",
+    "onscreen_text": "\"I think someone is following me.\" I was surprised. \"Who? Why?\" I asked.",
+    "audio_evidence": "short_audio_window_captured",
+    "audio_path": "pages/listening/content/vgP_eNZVUw0/evidence/audio_00264161.m4a"
+  },
+  {
+    "kind": "reporting_verb",
+    "text": "Maya said.",
+    "start": 226.282,
+    "end": 228.64,
+    "decision": "keep",
+    "evidence": "matches_caption_window;matches_onscreen_frame",
+    "frame_path": "pages/listening/content/vgP_eNZVUw0/evidence/frame_00226282.jpg",
+    "frame_evidence": "frame_captured_targeted",
+    "onscreen_text": "\"Oh no, I meant Terminal 2. I'm here and I'm scared. Please come fast.\"",
+    "audio_evidence": "short_audio_window_captured",
+    "audio_path": "pages/listening/content/vgP_eNZVUw0/evidence/audio_00225282.m4a"
+  },
+  {
+    "kind": "reporting_verb",
+    "text": "Maya whispered.",
+    "start": 661.522,
+    "end": 662.456,
+    "decision": "keep",
+    "evidence": "matches_caption_window;matches_onscreen_frame",
+    "frame_path": "pages/listening/content/vgP_eNZVUw0/evidence/frame_00661522.jpg",
+    "frame_evidence": "frame_captured_targeted",
+    "onscreen_text": "Someone paid him to follow you. Maya whispered. No, it can't be him. I looked at her. Who? I asked. She looked down.",
+    "audio_evidence": "short_audio_window_failed"
+  },
+  {
+    "kind": "reporting_verb",
+    "text": "I told her everything.",
+    "start": 740.401,
+    "end": 742.8266666666666,
+    "decision": "keep",
+    "evidence": "matches_caption_window;matches_onscreen_frame",
+    "frame_path": "pages/listening/content/vgP_eNZVUw0/evidence/frame_00740401.jpg",
+    "frame_evidence": "frame_captured_targeted",
+    "onscreen_text": "I saw the news. Something happened at the airport. I told her everything. She hugged us both and said, You are my brave girls.",
+    "audio_evidence": "short_audio_window_failed"
+  }
+]

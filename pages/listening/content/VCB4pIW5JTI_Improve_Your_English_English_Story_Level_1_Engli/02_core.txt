@@ -1,0 +1,39 @@
+[Sentence 1]
+EN: The bed was soft and the air smelled fresh My workers made my coffee.
+KR: 침대는 푹신했고 공기는 상쾌했으며 일꾼들이 내 커피를 타 주었다.
+
+[Sentence 2]
+EN: The bread was dry, the cheese was hard, but I had no choice.
+KR: 빵은 말라 있었고 치즈는 딱딱했지만, 나에게는 선택의 여지가 없었다.
+
+[Sentence 3]
+EN: But I had no other option If I wanted to survive, I had to change.
+KR: 하지만 나에게는 다른 선택지가 없었다, 살아남으려면 나는 변해야만 했다.
+
+[Sentence 4]
+EN: And if I wanted a future, I had to build it with my own hands.
+KR: 그리고 만약 내가 미래를 원한다면, 내 손으로 직접 그것을 만들어야 했다.
+
+[Sentence 5]
+EN: Life had changed, and I was struggling to accept it.
+KR: 삶은 변했고, 나는 그것을 받아들이기 위해 애쓰고 있었다.
+
+[Sentence 6]
+EN: It hurt my pride, but I knew this was my only way forward.
+KR: 자존심이 상했지만, 이것이 내가 앞으로 나아갈 유일한 길임을 알고 있었다.
+
+[Sentence 7]
+EN: It was strange In my old life, I had everything, but I was never truly happy.
+KR: 이상했다, 내 예전 삶에서는 모든 것을 가졌지만 나는 결코 진정으로 행복하지 않았다.
+
+[Sentence 8]
+EN: Instead, I paid my rent, bought food, and kept a little aside.
+KR: 대신 나는 월세를 내고, 식료품을 사고, 조금씩 따로 모아두었다.
+
+[Sentence 9]
+EN: Every day, the past felt like a different world, a world that did not belong to me anymore My mind was focused on the present, on the small victories.
+KR: 매일 과거는 다른 세상처럼 느껴졌고, 더 이상 나에게 속하지 않는 세상처럼 느껴졌다, 내 마음은 현재에, 작은 승리들에 집중되어 있었다.
+
+[Sentence 10]
+EN: Every dollar I earned felt real because I had worked for it.
+KR: 내가 번 모든 달러는 내 노력의 대가였기에 진실하게 느껴졌다.

@@ -1,0 +1,238 @@
+{
+  "version": 1,
+  "video_id": "vgP_eNZVUw0",
+  "items": [
+    {
+      "id": "h01",
+      "source_sentence": "This story is told by a girl, and she is also the main character.",
+      "kr_hint": "이 이야기는 한 소녀가 들려주는 이야기이며, 그 소녀가 주인공이기도 합니다.",
+      "correct_chunks": [
+        "This story",
+        "is told",
+        "by a girl and she",
+        "is",
+        "also",
+        "the main character"
+      ],
+      "distractors": [
+        "tells",
+        "has told"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "is told",
+        "alternatives": [
+          "tells",
+          "has told"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h02",
+      "source_sentence": "So, I put on my jeans, a pink jacket, and took my umbrella.",
+      "kr_hint": "그래서 저는 청바지와 분홍색 재킷을 입고 우산을 챙겼습니다.",
+      "correct_chunks": [
+        "So I",
+        "put",
+        "on my jeans",
+        "a pink jacket",
+        "and took",
+        "my umbrella"
+      ],
+      "distractors": [
+        "is",
+        "was",
+        "has been"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "So I",
+        "alternatives": [
+          "is",
+          "was",
+          "has been"
+        ],
+        "note": "verb form"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h03",
+      "source_sentence": "The bus was full of people and I stood the whole time.",
+      "kr_hint": "버스는 사람들로 가득 차 있어서 나는 내내 서 있었다.",
+      "correct_chunks": [
+        "The bus",
+        "was",
+        "full",
+        "of people and I",
+        "stood",
+        "the whole time"
+      ],
+      "distractors": [
+        "is",
+        "has been"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "was",
+        "alternatives": [
+          "is",
+          "has been"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h04",
+      "source_sentence": "She came from another city to see her father, but she was late and the plane had already gone.",
+      "kr_hint": "그녀는 아버지를 보러 다른 도시에서 왔지만, 늦어서 비행기는 이미 떠난 뒤였다.",
+      "correct_chunks": [
+        "She",
+        "came",
+        "from another city",
+        "to see her father",
+        "but she",
+        "was",
+        "late and the plane",
+        "had already",
+        "gone"
+      ],
+      "distractors": [
+        "comes",
+        "has come"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "came",
+        "alternatives": [
+          "comes",
+          "has come"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h05",
+      "source_sentence": "But before I could walk, the man looked at us and walked away.",
+      "kr_hint": "하지만 내가 걸어가기도 전에, 그 남자가 우리를 쳐다보고는 걸어갔다.",
+      "correct_chunks": [
+        "But",
+        "before I",
+        "could",
+        "walk",
+        "the man",
+        "looked",
+        "at us and",
+        "walked",
+        "away"
+      ],
+      "distractors": [
+        "can could",
+        "coulds"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "could",
+        "alternatives": [
+          "can could",
+          "coulds"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h06",
+      "source_sentence": "As we sat in the backseat, I saw something through the taxi window.",
+      "kr_hint": "뒷좌석에 앉았을 때, 나는 택시 창문을 통해 무언가를 보았습니다.",
+      "correct_chunks": [
+        "As",
+        "we",
+        "sat",
+        "in the backseat",
+        "I",
+        "saw",
+        "something through",
+        "the taxi window"
+      ],
+      "distractors": [
+        "sits",
+        "has sat"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "sat",
+        "alternatives": [
+          "sits",
+          "has sat"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h07",
+      "source_sentence": "The man tried to run, but two more guards came and stopped him.",
+      "kr_hint": "그 남자는 도망치려 했지만, 경비원 두 명이 더 와서 그를 막았다.",
+      "correct_chunks": [
+        "The man",
+        "tried",
+        "to run",
+        "but two more",
+        "guards",
+        "came",
+        "and stopped",
+        "him"
+      ],
+      "distractors": [
+        "tries",
+        "has tried"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "tried",
+        "alternatives": [
+          "tries",
+          "has tried"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h08",
+      "source_sentence": "But when we are brave, when we help each other, when we stay kind and strong, good things come back to us.",
+      "kr_hint": "하지만 우리가 용기를 낼 때, 서로 도울 때, 그리고 친절하고 강하게 지낼 때, 좋은 일들이 우리에게 돌아온다.",
+      "correct_chunks": [
+        "But when we are",
+        "brave",
+        "when we help",
+        "each other",
+        "when we stay kind and strong good",
+        "things",
+        "come",
+        "back to us"
+      ],
+      "distractors": [
+        "is",
+        "was",
+        "has been"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "But when we are",
+        "alternatives": [
+          "is",
+          "was",
+          "has been"
+        ],
+        "note": "verb form"
+      },
+      "final_punctuation": "."
+    }
+  ]
+}

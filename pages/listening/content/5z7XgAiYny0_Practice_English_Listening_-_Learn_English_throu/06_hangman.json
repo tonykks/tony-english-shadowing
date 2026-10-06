@@ -1,0 +1,253 @@
+{
+  "version": 1,
+  "video_id": "5z7XgAiYny0",
+  "items": [
+    {
+      "id": "h01",
+      "source_sentence": "Whether you are a beginner or at an intermediate level, this story will help you.",
+      "kr_hint": "초보자이든 중급자이든, 이 이야기가 여러분께 도움이 될 것입니다.",
+      "correct_chunks": [
+        "Whether",
+        "you",
+        "are",
+        "a beginner",
+        "or",
+        "at an intermediate level",
+        "this story",
+        "will help",
+        "you"
+      ],
+      "distractors": [
+        "is",
+        "was",
+        "has been"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "are",
+        "alternatives": [
+          "is",
+          "was",
+          "has been"
+        ],
+        "note": "verb form"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h02",
+      "source_sentence": "I keep telling myself that all brides feel like this but do they really?",
+      "kr_hint": "모든 신부들이 이런 기분을 느낄 거라고 스스로에게 계속 말하지만 정말 그럴까?",
+      "correct_chunks": [
+        "I",
+        "keep",
+        "telling myself",
+        "that all brides",
+        "feel",
+        "like this",
+        "but do",
+        "they",
+        "really"
+      ],
+      "distractors": [
+        "did",
+        "have done"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "but do",
+        "alternatives": [
+          "did",
+          "have done"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "?"
+    },
+    {
+      "id": "h03",
+      "source_sentence": "But now I think, why do I never say what I really want?",
+      "kr_hint": "하지만 이제 생각해, 왜 나는 내가 정말로 원하는 것을 한 번도 말하지 않는 걸까?",
+      "correct_chunks": [
+        "But now",
+        "I",
+        "think",
+        "why",
+        "do I never",
+        "say what",
+        "I",
+        "really want"
+      ],
+      "distractors": [
+        "is",
+        "was",
+        "has been"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "do I",
+        "alternatives": [
+          "is",
+          "was",
+          "has been"
+        ],
+        "note": "verb form"
+      },
+      "final_punctuation": "?"
+    },
+    {
+      "id": "h04",
+      "source_sentence": "He thinks I'm happy because I smile, but smiling is easy.",
+      "kr_hint": "그는 내가 웃기 때문에 내가 행복하다고 생각하지만, 웃는 것은 쉽습니다.",
+      "correct_chunks": [
+        "He",
+        "thinks",
+        "I'm happy",
+        "because I smile",
+        "but smiling is easy"
+      ],
+      "distractors": [
+        "thought",
+        "has thought"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "thinks",
+        "alternatives": [
+          "thought",
+          "has thought"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h05",
+      "source_sentence": "I asked her, \"What if I marry him and regret it?\"?",
+      "kr_hint": "나는 그녀에게 \"내가 그와 결혼해서 후회하면 어쩌지?\"라고 물었다?",
+      "correct_chunks": [
+        "I",
+        "asked",
+        "her What",
+        "if",
+        "I marry him and regret it"
+      ],
+      "distractors": [
+        "ask",
+        "have asked"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "asked",
+        "alternatives": [
+          "ask",
+          "have asked"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "?"
+    },
+    {
+      "id": "h06",
+      "source_sentence": "If I say yes, I will destroy myself.",
+      "kr_hint": "내가 그렇다고 말하면, 나는 나 자신을 파멸시킬 것이다.",
+      "correct_chunks": [
+        "If I say yes",
+        "I",
+        "will",
+        "destroy myself"
+      ],
+      "distractors": [
+        "would will",
+        "wills"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "will",
+        "alternatives": [
+          "would will",
+          "wills"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h07",
+      "source_sentence": "He knew all this time and he still wanted to marry me.",
+      "kr_hint": "그는 내내 이 모든 것을 알고도 여전히 나와 결혼하고 싶어 했어.",
+      "correct_chunks": [
+        "He",
+        "knew",
+        "all",
+        "this time and he",
+        "still wanted",
+        "to marry",
+        "me"
+      ],
+      "distractors": [
+        "knows",
+        "has known"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "knew",
+        "alternatives": [
+          "knows",
+          "has known"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h08",
+      "source_sentence": "Sometimes love is about being honest, even when it hurts.",
+      "kr_hint": "때로는 아프더라도 솔직해지는 것이 사랑입니다.",
+      "correct_chunks": [
+        "Sometimes love",
+        "is",
+        "about being honest even",
+        "when it hurts"
+      ],
+      "distractors": [
+        "was",
+        "has been"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "is",
+        "alternatives": [
+          "was",
+          "has been"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h09",
+      "source_sentence": "What would you do if you were her?",
+      "kr_hint": "당신이 그녀라면 어떻게 하시겠어요?",
+      "correct_chunks": [
+        "What would you do",
+        "if you were",
+        "her"
+      ],
+      "distractors": [
+        "will would you do",
+        "does"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "What would you do",
+        "alternatives": [
+          "will would you do",
+          "does"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "?"
+    }
+  ]
+}

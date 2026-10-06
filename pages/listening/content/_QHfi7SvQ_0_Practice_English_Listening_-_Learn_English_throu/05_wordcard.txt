@@ -1,0 +1,89 @@
+[Card 1]
+headword: unexpected
+part_of_speech: adjective
+meaning_kr: 예상치 못한
+definition_en: not expected; surprising
+definition_kr_literal: 예상치 못한, 놀라운.
+example_en: Meeting Liam on the ship was an unexpected surprise.
+example_kr_literal: 배에서 리암을 만난 것은 예상치 못한 놀라움이었다.
+
+[Card 2]
+headword: competition
+part_of_speech: noun
+meaning_kr: 대회
+definition_en: an event where people try to win or be the best
+definition_kr_literal: 사람들이 이기거나 최고가 되기 위해 노력하는 행사.
+example_en: The company held a competition for the best presentation.
+example_kr_literal: 그 회사는 최고의 발표를 위한 대회를 열었다.
+
+[Card 3]
+headword: presentation
+part_of_speech: noun
+meaning_kr: 발표
+definition_en: the act of showing and explaining something to a group of people
+definition_kr_literal: 사람들 앞에서 무언가를 보여주고 설명하는 행위.
+example_en: Emma worked very hard on her presentation.
+example_kr_literal: 엠마는 자신의 발표를 위해 매우 열심히 노력했다.
+
+[Card 4]
+headword: confidence
+part_of_speech: noun
+meaning_kr: 자신감
+definition_en: the feeling that you can do something well
+definition_kr_literal: 무언가를 잘할 수 있다는 느낌.
+example_en: She spoke with confidence in front of her team.
+example_kr_literal: 그녀는 팀원들 앞에서 자신감 있게 말했다.
+
+[Card 5]
+headword: deserve
+part_of_speech: verb
+meaning_kr: 받을 자격이 있다
+definition_en: to have earned something because of your hard work or actions
+definition_kr_literal: 당신의 노력이나 행동 때문에 무언가를 얻을 자격이 생기는 것
+example_en: You worked hard on your project, so you deserve this prize.
+example_kr_literal: 너는 프로젝트를 위해 열심히 일했으니, 이 상을 받을 자격이 있어.
+
+[Card 6]
+headword: steal
+part_of_speech: verb
+meaning_kr: 훔치다
+definition_en: to take something that does not belong to you
+definition_kr_literal: 자신의 것이 아닌 무언가를 가져가는 것
+example_en: The boys tried to steal her bag near the dock.
+example_kr_literal: 그 소년들은 부둣가 근처에서 그녀의 가방을 훔치려고 했다.
+
+[Card 7]
+headword: safe
+part_of_speech: adjective
+meaning_kr: 안전한
+definition_en: not in danger or likely to be harmed
+definition_kr_literal: 위험하지 않거나 해를 입을 가능성이 없는 것
+example_en: The man told her that the area was not safe.
+example_kr_literal: 그 남자는 그녀에게 그 지역이 안전하지 않다고 말했다.
+
+[Card 8]
+headword: cover
+part_of_speech: noun
+meaning_kr: 피난처
+definition_en: something that protects you from bad weather or danger
+definition_kr_literal: 악천후나 위험으로부터 당신을 보호해 주는 것
+example_en: When it started to rain, people ran for cover.
+example_kr_literal: 비가 내리기 시작하자 사람들은 피할 곳을 찾아 뛰어갔다.
+
+[Card 9]
+headword: close
+part_of_speech: adjective
+meaning_kr: 친밀한
+definition_en: having a strong emotional bond with someone
+definition_kr_literal: 누군가와 강한 정서적 유대를 갖는 것
+example_en: He told her that he felt very close to her.
+example_kr_literal: 그는 그녀에게 자신이 그녀와 매우 가깝게 느껴진다고 말했다.
+
+[Card 10]
+headword: begin
+part_of_speech: noun
+meaning_kr: 시작
+definition_en: the start of something
+definition_kr_literal: 무언가의 시작
+example_en: He said the trip was not the end, but the beginning of their story.
+example_kr_literal: 그는 그 여행이 끝이 아니라 그들 이야기의 시작이라고 말했다.

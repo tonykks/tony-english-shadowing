@@ -1,0 +1,297 @@
+{
+  "version": 1,
+  "video_id": "VCB4pIW5JTI",
+  "items": [
+    {
+      "id": "h01",
+      "source_sentence": "The bed was soft and the air smelled fresh My workers made my coffee.",
+      "kr_hint": "침대는 푹신했고 공기는 상쾌했으며 일꾼들이 내 커피를 타 주었다.",
+      "correct_chunks": [
+        "The bed",
+        "was",
+        "soft and the air",
+        "smelled",
+        "fresh",
+        "My workers",
+        "made",
+        "my coffee"
+      ],
+      "distractors": [
+        "is",
+        "has been"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "was",
+        "alternatives": [
+          "is",
+          "has been"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h02",
+      "source_sentence": "The bread was dry, the cheese was hard, but I had no choice.",
+      "kr_hint": "빵은 말라 있었고 치즈는 딱딱했지만, 나에게는 선택의 여지가 없었다.",
+      "correct_chunks": [
+        "The bread",
+        "was",
+        "dry",
+        "the cheese",
+        "was",
+        "hard",
+        "but I",
+        "had",
+        "no choice"
+      ],
+      "distractors": [
+        "is",
+        "has been"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "was",
+        "alternatives": [
+          "is",
+          "has been"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h03",
+      "source_sentence": "But I had no other option If I wanted to survive, I had to change.",
+      "kr_hint": "하지만 나에게는 다른 선택지가 없었다, 살아남으려면 나는 변해야만 했다.",
+      "correct_chunks": [
+        "But I",
+        "had",
+        "no other option",
+        "If I wanted",
+        "to survive",
+        "I",
+        "had",
+        "to change"
+      ],
+      "distractors": [
+        "is",
+        "was",
+        "has been"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "But I",
+        "alternatives": [
+          "is",
+          "was",
+          "has been"
+        ],
+        "note": "verb form"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h04",
+      "source_sentence": "And if I wanted a future, I had to build it with my own hands.",
+      "kr_hint": "그리고 만약 내가 미래를 원한다면, 내 손으로 직접 그것을 만들어야 했다.",
+      "correct_chunks": [
+        "And if I wanted",
+        "a future",
+        "I",
+        "had",
+        "to build",
+        "it",
+        "with my own",
+        "hands"
+      ],
+      "distractors": [
+        "wants",
+        "has wanted"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "And if I wanted",
+        "alternatives": [
+          "wants",
+          "has wanted"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h05",
+      "source_sentence": "Life had changed, and I was struggling to accept it.",
+      "kr_hint": "삶은 변했고, 나는 그것을 받아들이기 위해 애쓰고 있었다.",
+      "correct_chunks": [
+        "Life",
+        "had changed",
+        "and I",
+        "was struggling",
+        "to accept",
+        "it"
+      ],
+      "distractors": [
+        "changed",
+        "has changed"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "had changed",
+        "alternatives": [
+          "changed",
+          "has changed"
+        ],
+        "note": "past perfect"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h06",
+      "source_sentence": "It hurt my pride, but I knew this was my only way forward.",
+      "kr_hint": "자존심이 상했지만, 이것이 내가 앞으로 나아갈 유일한 길임을 알고 있었다.",
+      "correct_chunks": [
+        "It hurt",
+        "my pride",
+        "but I",
+        "knew",
+        "this",
+        "was",
+        "my only way forward"
+      ],
+      "distractors": [
+        "is",
+        "was",
+        "has been"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "but I",
+        "alternatives": [
+          "is",
+          "was",
+          "has been"
+        ],
+        "note": "verb form"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h07",
+      "source_sentence": "It was strange In my old life, I had everything, but I was never truly happy.",
+      "kr_hint": "이상했다, 내 예전 삶에서는 모든 것을 가졌지만 나는 결코 진정으로 행복하지 않았다.",
+      "correct_chunks": [
+        "It",
+        "was",
+        "strange",
+        "In my old life",
+        "I",
+        "had everything",
+        "but I",
+        "was never",
+        "truly happy"
+      ],
+      "distractors": [
+        "is",
+        "has been"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "was",
+        "alternatives": [
+          "is",
+          "has been"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h08",
+      "source_sentence": "Instead, I paid my rent, bought food, and kept a little aside.",
+      "kr_hint": "대신 나는 월세를 내고, 식료품을 사고, 조금씩 따로 모아두었다.",
+      "correct_chunks": [
+        "Instead",
+        "I",
+        "paid",
+        "my rent bought food",
+        "and kept",
+        "a little aside"
+      ],
+      "distractors": [
+        "pays",
+        "has paid"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "paid",
+        "alternatives": [
+          "pays",
+          "has paid"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h09",
+      "source_sentence": "Every day, the past felt like a different world, a world that did not belong to me anymore My mind was focused on the present, on the small victories.",
+      "kr_hint": "매일 과거는 다른 세상처럼 느껴졌고, 더 이상 나에게 속하지 않는 세상처럼 느껴졌다, 내 마음은 현재에, 작은 승리들에 집중되어 있었다.",
+      "correct_chunks": [
+        "Every day the past",
+        "felt",
+        "like a different world",
+        "a world that did not belong",
+        "to me",
+        "anymore My mind",
+        "was focused",
+        "on the present",
+        "on the small victories"
+      ],
+      "distractors": [
+        "feels",
+        "has felt"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "felt",
+        "alternatives": [
+          "feels",
+          "has felt"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h10",
+      "source_sentence": "Every dollar I earned felt real because I had worked for it.",
+      "kr_hint": "내가 번 모든 달러는 내 노력의 대가였기에 진실하게 느껴졌다.",
+      "correct_chunks": [
+        "Every dollar",
+        "I",
+        "earned",
+        "felt",
+        "real",
+        "because I had worked",
+        "for it"
+      ],
+      "distractors": [
+        "earns",
+        "has earned"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "earned",
+        "alternatives": [
+          "earns",
+          "has earned"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    }
+  ]
+}

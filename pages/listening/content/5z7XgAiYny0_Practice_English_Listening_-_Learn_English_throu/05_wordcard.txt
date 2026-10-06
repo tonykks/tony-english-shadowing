@@ -1,0 +1,89 @@
+[Card 1]
+headword: bride
+part_of_speech: noun
+meaning_kr: 신부
+definition_en: a woman on her wedding day
+definition_kr_literal: 결혼식 날의 여성
+example_en: I keep telling myself that all brides feel nervous before their wedding.
+example_kr_literal: 모든 신부는 결혼식 전에 긴장한다는 말을 스스로에게 계속 되뇌고 있다.
+
+[Card 2]
+headword: lucky
+part_of_speech: adjective
+meaning_kr: 운 좋은
+definition_en: having good things happen to you by chance
+definition_kr_literal: 우연히 좋은 일이 생기는 것
+example_en: People tell me I am lucky to have such a kind partner.
+example_kr_literal: 사람들은 나에게 그렇게 친절한 파트너를 둔 것이 행운이라고 말한다.
+
+[Card 3]
+headword: unsure
+part_of_speech: adjective
+meaning_kr: 확신이 없는
+definition_en: not certain or confident about something
+definition_kr_literal: 어떤 것에 대해 확신이 없거나 자신감이 없는
+example_en: I feel unsure about my future, so I cannot say yes.
+example_kr_literal: 나는 내 미래에 대해 확신이 없어서 예라고 말할 수 없다.
+
+[Card 4]
+headword: control
+part_of_speech: verb
+meaning_kr: 통제하다
+definition_en: to have the power to make decisions for someone else or a situation
+definition_kr_literal: 다른 사람이나 상황에 대해 결정을 내릴 권한을 갖는 것
+example_en: He likes to plan everything and control what I do.
+example_kr_literal: 그는 모든 것을 계획하고 내가 하는 일을 통제하는 것을 좋아한다.
+
+[Card 5]
+headword: regret
+part_of_speech: verb
+meaning_kr: 후회하다
+definition_en: to feel sad or sorry about something you did or did not do
+definition_kr_literal: 자신이 했거나 하지 않은 어떤 일에 대해 슬프거나 미안함을 느끼는 것
+example_en: I am worried that I will marry him and regret it later.
+example_kr_literal: 나는 그와 결혼해서 나중에 후회하게 될까 봐 걱정된다.
+
+[Card 6]
+headword: destroy
+part_of_speech: verb
+meaning_kr: 파괴하다
+definition_en: to damage something so badly that it cannot exist or be fixed
+definition_kr_literal: 무언가를 존재할 수 없거나 고칠 수 없을 정도로 심하게 손상시키는 것
+example_en: If I say yes when I am not ready, I will destroy my own happiness.
+example_kr_literal: 준비가 되지 않았는데 예라고 말한다면, 나는 내 자신의 행복을 망치게 될 것이다.
+
+[Card 7]
+headword: ignore
+part_of_speech: verb
+meaning_kr: 무시하다
+definition_en: to pay no attention to someone or something
+definition_kr_literal: 누군가나 무언가에 전혀 관심을 기울이지 않는 것
+example_en: He felt my unhappiness, but he decided to ignore it.
+example_kr_literal: 그는 나의 불행을 느꼈지만, 그것을 무시하기로 마음먹었다.
+
+[Card 8]
+headword: shock
+part_of_speech: verb
+meaning_kr: 충격을 주다
+definition_en: to surprise someone very much
+definition_kr_literal: 누군가를 매우 놀라게 하는 것
+example_en: I was shocked when he told me I didn't have to marry him.
+example_kr_literal: 그가 나에게 그와 결혼할 필요가 없다고 말했을 때 나는 충격을 받았다.
+
+[Card 9]
+headword: pretend
+part_of_speech: verb
+meaning_kr: ~인 척하다
+definition_en: to act as if something is true when it is not
+definition_kr_literal: 사실이 아닌 것을 사실인 것처럼 행동하는 것
+example_en: I don't want to keep pretending that I am happy.
+example_kr_literal: 나는 행복한 척을 계속하고 싶지 않아.
+
+[Card 10]
+headword: honest
+part_of_speech: adjective
+meaning_kr: 정직한
+definition_en: telling the truth and not hiding your feelings
+definition_kr_literal: 진실을 말하고 자신의 감정을 숨기지 않는 것
+example_en: Sometimes love is about being honest, even when the truth hurts.
+example_kr_literal: 가끔 사랑은 진실이 아플 때조차 솔직해지는 것이기도 해.

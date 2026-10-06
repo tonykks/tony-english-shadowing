@@ -1,0 +1,31 @@
+[Sentence 1]
+EN: Let us begin with a beautiful story and the shadowing technique.
+KR: 아름다운 이야기와 쉐도잉 기법으로 시작해 봅시다.
+
+[Sentence 2]
+EN: It is about a smart young woman, a beautiful trip, and an unexpected love.
+KR: 그것은 똑똑한 젊은 여성, 아름다운 여행, 그리고 예상치 못한 사랑에 관한 이야기입니다.
+
+[Sentence 3]
+EN: After all the presentations, our boss stood up and said, "I am very happy with all of you.
+KR: 모든 발표가 끝난 후, 상사가 일어나서 말했습니다, "나는 여러분 모두에게 매우 만족합니다.
+
+[Sentence 4]
+EN: As I walked near the dock, a group of boys tried to steal my bag.
+KR: 내가 부두 근처를 걷고 있을 때, 한 무리의 소년들이 내 가방을 훔치려 했다.
+
+[Sentence 5]
+EN: When I reached the ship, I showed my ticket.
+KR: 배에 도착했을 때 저는 표를 보여주었습니다.
+
+[Sentence 6]
+EN: People ran for cover, but we stayed there.
+KR: 사람들은 비를 피하려 뛰었지만, 우리는 그곳에 머물렀다.
+
+[Sentence 7]
+EN: He said, "I do not know what this is, but I feel very close to you.
+KR: 그가 말했다, "이게 뭔지는 모르겠지만, 당신과 매우 가깝게 느껴져요.
+
+[Sentence 8]
+EN: At the airport, he looked at me and said, "This is not the end.
+KR: 공항에서 그는 나를 바라보며 말했다, "이게 끝은 아니야.

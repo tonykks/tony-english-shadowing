@@ -1,0 +1,225 @@
+{
+  "version": 1,
+  "video_id": "4mxiiE2qqMo",
+  "items": [
+    {
+      "id": "h01",
+      "source_sentence": "I dreamed of wearing a white dress, holding flowers, and walking with a smile.",
+      "kr_hint": "저는 하얀 드레스를 입고 꽃을 든 채 미소를 지으며 걷는 것을 꿈꿨습니다.",
+      "correct_chunks": [
+        "I",
+        "dreamed",
+        "of wearing",
+        "a white dress",
+        "holding flowers",
+        "and walking with",
+        "a smile"
+      ],
+      "distractors": [
+        "dream",
+        "have dreamed"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "dreamed",
+        "alternatives": [
+          "dream",
+          "have dreamed"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h02",
+      "source_sentence": "The house was full of people, relatives, friends, and neighbors.",
+      "kr_hint": "집은 사람들, 친척, 친구, 그리고 이웃들로 가득 찼어.",
+      "correct_chunks": [
+        "The house",
+        "was",
+        "full",
+        "of people relatives",
+        "friends",
+        "and neighbors"
+      ],
+      "distractors": [
+        "is",
+        "has been"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "was",
+        "alternatives": [
+          "is",
+          "has been"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h03",
+      "source_sentence": "It was me, but I was younger, standing with him smiling.",
+      "kr_hint": "그것은 나였지만, 더 젊은 시절의 내가 그와 함께 웃으며 서 있는 모습이었다.",
+      "correct_chunks": [
+        "It",
+        "was",
+        "me",
+        "but I",
+        "was",
+        "younger",
+        "standing with",
+        "him",
+        "smiling"
+      ],
+      "distractors": [
+        "is",
+        "has been"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "was",
+        "alternatives": [
+          "is",
+          "has been"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h04",
+      "source_sentence": "Before I could ask anything, he ran away.",
+      "kr_hint": "내가 무엇을 물어보기도 전에, 그는 달려가 버렸다.",
+      "correct_chunks": [
+        "Before I",
+        "could ask",
+        "anything he",
+        "ran",
+        "away"
+      ],
+      "distractors": [
+        "can ask",
+        "asks"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "could ask",
+        "alternatives": [
+          "can ask",
+          "asks"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h05",
+      "source_sentence": "You smiled at me, and my world changed.",
+      "kr_hint": "당신이 나를 보고 미소 지었을 때, 나의 세상은 변했습니다.",
+      "correct_chunks": [
+        "You",
+        "smiled",
+        "at me and my world",
+        "changed"
+      ],
+      "distractors": [
+        "smile",
+        "have smiled"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "smiled",
+        "alternatives": [
+          "smile",
+          "have smiled"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h06",
+      "source_sentence": "When I saw you yesterday, you looked happy, but also different.",
+      "kr_hint": "어제 당신을 봤을 때 당신은 행복해 보였지만, 동시에 달라 보이기도 했어요.",
+      "correct_chunks": [
+        "When I saw",
+        "you yesterday",
+        "you",
+        "looked",
+        "happy",
+        "but also different"
+      ],
+      "distractors": [
+        "looks",
+        "has looked"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "looked",
+        "alternatives": [
+          "looks",
+          "has looked"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h07",
+      "source_sentence": "That evening, I told my mother and father about the letter and the photos.",
+      "kr_hint": "그날 저녁, 나는 엄마와 아빠에게 편지와 사진들에 대해 이야기했다.",
+      "correct_chunks": [
+        "That evening",
+        "I",
+        "told",
+        "my mother and father",
+        "about the letter and the photos"
+      ],
+      "distractors": [
+        "tells",
+        "has told"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "told",
+        "alternatives": [
+          "tells",
+          "has told"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h08",
+      "source_sentence": "Sometimes, life takes away memories, but not the love that once lived in the heart.",
+      "kr_hint": "때때로 삶은 기억을 앗아가지만, 한때 마음속에 살았던 사랑까지는 앗아가지 못한다.",
+      "correct_chunks": [
+        "Sometimes life",
+        "takes",
+        "away",
+        "memories",
+        "but not",
+        "the love",
+        "that once",
+        "lived",
+        "in the heart"
+      ],
+      "distractors": [
+        "took",
+        "has taken"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "takes",
+        "alternatives": [
+          "took",
+          "has taken"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    }
+  ]
+}

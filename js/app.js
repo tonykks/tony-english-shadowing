@@ -2,6 +2,15 @@
  * app.js — Main application coordinator for Tony's English Shadowing
  */
 
+function sortCatalogNewestFirst(items) {
+  const sequence = item => {
+    const value = Number(item.sequence);
+    return Number.isFinite(value) && value > 0 ? value : 0;
+  };
+  // Modern JS sort is stable: ties and invalid sequences retain source order.
+  return [...items].sort((a, b) => sequence(b) - sequence(a));
+}
+
 document.addEventListener("DOMContentLoaded", async () => {
   let allItems = [];
   let currentFilter = {
@@ -10,6 +19,8 @@ document.addEventListener("DOMContentLoaded", async () => {
     channel: "all",
   };
   let currentActiveTab = "all"; // "all" | "channels" | "speakers"
+  let activeChannel = null;
+  let activeSpeaker = null;
 
   // Elements
   const totalCountEl = document.getElementById("total-video-count");
@@ -47,7 +58,7 @@ document.addEventListener("DOMContentLoaded", async () => {
   // 1. Check local admin mode & load catalog
   await DataSource.checkLocalMode();
   const catalog = await DataSource.loadCatalog();
-  allItems = catalog.items || [];
+  allItems = sortCatalogNewestFirst(catalog.items || []);
 
   updateStats();
   renderChannelChips();
@@ -58,12 +69,18 @@ document.addEventListener("DOMContentLoaded", async () => {
   // 2. Initialize Admin Controller
   AdminController.init(async (newItem) => {
     const updatedCatalog = await DataSource.loadCatalog(true);
-    allItems = updatedCatalog.items || [];
+    allItems = sortCatalogNewestFirst(updatedCatalog.items || []);
     updateStats();
     renderChannelChips();
     renderMainCards();
     renderChannelsExplorer();
     renderSpeakersExplorer();
+    if (activeChannel && channelDetailView.style.display === "block") {
+      showChannel(activeChannel, allItems.filter(item => (item.channel || "기타 채널") === activeChannel));
+    }
+    if (activeSpeaker && speakerDetailView.style.display === "block") {
+      showSpeaker(activeSpeaker, allItems.filter(item => (item.speaker || "").trim() === activeSpeaker));
+    }
   });
 
   // 3. Tab switching
@@ -212,21 +229,25 @@ document.addEventListener("DOMContentLoaded", async () => {
   }
 
   function renderChannelsExplorer() {
-    ChannelExplorer.renderChannels(allItems, channelsGridEl, (channelName, channelItems) => {
-      channelsGridEl.style.display = "none";
-      channelDetailView.style.display = "block";
-      channelDetailTitle.textContent = `${channelName} (${channelItems.length}편)`;
-      renderCards(channelItems, channelCardsGrid);
-    });
+    ChannelExplorer.renderChannels(allItems, channelsGridEl, showChannel);
+  }
+  function showChannel(channelName, channelItems) {
+    activeChannel = channelName;
+    channelsGridEl.style.display = "none";
+    channelDetailView.style.display = "block";
+    channelDetailTitle.textContent = `${channelName} (${channelItems.length}편)`;
+    renderCards(channelItems, channelCardsGrid);
   }
 
   function renderSpeakersExplorer() {
-    SpeakerExplorer.renderSpeakers(allItems, speakersGridEl, (speakerName, speakerItems) => {
-      speakersGridEl.style.display = "none";
-      speakerDetailView.style.display = "block";
-      speakerDetailTitle.textContent = `${speakerName} 명연설 쉐도잉 (${speakerItems.length}편)`;
-      renderCards(speakerItems, speakerCardsGrid);
-    });
+    SpeakerExplorer.renderSpeakers(allItems, speakersGridEl, showSpeaker);
+  }
+  function showSpeaker(speakerName, speakerItems) {
+    activeSpeaker = speakerName;
+    speakersGridEl.style.display = "none";
+    speakerDetailView.style.display = "block";
+    speakerDetailTitle.textContent = `${speakerName} 명연설 쉐도잉 (${speakerItems.length}편)`;
+    renderCards(speakerItems, speakerCardsGrid);
   }
 
   function renderCards(items, containerEl) {

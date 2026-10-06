@@ -1,0 +1,89 @@
+[Card 1]
+headword: marry
+part_of_speech: verb
+meaning_kr: 결혼하다
+definition_en: to become the husband or wife of someone
+definition_kr_literal: 누군가의 남편이나 아내가 되는 것
+example_en: One day he asked me to marry him.
+example_kr_literal: 어느 날 그는 나에게 결혼해 달라고 말했다.
+
+[Card 2]
+headword: relative
+part_of_speech: noun
+meaning_kr: 친척
+definition_en: a person who is in the same family as another person
+definition_kr_literal: 다른 사람과 같은 가족인 사람
+example_en: The house was full of people, relatives, friends, and neighbors.
+example_kr_literal: 그 집은 친척들, 친구들, 그리고 이웃들로 가득 차 있었다.
+
+[Card 3]
+headword: strange
+part_of_speech: adjective
+meaning_kr: 이상한
+definition_en: not normal; different from what is usual
+definition_kr_literal: 정상이 아닌; 평소와 다른
+example_en: Then something strange happened.
+example_kr_literal: 그때 이상한 일이 일어났다.
+
+[Card 4]
+headword: confused
+part_of_speech: adjective
+meaning_kr: 혼란스러운
+definition_en: not able to think clearly or understand something
+definition_kr_literal: 무언가를 명확하게 생각하거나 이해할 수 없는
+example_en: I was confused because I did not remember him.
+example_kr_literal: 나는 그가 기억나지 않아서 혼란스러웠다.
+
+[Card 5]
+headword: lie
+part_of_speech: verb
+meaning_kr: 거짓말하다
+definition_en: to say something that is not true
+definition_kr_literal: 사실이 아닌 것을 말하는 것
+example_en: You remember everything. You are lying.
+example_kr_literal: 너는 모든 것을 기억하고 있어. 너는 거짓말을 하고 있어.
+
+[Card 6]
+headword: accident
+part_of_speech: noun
+meaning_kr: 사고
+definition_en: a sudden event that causes damage or injury
+definition_kr_literal: 피해나 부상을 일으키는 갑작스러운 사건
+example_en: I had an accident 5 years ago and lost my memory.
+example_kr_literal: 나는 5년 전에 사고를 당해서 기억을 잃었어.
+
+[Card 7]
+headword: memory
+part_of_speech: noun
+meaning_kr: 기억
+definition_en: the ability to remember things from the past
+definition_kr_literal: 과거의 일을 기억하는 능력
+example_en: Sometimes, life takes away memories.
+example_kr_literal: 때때로 삶은 기억들을 앗아가기도 해.
+
+[Card 8]
+headword: pain
+part_of_speech: noun
+meaning_kr: 고통
+definition_en: a strong feeling of being hurt or sad
+definition_kr_literal: 상처받았거나 슬픈 강한 감정
+example_en: My heart was heavy and full of pain.
+example_kr_literal: 내 마음은 무거웠고 고통으로 가득 찼어.
+
+[Card 9]
+headword: search
+part_of_speech: verb
+meaning_kr: 찾다
+definition_en: to look carefully for someone or something
+definition_kr_literal: 누군가나 무언가를 주의 깊게 찾는 것.
+example_en: I searched everywhere for you.
+example_kr_literal: 나는 너를 찾으려고 어디든 다 뒤졌어.
+
+[Card 10]
+headword: decision
+part_of_speech: noun
+meaning_kr: 결정
+definition_en: a choice that you make after thinking about something
+definition_kr_literal: 무언가에 대해 생각한 후에 내리는 선택.
+example_en: The next morning, I made a decision.
+example_kr_literal: 다음 날 아침, 나는 결정을 내렸다.

@@ -1,0 +1,234 @@
+{
+  "version": 1,
+  "video_id": "Tf_U2M3flCU",
+  "items": [
+    {
+      "id": "h01",
+      "source_sentence": "Whether you are a beginner or at an intermediate level, this story will help you.",
+      "kr_hint": "초급이든 중급 수준이든, 이 이야기가 여러분에게 도움이 될 것입니다.",
+      "correct_chunks": [
+        "Whether",
+        "you",
+        "are",
+        "a beginner",
+        "or",
+        "at an intermediate level",
+        "this story",
+        "will help",
+        "you"
+      ],
+      "distractors": [
+        "is",
+        "was",
+        "has been"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "are",
+        "alternatives": [
+          "is",
+          "was",
+          "has been"
+        ],
+        "note": "verb form"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h02",
+      "source_sentence": "When he walked in the door, I gave it to him.",
+      "kr_hint": "그가 문을 열고 들어왔을 때 나는 그에게 그것을 주었다.",
+      "correct_chunks": [
+        "When he walked",
+        "in the door",
+        "I",
+        "gave",
+        "it",
+        "to him"
+      ],
+      "distractors": [
+        "gives",
+        "has given"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "gave",
+        "alternatives": [
+          "gives",
+          "has given"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h03",
+      "source_sentence": "My husband and I decided to make it our baby's room.",
+      "kr_hint": "남편과 나는 그 방을 아기 방으로 꾸미기로 했다.",
+      "correct_chunks": [
+        "My husband and I",
+        "decided",
+        "to make",
+        "it",
+        "our baby's room"
+      ],
+      "distractors": [
+        "decids",
+        "has decided"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "decided",
+        "alternatives": [
+          "decids",
+          "has decided"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h04",
+      "source_sentence": "We were going home, but our home was not a happy place anymore.",
+      "kr_hint": "우리는 집으로 가고 있었지만, 우리의 집은 더 이상 행복한 곳이 아니었습니다.",
+      "correct_chunks": [
+        "We",
+        "were going",
+        "home",
+        "but our home",
+        "was",
+        "not",
+        "a happy",
+        "place",
+        "anymore"
+      ],
+      "distractors": [
+        "are going",
+        "will be going"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "were going",
+        "alternatives": [
+          "are going",
+          "will be going"
+        ],
+        "note": "past progressive"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h05",
+      "source_sentence": "I know they wanted to help, but their words hurt.",
+      "kr_hint": "나는 그들이 도우려 했다는 걸 알지만, 그들의 말은 상처가 되었다.",
+      "correct_chunks": [
+        "I",
+        "know",
+        "they",
+        "wanted",
+        "to help",
+        "but their words hurt"
+      ],
+      "distractors": [
+        "want",
+        "have wanted"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "wanted",
+        "alternatives": [
+          "want",
+          "have wanted"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h06",
+      "source_sentence": "We were broken, but we were broken together.",
+      "kr_hint": "우리는 망가졌었지만, 우리는 함께 망가졌었다.",
+      "correct_chunks": [
+        "We",
+        "were broken",
+        "but we",
+        "were broken together"
+      ],
+      "distractors": [
+        "break",
+        "broke",
+        "have broken"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "were broken",
+        "alternatives": [
+          "break",
+          "broke",
+          "have broken"
+        ],
+        "note": "verb form"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h07",
+      "source_sentence": "I thought about our baby, Daisy, who never got to sleep here.",
+      "kr_hint": "나는 이곳에서 한 번도 자보지 못한 우리 아기 데이지를 생각했다.",
+      "correct_chunks": [
+        "I",
+        "thought",
+        "about our baby",
+        "Daisy",
+        "who never",
+        "got",
+        "to sleep",
+        "here"
+      ],
+      "distractors": [
+        "think",
+        "have thought"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "thought",
+        "alternatives": [
+          "think",
+          "have thought"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h08",
+      "source_sentence": "We decided to give it to a young couple we knew from Matthew's work.",
+      "kr_hint": "우리는 매튜의 직장에서 알게 된 젊은 부부에게 그것을 주기로 결정했다.",
+      "correct_chunks": [
+        "We",
+        "decided",
+        "to give",
+        "it",
+        "to a young couple",
+        "we",
+        "knew",
+        "from Matthew's",
+        "work"
+      ],
+      "distractors": [
+        "decid",
+        "have decided"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "decided",
+        "alternatives": [
+          "decid",
+          "have decided"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    }
+  ]
+}

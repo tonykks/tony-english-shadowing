@@ -1,0 +1,89 @@
+[Card 1]
+headword: character
+part_of_speech: noun
+meaning_kr: 등장인물
+definition_en: a person in a novel, play, or movie
+definition_kr_literal: 소설, 연극 또는 영화 속의 등장인물
+example_en: This story is told by a girl, and she is also the main character.
+example_kr_literal: 이 이야기는 한 소녀에 의해 서술되며, 그녀가 바로 주인공이기도 하다.
+
+[Card 2]
+headword: distance
+part_of_speech: noun
+meaning_kr: 먼 곳
+definition_en: a point or place that is far away
+definition_kr_literal: 멀리 떨어진 지점이나 장소
+example_en: The sky was gray and I saw planes in the distance.
+example_kr_literal: 하늘은 회색이었고 나는 멀리서 비행기들을 보았다.
+
+[Card 3]
+headword: nervous
+part_of_speech: adjective
+meaning_kr: 불안한
+definition_en: worried or slightly afraid, especially about something that is going to happen
+definition_kr_literal: 특히 앞으로 일어날 일에 대해 걱정하거나 약간 두려워하는
+example_en: I waited twenty minutes for Maya, but she didn't arrive, so I felt nervous.
+example_kr_literal: 나는 마야를 20분 동안 기다렸지만 그녀는 오지 않았고, 그래서 나는 불안함을 느꼈다.
+
+[Card 4]
+headword: whisper
+part_of_speech: verb
+meaning_kr: 속삭이다
+definition_en: to speak very softly using one's breath rather than one's throat
+definition_kr_literal: 목구멍이 아닌 숨을 사용하여 아주 작게 말하다
+example_en: That is him, Maya whispered when she saw the man in the coffee shop.
+example_kr_literal: 커피숍에서 그 남자를 보았을 때 마야는 저 사람이 그라고 속삭였다.
+
+[Card 5]
+headword: disappear
+part_of_speech: verb
+meaning_kr: 사라지다
+definition_en: to stop being visible or to pass out of sight
+definition_kr_literal: 보이지 않게 되거나 시야에서 사라지는 것
+example_en: We watched the man disappear into the crowd of people.
+example_kr_literal: 우리는 그 남자가 인파 속으로 사라지는 것을 지켜보았다.
+
+[Card 6]
+headword: chill
+part_of_speech: noun
+meaning_kr: 오한
+definition_en: a feeling of fear or coldness caused by shock
+definition_kr_literal: 충격으로 인해 느끼는 두려움이나 한기
+example_en: When I realized the same car was following us, I felt a chill.
+example_kr_literal: 똑같은 차가 우리를 따라오고 있다는 것을 깨달았을 때, 나는 오싹함을 느꼈다.
+
+[Card 7]
+headword: detective
+part_of_speech: noun
+meaning_kr: 형사
+definition_en: a person whose job is to discover information about crimes or suspicious people
+definition_kr_literal: 범죄나 수상한 사람들에 대한 정보를 알아내는 것을 직업으로 하는 사람
+example_en: The police thought the man following Maya might be a private detective.
+example_kr_literal: 경찰은 마야를 뒤따르던 남자가 사립 탐정일지도 모른다고 생각했다.
+
+[Card 8]
+headword: investigate
+part_of_speech: verb
+meaning_kr: 조사하다
+definition_en: to try to discover facts about something to learn the truth
+definition_kr_literal: 진실을 알기 위해 무언가에 대한 사실을 밝혀내려고 노력하는 것
+example_en: The police said they would investigate the man's actions.
+example_kr_literal: 경찰은 그 남자의 행동을 조사하겠다고 말했다.
+
+[Card 9]
+headword: brave
+part_of_speech: adjective
+meaning_kr: 용감한
+definition_en: showing no fear of dangerous or difficult things
+definition_kr_literal: 위험하거나 어려운 일에도 두려움을 보이지 않는 것
+example_en: When we are brave and help each other, good things come back to us.
+example_kr_literal: 우리가 용기를 내어 서로 도울 때, 좋은 일들이 우리에게 돌아옵니다.
+
+[Card 10]
+headword: courage
+part_of_speech: noun
+meaning_kr: 용기
+definition_en: the ability to do something that frightens you; strength in the face of pain or grief
+definition_kr_literal: 두려운 일을 할 수 있는 능력, 즉 고통이나 슬픔 앞에서의 강인함
+example_en: I went to the airport to help a friend, and through that experience, I found my courage.
+example_kr_literal: 저는 친구를 도우러 공항에 갔고, 그 경험을 통해 제 용기를 발견했습니다.

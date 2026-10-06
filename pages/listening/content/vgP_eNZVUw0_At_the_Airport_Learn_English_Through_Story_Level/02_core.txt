@@ -1,0 +1,31 @@
+[Sentence 1]
+EN: This story is told by a girl, and she is also the main character.
+KR: 이 이야기는 한 소녀가 들려주는 이야기이며, 그 소녀가 주인공이기도 합니다.
+
+[Sentence 2]
+EN: So, I put on my jeans, a pink jacket, and took my umbrella.
+KR: 그래서 저는 청바지와 분홍색 재킷을 입고 우산을 챙겼습니다.
+
+[Sentence 3]
+EN: The bus was full of people and I stood the whole time.
+KR: 버스는 사람들로 가득 차 있어서 나는 내내 서 있었다.
+
+[Sentence 4]
+EN: She came from another city to see her father, but she was late and the plane had already gone.
+KR: 그녀는 아버지를 보러 다른 도시에서 왔지만, 늦어서 비행기는 이미 떠난 뒤였다.
+
+[Sentence 5]
+EN: But before I could walk, the man looked at us and walked away.
+KR: 하지만 내가 걸어가기도 전에, 그 남자가 우리를 쳐다보고는 걸어갔다.
+
+[Sentence 6]
+EN: As we sat in the backseat, I saw something through the taxi window.
+KR: 뒷좌석에 앉았을 때, 나는 택시 창문을 통해 무언가를 보았습니다.
+
+[Sentence 7]
+EN: The man tried to run, but two more guards came and stopped him.
+KR: 그 남자는 도망치려 했지만, 경비원 두 명이 더 와서 그를 막았다.
+
+[Sentence 8]
+EN: But when we are brave, when we help each other, when we stay kind and strong, good things come back to us.
+KR: 하지만 우리가 용기를 낼 때, 서로 도울 때, 그리고 친절하고 강하게 지낼 때, 좋은 일들이 우리에게 돌아온다.

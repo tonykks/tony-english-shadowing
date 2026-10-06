@@ -177,17 +177,18 @@
       </div>
       <div class="modal-body">
         <div class="form-group">
-          <label class="form-label" for="admin-url">YouTube URL 또는 Video ID *</label>
-          <input type="text" id="admin-url" class="form-input" placeholder="https://www.youtube.com/watch?v=..." required>
+          <label class="form-label" for="admin-url">YouTube URL 또는 Video ID (1~5개) *</label>
+          <textarea id="admin-url" class="form-input" rows="3" placeholder="https://www.youtube.com/watch?v=...&#10;(최대 5개까지 한 줄에 하나씩 입력)" aria-describedby="admin-url-count" required></textarea>
+          <p class="form-hint" id="admin-url-count" aria-live="polite">0 / 5개 입력</p>
           <p class="form-hint">영어 자막(수동 또는 자동 자막)이 포함된 유튜브 영상 주소를 입력하세요.</p>
         </div>
 
         <div class="form-group">
-          <label class="form-label" for="admin-level">학습 난이도 (Level)</label>
+          <label class="form-label" for="admin-level">학습 난이도 (입력한 모든 영상에 적용)</label>
           <select id="admin-level" class="form-select">
-            <option value="auto">자동 판단 (Auto-Level)</option>
+            <option value="auto" selected>AI 자동 판정 (권장)</option>
             <option value="1">Level 1 (초급 - 일상 회화, 쉬운 단어)</option>
-            <option value="2" selected>Level 2 (중급 - Graded Reader, 일반 지식)</option>
+            <option value="2">Level 2 (중급 - Graded Reader, 일반 지식)</option>
             <option value="3">Level 3 (고급 - 명연설, 인터뷰, 시사)</option>
             <option value="4">Level 4 (심화 - 학술 강연, 비즈니스)</option>
             <option value="5">Level 5 (최상급 - 전문 발표, 복합 어휘)</option>
@@ -195,12 +196,12 @@
         </div>
 
         <div class="form-group">
-          <label class="form-label" for="admin-speaker">화자 / 강사 (선택값)</label>
+          <label class="form-label" for="admin-speaker">화자 / 강사 (선택값, 입력한 모든 영상에 적용)</label>
           <input type="text" id="admin-speaker" class="form-input" placeholder="예: Steve Jobs, Barack Obama (비워두면 채널 중심 관리)">
           <p class="form-hint">단독 강연자나 명연설의 주인공이 명확할 때만 입력하세요. 일반 학습 영상은 비워둡니다.</p>
         </div>
 
-        <div class="admin-log-box" id="admin-log-box"></div>
+        <div class="admin-log-box" id="admin-log-box" aria-live="polite"></div>
       </div>
       <div class="modal-footer">
         <button class="btn-secondary" id="cancel-admin-btn">취소</button>
