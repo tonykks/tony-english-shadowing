@@ -1004,8 +1004,7 @@
       "wordcard_count": 10,
       "status": "published",
       "sequence": 50,
-      "hidden": true,
-      "hidden_at": "2026-10-06T04:38:26.238760+00:00"
+      "hidden": false
     }
   ]
 }
