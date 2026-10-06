@@ -2,7 +2,7 @@
   "version": 1,
   "app": "Tony's English Shadowing",
   "description": "Curated YouTube English Shadowing Library",
-  "total_count": 46,
+  "total_count": 48,
   "items": [
     {
       "video_id": "Pq2uwssaFRo",
@@ -924,6 +924,46 @@
       "wordcard_count": 10,
       "status": "published",
       "sequence": 46
+    },
+    {
+      "video_id": "6AENVwGVAqo",
+      "title": "Improve Your English Story  Learn English through Stories Level 1 Graded Readers  Practice English",
+      "level": 1,
+      "source_url": "https://youtu.be/6AENVwGVAqo",
+      "channel": "English Stories with Allicia 2",
+      "speaker": null,
+      "content_path": "pages/listening/content/6AENVwGVAqo_Improve_Your_English_Story_Learn_English_through",
+      "page_path": "pages/listening/content/6AENVwGVAqo_Improve_Your_English_Story_Learn_English_through/6AENVwGVAqo_Improve_Your_English_Story_Learn_English_through.html",
+      "href": "./pages/listening/content/6AENVwGVAqo_Improve_Your_English_Story_Learn_English_through/6AENVwGVAqo_Improve_Your_English_Story_Learn_English_through.html",
+      "introEn": "This story explores the challenging relationship between Carol, a young woman working in a bakery, and Paul, a man from a wealthy family. As their secret romance develops, Paul faces intense pressure from his parents and a jealous rival named Rachel who wants to tear them apart. You will hear about the difficult choices Paul and Carol must make when his family threatens to cut off his financial support. Pay close attention to how honesty and external influence shape the future of their relationship. As you listen, consider what factors truly define a lasting bond between two people. By the end of this narrative, you will discover whether love can survive when it is tested by money, status, and deception.",
+      "tags": [
+        "Level 1",
+        "신규"
+      ],
+      "section_count": 8,
+      "wordcard_count": 10,
+      "status": "published",
+      "sequence": 47
+    },
+    {
+      "video_id": "cbXHqifALxs",
+      "title": "The Last Hope  Improve Your English Story  Learn English through Stories Level 1 Graded Readers",
+      "level": 1,
+      "source_url": "https://youtu.be/cbXHqifALxs",
+      "channel": "English Stories with Allicia 2",
+      "speaker": null,
+      "content_path": "pages/listening/content/cbXHqifALxs_The_Last_Hope_Improve_Your_English_Story_Learn_E",
+      "page_path": "pages/listening/content/cbXHqifALxs_The_Last_Hope_Improve_Your_English_Story_Learn_E/cbXHqifALxs_The_Last_Hope_Improve_Your_English_Story_Learn_E.html",
+      "href": "./pages/listening/content/cbXHqifALxs_The_Last_Hope_Improve_Your_English_Story_Learn_E/cbXHqifALxs_The_Last_Hope_Improve_Your_English_Story_Learn_E.html",
+      "introEn": "Alex is a graphic designer who has lived a happy and fulfilled life with his adoptive parents, John and Anna. For thirty years, he felt no curiosity about his biological family and maintained a solid wall of anger toward them. However, his life changed abruptly when he received a phone call from a woman claiming to be his birthmother. She revealed that he has an eight-year-old half-brother named Leo who has been desperate to meet him. This unexpected revelation forced Alex to confront his deep-seated emotions and reconsider his boundaries. Listen to the following story to discover how Alex navigates this internal conflict and whether he chooses to open a door to the past for the sake of an innocent child.",
+      "tags": [
+        "Level 1",
+        "신규"
+      ],
+      "section_count": 8,
+      "wordcard_count": 10,
+      "status": "published",
+      "sequence": 48
     }
   ]
 }

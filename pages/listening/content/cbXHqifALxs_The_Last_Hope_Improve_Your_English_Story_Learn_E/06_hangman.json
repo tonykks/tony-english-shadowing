@@ -1,0 +1,233 @@
+{
+  "version": 1,
+  "video_id": "cbXHqifALxs",
+  "items": [
+    {
+      "id": "h01",
+      "source_sentence": "About the people who gave me away, I feel nothing but distance.",
+      "kr_hint": "저를 버린 사람들에 대해, 저는 거리감 외에는 아무것도 느끼지 않습니다.",
+      "correct_chunks": [
+        "About the people",
+        "who gave me",
+        "away",
+        "I",
+        "feel",
+        "nothing but",
+        "distance"
+      ],
+      "distractors": [
+        "awayed",
+        "has awayed"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "away",
+        "alternatives": [
+          "awayed",
+          "has awayed"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h02",
+      "source_sentence": "It would be a betrayal to John and Anna, the two people who chose me.",
+      "kr_hint": "그것은 나를 선택해 준 두 사람, 존과 안나에게 배신이 될 것이었다.",
+      "correct_chunks": [
+        "It",
+        "would be",
+        "a betrayal",
+        "to John and",
+        "Anna",
+        "the two people",
+        "who chose me"
+      ],
+      "distractors": [
+        "will be",
+        "is"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "would be",
+        "alternatives": [
+          "will be",
+          "is"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h03",
+      "source_sentence": "She told me that I have a brother, a younger brother who I never knew existed.",
+      "kr_hint": "그녀는 나에게 남동생이 있다고, 존재조차 몰랐던 남동생이 있다고 말했다.",
+      "correct_chunks": [
+        "She",
+        "told",
+        "me that I",
+        "have",
+        "a brother",
+        "a younger brother",
+        "who I never",
+        "knew",
+        "existed"
+      ],
+      "distractors": [
+        "tells",
+        "has told"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "told",
+        "alternatives": [
+          "tells",
+          "has told"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h04",
+      "source_sentence": "My anger was for the two adults who created this situation.",
+      "kr_hint": "나의 분노는 이 상황을 만든 두 어른을 향한 것이었다.",
+      "correct_chunks": [
+        "My anger",
+        "was",
+        "for the two adults",
+        "who created",
+        "this situation"
+      ],
+      "distractors": [
+        "is",
+        "has been"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "was",
+        "alternatives": [
+          "is",
+          "has been"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h05",
+      "source_sentence": "My logical mind agreed with this but another smaller voice inside me kept whispering the boy's name.",
+      "kr_hint": "나의 이성적인 마음은 이에 동의했지만 내 안의 또 다른 작은 목소리는 계속해서 그 소년의 이름을 속삭였다.",
+      "correct_chunks": [
+        "My logical mind",
+        "agreed",
+        "with this",
+        "but another smaller voice",
+        "inside me",
+        "kept",
+        "whispering the boy's name"
+      ],
+      "distractors": [
+        "agres",
+        "agred",
+        "has agred"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "agreed",
+        "alternatives": [
+          "agres",
+          "agred",
+          "has agred"
+        ],
+        "note": "verb form"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h06",
+      "source_sentence": "When I hung up the phone, I did not feel better.",
+      "kr_hint": "전화를 끊었을 때, 나는 기분이 나아지지 않았다.",
+      "correct_chunks": [
+        "When I hung",
+        "up the phone",
+        "I",
+        "did not",
+        "feel",
+        "better"
+      ],
+      "distractors": [
+        "does",
+        "has done"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "did",
+        "alternatives": [
+          "does",
+          "has done"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h07",
+      "source_sentence": "After about 30 minutes, I realized it was time to leave.",
+      "kr_hint": "약 30분 후, 나는 떠날 시간이라는 것을 깨달았다.",
+      "correct_chunks": [
+        "After about",
+        "30 minutes",
+        "I",
+        "realized",
+        "it",
+        "was",
+        "time",
+        "to leave"
+      ],
+      "distractors": [
+        "realizes",
+        "has realized"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "realized",
+        "alternatives": [
+          "realizes",
+          "has realized"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h08",
+      "source_sentence": "I told them that any future meetings must be about him only.",
+      "kr_hint": "나는 그들에게 향후 모든 회의는 오직 그에 관한 것들뿐이어야 한다고 말했습니다.",
+      "correct_chunks": [
+        "I",
+        "told",
+        "them",
+        "that",
+        "any future meetings",
+        "must be",
+        "about him",
+        "only"
+      ],
+      "distractors": [
+        "tell",
+        "have told"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "told",
+        "alternatives": [
+          "tell",
+          "have told"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    }
+  ]
+}

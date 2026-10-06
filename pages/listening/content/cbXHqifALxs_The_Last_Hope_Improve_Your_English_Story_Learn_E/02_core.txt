@@ -1,0 +1,31 @@
+[Sentence 1]
+EN: About the people who gave me away, I feel nothing but distance.
+KR: 저를 버린 사람들에 대해, 저는 거리감 외에는 아무것도 느끼지 않습니다.
+
+[Sentence 2]
+EN: It would be a betrayal to John and Anna, the two people who chose me.
+KR: 그것은 나를 선택해 준 두 사람, 존과 안나에게 배신이 될 것이었다.
+
+[Sentence 3]
+EN: She told me that I have a brother, a younger brother who I never knew existed.
+KR: 그녀는 나에게 남동생이 있다고, 존재조차 몰랐던 남동생이 있다고 말했다.
+
+[Sentence 4]
+EN: My anger was for the two adults who created this situation.
+KR: 나의 분노는 이 상황을 만든 두 어른을 향한 것이었다.
+
+[Sentence 5]
+EN: My logical mind agreed with this but another smaller voice inside me kept whispering the boy's name.
+KR: 나의 이성적인 마음은 이에 동의했지만 내 안의 또 다른 작은 목소리는 계속해서 그 소년의 이름을 속삭였다.
+
+[Sentence 6]
+EN: When I hung up the phone, I did not feel better.
+KR: 전화를 끊었을 때, 나는 기분이 나아지지 않았다.
+
+[Sentence 7]
+EN: After about 30 minutes, I realized it was time to leave.
+KR: 약 30분 후, 나는 떠날 시간이라는 것을 깨달았다.
+
+[Sentence 8]
+EN: I told them that any future meetings must be about him only.
+KR: 나는 그들에게 향후 모든 회의는 오직 그에 관한 것들뿐이어야 한다고 말했습니다.

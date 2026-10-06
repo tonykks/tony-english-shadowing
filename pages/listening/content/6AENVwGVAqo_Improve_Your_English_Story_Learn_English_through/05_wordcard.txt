@@ -1,0 +1,89 @@
+[Card 1]
+headword: support
+part_of_speech: verb
+meaning_kr: 부양하다
+definition_en: to provide money, food, or help for someone
+definition_kr_literal: 누군가에게 돈, 음식 또는 도움을 제공하는 것
+example_en: If I stay with you, my parents will stop supporting me.
+example_kr_literal: 내가 너와 함께 지내면, 부모님은 나에 대한 지원을 끊으실 것이다.
+
+[Card 2]
+headword: confused
+part_of_speech: adjective
+meaning_kr: 혼란스러운
+definition_en: unable to think clearly or understand something
+definition_kr_literal: 무언가를 명확하게 생각하거나 이해할 수 없는 상태
+example_en: Carol was confused when Paul asked her so many questions.
+example_kr_literal: 폴이 캐럴에게 너무 많은 질문을 했을 때 캐럴은 혼란스러웠다.
+
+[Card 3]
+headword: secret
+part_of_speech: noun
+meaning_kr: 비밀
+definition_en: something that is kept hidden from other people
+definition_kr_literal: 다른 사람들로부터 숨겨져 있는 것
+example_en: They talked in secret because they were afraid of his family.
+example_kr_literal: 그들은 그의 가족을 두려워했기 때문에 비밀리에 이야기했다.
+
+[Card 4]
+headword: jealous
+part_of_speech: adjective
+meaning_kr: 질투하는
+definition_en: feeling unhappy because someone has something that you want
+definition_kr_literal: 누군가가 자신이 원하는 것을 가지고 있어서 불행하다고 느끼는 것
+example_en: Rachel felt jealous because Paul was spending time with Carol.
+example_kr_literal: 폴이 캐럴과 시간을 보내고 있었기 때문에 레이첼은 질투를 느꼈다.
+
+[Card 5]
+headword: destroy
+part_of_speech: verb
+meaning_kr: 파괴하다
+definition_en: to damage something so badly that it cannot be fixed
+definition_kr_literal: 무언가를 수리할 수 없을 정도로 심하게 손상시키는 것
+example_en: Rachel asked Carol if she wanted to destroy Paul's future.
+example_kr_literal: 레이첼은 캐럴에게 폴의 미래를 망치고 싶은지 물었다.
+
+[Card 6]
+headword: protect
+part_of_speech: verb
+meaning_kr: 보호하다
+definition_en: to keep someone safe from harm
+definition_kr_literal: 누군가를 해로부터 안전하게 지키는 것
+example_en: Carol tried to protect Paul from losing his family's support.
+example_kr_literal: 캐럴은 폴이 가족의 지원을 잃지 않도록 보호하려고 노력했다.
+
+[Card 7]
+headword: honest
+part_of_speech: adjective
+meaning_kr: 정직한
+definition_en: telling the truth; not lying
+definition_kr_literal: 진실을 말하는 것; 거짓말하지 않는 것
+example_en: Paul's father realized that Carol was a very honest person.
+example_kr_literal: 폴의 아버지는 캐럴이 매우 정직한 사람이라는 것을 깨달았다.
+
+[Card 8]
+headword: marry
+part_of_speech: verb
+meaning_kr: 결혼하다
+definition_en: to become the husband or wife of someone
+definition_kr_literal: 누군가의 남편이나 아내가 되는 것
+example_en: Everyone thought that Paul would marry Rachel one day.
+example_kr_literal: 모두는 폴이 언젠가 레이첼과 결혼할 것이라고 생각했다.
+
+[Card 9]
+headword: proud
+part_of_speech: adjective
+meaning_kr: 자랑스러워하는
+definition_en: feeling happy and satisfied about something you or someone else did
+definition_kr_literal: 당신이나 다른 누군가가 한 일에 대해 행복하고 만족스럽게 느끼는 것
+example_en: Paul's mother was always proud of him when he worked at the bakery.
+example_kr_literal: 폴이 제과점에서 일했을 때 그의 어머니는 항상 그를 자랑스러워했다.
+
+[Card 10]
+headword: disappear
+part_of_speech: verb
+meaning_kr: 사라지다
+definition_en: to stop being visible or existing
+definition_kr_literal: 보이지 않게 되거나 존재하지 않게 되는 것
+example_en: Money can disappear, but real love stays forever.
+example_kr_literal: 돈은 사라질 수 있지만, 진정한 사랑은 영원히 남는다.

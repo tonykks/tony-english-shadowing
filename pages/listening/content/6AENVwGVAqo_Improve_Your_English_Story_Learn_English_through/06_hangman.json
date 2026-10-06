@@ -1,0 +1,235 @@
+{
+  "version": 1,
+  "video_id": "6AENVwGVAqo",
+  "items": [
+    {
+      "id": "h01",
+      "source_sentence": "Every morning, she woke up early, and every night, she went to bed tired.",
+      "kr_hint": "매일 아침 그녀는 일찍 일어났고, 매일 밤 그녀는 피곤한 상태로 잠자리에 들었습니다.",
+      "correct_chunks": [
+        "Every morning she woke",
+        "up early and every night",
+        "she went",
+        "to bed",
+        "tired"
+      ],
+      "distractors": [
+        "tirs",
+        "has tired"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "tired",
+        "alternatives": [
+          "tirs",
+          "has tired"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h02",
+      "source_sentence": "After two weeks, he said, \"I think I like you.\" Carol didn't know what to say.",
+      "kr_hint": "2주 후에 그가 \"너를 좋아하는 것 같아.\"라고 말했다, 캐럴은 무슨 말을 해야 할지 몰랐다.",
+      "correct_chunks": [
+        "After two weeks he said",
+        "I",
+        "think",
+        "I",
+        "like you",
+        "Carol didn't",
+        "know",
+        "what",
+        "to say"
+      ],
+      "distractors": [
+        "thought",
+        "has thought"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "think",
+        "alternatives": [
+          "thought",
+          "has thought"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h03",
+      "source_sentence": "Paul said, they said, \"If I stay with you, they will stop supporting me.",
+      "kr_hint": "폴이 말했다, 그들이 말하길, \"내가 너와 함께 있으면, 그들은 나에 대한 지원을 끊을 거야.",
+      "correct_chunks": [
+        "Paul said they said",
+        "If I stay",
+        "with you",
+        "they",
+        "will stop",
+        "supporting me"
+      ],
+      "distractors": [
+        "would stop",
+        "stops"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "will stop",
+        "alternatives": [
+          "would stop",
+          "stops"
+        ],
+        "note": "modal verb"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h04",
+      "source_sentence": "Everyone thought they would get married one day, but now Paul was spending time with a poor girl.",
+      "kr_hint": "모두가 그들이 언젠가 결혼할 것이라고 생각했지만, 지금 폴은 가난한 소녀와 시간을 보내고 있었다.",
+      "correct_chunks": [
+        "Everyone",
+        "thought",
+        "they",
+        "would get",
+        "married",
+        "one day but now Paul",
+        "was spending",
+        "time",
+        "with a poor girl"
+      ],
+      "distractors": [
+        "thinks",
+        "has thought"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "thought",
+        "alternatives": [
+          "thinks",
+          "has thought"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h05",
+      "source_sentence": "Even with no car, no money, and no support from his parents, he still came to see Carol.",
+      "kr_hint": "차도 없고, 돈도 없고, 부모님의 지원도 없었지만, 그는 여전히 캐럴을 보러 왔다.",
+      "correct_chunks": [
+        "Even",
+        "with no car",
+        "no money and no support",
+        "from his parents he",
+        "still came",
+        "to see",
+        "Carol"
+      ],
+      "distractors": [
+        "comes",
+        "has come"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "came",
+        "alternatives": [
+          "comes",
+          "has come"
+        ],
+        "note": "simple past"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h06",
+      "source_sentence": "She said you were using him, but you were trying to protect him.\" Carol was confused.",
+      "kr_hint": "그 애는 네가 그를 이용하고 있다고 말했지만, 너는 그를 보호하려고 애쓰고 있었던 거야.\" 캐롤은 혼란스러웠다.",
+      "correct_chunks": [
+        "She said",
+        "you",
+        "were using",
+        "him",
+        "but you",
+        "were trying",
+        "to protect",
+        "him Carol",
+        "was confused"
+      ],
+      "distractors": [
+        "is using",
+        "will be using"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "were using",
+        "alternatives": [
+          "is using",
+          "will be using"
+        ],
+        "note": "past progressive"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h07",
+      "source_sentence": "One day, Paul's father said, \"The family business is yours if you still want it.\" Paul didn't know what to say.",
+      "kr_hint": "어느 날 폴의 아버지가 \"아직도 원한다면 가업은 네 것이다.\"라고 말했다, 폴은 무슨 말을 해야 할지 몰랐다.",
+      "correct_chunks": [
+        "One day Paul's father said The family business",
+        "is",
+        "yours",
+        "if you",
+        "still want it",
+        "Paul didn't",
+        "know",
+        "what",
+        "to say"
+      ],
+      "distractors": [
+        "was",
+        "has been"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "is",
+        "alternatives": [
+          "was",
+          "has been"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    },
+    {
+      "id": "h08",
+      "source_sentence": "If someone loves you for who you are, not for what you have, that is real love.",
+      "kr_hint": "누군가 당신이 가진 것이 아니라 당신이라는 사람 자체를 사랑한다면, 그것이 진짜 사랑입니다.",
+      "correct_chunks": [
+        "If someone loves you",
+        "for who you are",
+        "not",
+        "for what you have",
+        "that",
+        "is",
+        "real love"
+      ],
+      "distractors": [
+        "was",
+        "has been"
+      ],
+      "grammar_focus": {
+        "type": "verb_tense",
+        "answer": "is",
+        "alternatives": [
+          "was",
+          "has been"
+        ],
+        "note": "simple present"
+      },
+      "final_punctuation": "."
+    }
+  ]
+}
