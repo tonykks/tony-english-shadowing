@@ -13,6 +13,10 @@ function sortCatalogNewestFirst(items) {
 
 document.addEventListener("DOMContentLoaded", async () => {
   let allItems = [];
+  let showHidden = false;
+  const selectedVideoIds = new Set();
+  let publicationPollTimer = null;
+
   let currentFilter = {
     search: "",
     level: "all",
@@ -30,6 +34,16 @@ document.addEventListener("DOMContentLoaded", async () => {
   const searchClearBtn = document.getElementById("search-clear-btn");
   const levelChipsContainer = document.getElementById("level-chips");
   const channelChipsContainer = document.getElementById("channel-chips");
+
+  // Admin Elements
+  const toggleHiddenBtn = document.getElementById("toggle-hidden-btn");
+  const adminSelectionBar = document.getElementById("admin-selection-bar");
+  const adminSelectedCount = document.getElementById("admin-selected-count");
+  const adminSelectAllBtn = document.getElementById("admin-select-all-btn");
+  const adminClearSelectBtn = document.getElementById("admin-clear-select-btn");
+  const adminHideBtn = document.getElementById("admin-hide-btn");
+  const adminUnhideBtn = document.getElementById("admin-unhide-btn");
+  const adminBarStatus = document.getElementById("admin-bar-status");
 
   // Nav buttons
   const navAllBtn = document.getElementById("nav-all-btn");
@@ -55,6 +69,18 @@ document.addEventListener("DOMContentLoaded", async () => {
   const channelsGridEl = document.getElementById("channels-grid");
   const speakersGridEl = document.getElementById("speakers-grid");
 
+  // Helper: Catalog visibility
+  function getVisibleCatalog() {
+    if (!DataSource.isLocal()) {
+      // PUBLIC SITE: NEVER expose hidden items!
+      return allItems.filter(item => !item.hidden);
+    }
+    if (!showHidden) {
+      return allItems.filter(item => !item.hidden);
+    }
+    return allItems;
+  }
+
   // 1. Check local admin mode & load catalog
   await DataSource.checkLocalMode();
   const catalog = await DataSource.loadCatalog();
@@ -76,10 +102,10 @@ document.addEventListener("DOMContentLoaded", async () => {
     renderChannelsExplorer();
     renderSpeakersExplorer();
     if (activeChannel && channelDetailView.style.display === "block") {
-      showChannel(activeChannel, allItems.filter(item => (item.channel || "기타 채널") === activeChannel));
+      showChannel(activeChannel, getVisibleCatalog().filter(item => (item.channel || "기타 채널") === activeChannel));
     }
     if (activeSpeaker && speakerDetailView.style.display === "block") {
-      showSpeaker(activeSpeaker, allItems.filter(item => (item.speaker || "").trim() === activeSpeaker));
+      showSpeaker(activeSpeaker, getVisibleCatalog().filter(item => (item.speaker || "").trim() === activeSpeaker));
     }
   });
 
@@ -118,7 +144,6 @@ document.addEventListener("DOMContentLoaded", async () => {
 
     searchDebounceTimer = setTimeout(() => {
       currentFilter.search = query.toLowerCase();
-      // If user types in search while on channels/speakers tab, switch to All Content tab for instant search results
       if (currentActiveTab !== "all" && query) {
         switchTab("all");
       }
@@ -154,6 +179,24 @@ document.addEventListener("DOMContentLoaded", async () => {
     renderMainCards();
   });
 
+  // Admin Hidden Toggle
+  if (toggleHiddenBtn) {
+    toggleHiddenBtn.addEventListener("click", () => {
+      showHidden = !showHidden;
+      toggleHiddenBtn.classList.toggle("active", showHidden);
+      toggleHiddenBtn.setAttribute("aria-pressed", showHidden ? "true" : "false");
+      toggleHiddenBtn.innerHTML = showHidden
+        ? '<span class="toggle-icon">👁️</span> 숨김 항목 포함 중'
+        : '<span class="toggle-icon">👁️</span> 숨김 항목 보기';
+      updateStats();
+      renderChannelChips();
+      renderMainCards();
+      renderChannelsExplorer();
+      renderSpeakersExplorer();
+      updateSelectionBar();
+    });
+  }
+
   // Back buttons
   backToChannelsBtn.addEventListener("click", () => {
     channelDetailView.style.display = "none";
@@ -167,14 +210,22 @@ document.addEventListener("DOMContentLoaded", async () => {
 
   // Renderers
   function updateStats() {
-    if (totalCountEl) totalCountEl.textContent = allItems.length;
+    const visible = getVisibleCatalog();
+    if (totalCountEl) {
+      if (DataSource.isLocal() && showHidden) {
+        const hiddenCount = allItems.filter(i => i.hidden).length;
+        totalCountEl.textContent = `${visible.length} (숨김 ${hiddenCount}편 포함)`;
+      } else {
+        totalCountEl.textContent = visible.length;
+      }
+    }
   }
 
   function renderChannelChips() {
-    const channelSet = new Set(allItems.map(i => i.channel).filter(Boolean));
+    const visible = getVisibleCatalog();
+    const channelSet = new Set(visible.map(i => i.channel).filter(Boolean));
     const sorted = Array.from(channelSet).sort();
 
-    // Preserve the first "전체 채널" button
     channelChipsContainer.innerHTML = `
       <span class="chips-label">채널:</span>
       <button class="filter-chip ${currentFilter.channel === 'all' ? 'active' : ''}" data-channel="all">전체 채널</button>
@@ -190,7 +241,7 @@ document.addEventListener("DOMContentLoaded", async () => {
   }
 
   function getFilteredItems() {
-    return allItems.filter(item => {
+    return getVisibleCatalog().filter(item => {
       // Level check
       if (currentFilter.level !== "all") {
         if (String(item.level) !== String(currentFilter.level)) {
@@ -229,7 +280,7 @@ document.addEventListener("DOMContentLoaded", async () => {
   }
 
   function renderChannelsExplorer() {
-    ChannelExplorer.renderChannels(allItems, channelsGridEl, showChannel);
+    ChannelExplorer.renderChannels(getVisibleCatalog(), channelsGridEl, showChannel);
   }
   function showChannel(channelName, channelItems) {
     activeChannel = channelName;
@@ -240,7 +291,7 @@ document.addEventListener("DOMContentLoaded", async () => {
   }
 
   function renderSpeakersExplorer() {
-    SpeakerExplorer.renderSpeakers(allItems, speakersGridEl, showSpeaker);
+    SpeakerExplorer.renderSpeakers(getVisibleCatalog(), speakersGridEl, showSpeaker);
   }
   function showSpeaker(speakerName, speakerItems) {
     activeSpeaker = speakerName;
@@ -266,10 +317,14 @@ document.addEventListener("DOMContentLoaded", async () => {
     }
 
     items.forEach(item => {
-      const card = document.createElement("article");
-      card.className = "lesson-card";
-
       const vid = item.video_id;
+      const isHidden = Boolean(item.hidden);
+      const isSelected = selectedVideoIds.has(vid);
+
+      const card = document.createElement("article");
+      card.className = `lesson-card${isHidden ? " is-hidden" : ""}${isSelected ? " selected" : ""}`;
+      card.dataset.videoId = vid;
+
       const thumbUrl = `https://img.youtube.com/vi/${vid}/hqdefault.jpg`;
       const level = item.level || 1;
       const levelClass = `badge-level-${Math.min(level, 4)}`;
@@ -278,16 +333,29 @@ document.addEventListener("DOMContentLoaded", async () => {
           <span>🎙️</span>${escapeHtml(item.speaker)}
         </div>
       ` : "";
+      const hiddenBadge = isHidden ? `
+        <div class="badge-hidden" title="숨김 처리된 영상">
+          <span>🚫</span>숨김
+        </div>
+      ` : "";
 
       const sections = item.section_count || 6;
       const words = item.wordcard_count || 10;
       const channelIcon = ChannelExplorer.getIcon(item.channel);
 
+      const selectCheckboxHtml = DataSource.isLocal() ? `
+        <label class="card-select-label" data-local-only title="영상 선택">
+          <input type="checkbox" class="card-select-cb" data-video-id="${vid}" ${isSelected ? "checked" : ""}>
+        </label>
+      ` : "";
+
       card.innerHTML = `
         <div class="card-thumbnail-wrap">
+          ${selectCheckboxHtml}
           <img class="card-thumbnail" src="${thumbUrl}" alt="${escapeHtml(item.title)}" loading="lazy">
           <div class="card-badges">
             <span class="badge-level ${levelClass}">Level ${level}</span>
+            ${hiddenBadge}
             ${speakerBadge}
           </div>
           <a href="${item.href}" class="play-overlay" aria-label="${escapeHtml(item.title)} 학습 시작">
@@ -329,8 +397,184 @@ document.addEventListener("DOMContentLoaded", async () => {
           </div>
         </div>
       `;
+
+      if (DataSource.isLocal()) {
+        const cb = card.querySelector(".card-select-cb");
+        const label = card.querySelector(".card-select-label");
+        if (label) {
+          label.addEventListener("click", e => e.stopPropagation());
+        }
+        if (cb) {
+          cb.addEventListener("click", e => e.stopPropagation());
+          cb.addEventListener("change", e => {
+            e.stopPropagation();
+            if (e.target.checked) {
+              selectedVideoIds.add(vid);
+              card.classList.add("selected");
+            } else {
+              selectedVideoIds.delete(vid);
+              card.classList.remove("selected");
+            }
+            updateSelectionBar();
+          });
+        }
+      }
+
       containerEl.appendChild(card);
     });
+  }
+
+  // Selection Bar Controller
+  function updateSelectionBar() {
+    if (!adminSelectionBar || !DataSource.isLocal()) return;
+    const count = selectedVideoIds.size;
+    if (count === 0) {
+      adminSelectionBar.hidden = true;
+      return;
+    }
+    adminSelectionBar.hidden = false;
+    if (adminSelectedCount) {
+      adminSelectedCount.textContent = `${count}개 선택됨`;
+    }
+    const selectedItems = allItems.filter(i => selectedVideoIds.has(i.video_id));
+    const hasNonHidden = selectedItems.some(i => !i.hidden);
+    const hasHidden = selectedItems.some(i => i.hidden);
+
+    if (adminHideBtn) {
+      adminHideBtn.style.display = hasNonHidden ? "inline-flex" : "none";
+    }
+    if (adminUnhideBtn) {
+      adminUnhideBtn.style.display = hasHidden ? "inline-flex" : "none";
+    }
+  }
+
+  if (adminClearSelectBtn) {
+    adminClearSelectBtn.addEventListener("click", () => {
+      selectedVideoIds.clear();
+      document.querySelectorAll(".card-select-cb").forEach(cb => cb.checked = false);
+      document.querySelectorAll(".lesson-card.selected").forEach(c => c.classList.remove("selected"));
+      updateSelectionBar();
+    });
+  }
+
+  if (adminSelectAllBtn) {
+    adminSelectAllBtn.addEventListener("click", () => {
+      const visibleCards = document.querySelectorAll(".cards-grid .lesson-card");
+      visibleCards.forEach(card => {
+        const vid = card.dataset.videoId;
+        if (vid) {
+          selectedVideoIds.add(vid);
+          card.classList.add("selected");
+          const cb = card.querySelector(".card-select-cb");
+          if (cb) cb.checked = true;
+        }
+      });
+      updateSelectionBar();
+    });
+  }
+
+  async function executeVisibilityMutation(action) {
+    const isHide = action === "hide";
+    const selectedItems = allItems.filter(i => selectedVideoIds.has(i.video_id));
+    const targetIds = selectedItems
+      .filter(i => isHide ? !i.hidden : i.hidden)
+      .map(i => i.video_id);
+
+    if (!targetIds.length) return;
+
+    const btn = isHide ? adminHideBtn : adminUnhideBtn;
+    if (btn) btn.disabled = true;
+
+    if (adminBarStatus) {
+      adminBarStatus.style.display = "flex";
+      adminBarStatus.textContent = `${targetIds.length}개 영상 ${isHide ? "숨김" : "숨김 해제"} 처리 중...`;
+    }
+
+    try {
+      const endpoint = isHide ? "/api/videos/hide" : "/api/videos/unhide";
+      const resp = await fetch(endpoint, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ video_ids: targetIds }),
+      });
+      const data = await resp.json();
+      if (!resp.ok || data.status === "ERROR") {
+        throw new Error(data.message || "요청 실패");
+      }
+
+      selectedVideoIds.clear();
+      const updatedCatalog = await DataSource.loadCatalog(true);
+      allItems = sortCatalogNewestFirst(updatedCatalog.items || []);
+      updateStats();
+      renderChannelChips();
+      renderMainCards();
+      renderChannelsExplorer();
+      renderSpeakersExplorer();
+      updateSelectionBar();
+
+      if (adminBarStatus) {
+        adminBarStatus.textContent = `Private 저장 완료 · 공개 배포 시작 (ID: ${data.batch_id?.slice(0, 8) || "진행 중"})...`;
+      }
+
+      if (data.batch_id) {
+        pollBatchPublication(data.batch_id, isHide ? "숨김" : "숨김 해제");
+      }
+    } catch (err) {
+      if (adminBarStatus) {
+        adminBarStatus.textContent = `오류: ${err.message}`;
+      }
+    } finally {
+      if (btn) btn.disabled = false;
+    }
+  }
+
+  function pollBatchPublication(batchId, label) {
+    clearInterval(publicationPollTimer);
+    const stages = {
+      pending: "Private 저장 완료 · 공개 반영 대기 중...",
+      exporting: "공개 저장소 반영 중...",
+      pushing: "GitHub 푸시 중...",
+      deploying: "GitHub Pages 배포 대기 중...",
+      verifying: "Live URL 검증 중...",
+      live_verified: "Live 배포 및 검증 완료! (공개 사이트 반영됨)",
+    };
+
+    publicationPollTimer = setInterval(async () => {
+      try {
+        const resp = await fetch(`/api/batches/${batchId}`);
+        if (!resp.ok) return;
+        const batch = await resp.json();
+        const stage = batch.publication_stage;
+        const statusText = stages[stage] || `공개 단계: ${stage}`;
+
+        if (adminBarStatus) {
+          adminBarStatus.textContent = `[${label}] ${statusText}`;
+        }
+
+        if (stage === "live_verified") {
+          clearInterval(publicationPollTimer);
+          setTimeout(() => {
+            if (adminBarStatus && selectedVideoIds.size === 0) {
+              adminBarStatus.style.display = "none";
+            }
+          }, 6000);
+        } else if (stage === "blocked" || stage === "publication_failed") {
+          clearInterval(publicationPollTimer);
+          if (adminBarStatus) {
+            adminBarStatus.textContent = `[${label}] 공개 반영 실패: ${batch.publication_error || "오류"}`;
+          }
+        }
+      } catch {
+        // network retry
+      }
+    }, 1800);
+  }
+
+  if (adminHideBtn) {
+    adminHideBtn.addEventListener("click", () => executeVisibilityMutation("hide"));
+  }
+  if (adminUnhideBtn) {
+    adminUnhideBtn.addEventListener("click", () => executeVisibilityMutation("unhide"));
   }
 
   function escapeHtml(str) {

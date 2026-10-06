@@ -106,6 +106,13 @@
         <button class="filter-chip active" data-channel="all">전체 채널</button>
         <!-- Dynamic channel chips inserted here -->
       </div>
+
+      <div class="chips-group" id="admin-hidden-toggle-group" data-local-only hidden>
+        <span class="chips-label">관리:</span>
+        <button type="button" class="filter-chip filter-chip-toggle" id="toggle-hidden-btn" aria-pressed="false">
+          <span class="toggle-icon">👁️</span> 숨김 항목 보기
+        </button>
+      </div>
     </div>
   </section>
 
@@ -161,6 +168,34 @@
       </div>
     </section>
   </main>
+
+  <!-- Local Admin Selection Bar -->
+  <aside class="admin-selection-bar" id="admin-selection-bar" data-local-only hidden aria-label="선택 영상 관리">
+    <div class="admin-bar-inner">
+      <div class="admin-bar-left">
+        <span class="selection-count-badge" id="admin-selected-count">0개 선택됨</span>
+        <button type="button" class="btn-bar-action" id="admin-select-all-btn">전체 선택</button>
+        <button type="button" class="btn-bar-action" id="admin-clear-select-btn">선택 해제</button>
+      </div>
+      <div class="admin-bar-actions">
+        <button type="button" class="btn-bar-action btn-bar-hide" id="admin-hide-btn">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M17.94 17.94A10.07 10.07 0 0 1 12 20c-7 0-11-8-11-8a18.45 18.45 0 0 1 5.06-5.94M9.9 4.24A9.12 9.12 0 0 1 12 4c7 0 11 8 11 8a18.5 18.5 0 0 1-2.16 3.19m-6.72-1.07a3 3 0 1 1-4.24-4.24"></path>
+            <line x1="1" y1="1" x2="23" y2="23"></line>
+          </svg>
+          선택 숨기기
+        </button>
+        <button type="button" class="btn-bar-action btn-bar-unhide" id="admin-unhide-btn" style="display: none;">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path>
+            <circle cx="12" cy="12" r="3"></circle>
+          </svg>
+          숨김 해제
+        </button>
+      </div>
+    </div>
+    <div class="admin-bar-status" id="admin-bar-status" style="display: none;" aria-live="polite"></div>
+  </aside>
 
   <!-- Local Admin Modal -->
   <div class="modal-backdrop" id="admin-modal" data-local-only hidden>
