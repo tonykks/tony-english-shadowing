@@ -575,7 +575,8 @@ body {
   line-height: 1.5;
   margin-bottom: 1rem;
   display: -webkit-box;
-  -webkit-line-clamp: 2;
+  -webkit-line-clamp: 3;
+  line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
   flex: 1;
@@ -986,6 +987,11 @@ textarea.form-input { resize: vertical; min-height: 5rem; }
   color: #fca5a5;
   font-weight: 700;
 }
+[hidden],
+[data-local-only][hidden],
+.admin-selection-bar[hidden] {
+  display: none !important;
+}
 
 .admin-selection-bar {
   position: fixed;
@@ -1061,6 +1067,23 @@ textarea.form-input { resize: vertical; min-height: 5rem; }
   background: rgba(255, 255, 255, 0.18);
   color: #fff;
   transform: translateY(-1px);
+}
+.btn-bar-edit {
+  background: rgba(56, 189, 248, 0.22);
+  border-color: rgba(56, 189, 248, 0.55);
+  color: #7dd3fc;
+}
+
+.btn-bar-edit:hover:not(:disabled) {
+  background: rgba(56, 189, 248, 0.38);
+  border-color: var(--accent-cyan);
+  color: #fff;
+}
+
+.btn-bar-edit:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+  transform: none;
 }
 
 .btn-bar-hide {

@@ -43,7 +43,22 @@ document.addEventListener("DOMContentLoaded", async () => {
   const adminClearSelectBtn = document.getElementById("admin-clear-select-btn");
   const adminHideBtn = document.getElementById("admin-hide-btn");
   const adminUnhideBtn = document.getElementById("admin-unhide-btn");
+  const adminEditBtn = document.getElementById("admin-edit-btn");
   const adminBarStatus = document.getElementById("admin-bar-status");
+
+  // Admin Edit Modal Elements
+  const adminEditModal = document.getElementById("admin-edit-modal");
+  const adminEditForm = document.getElementById("admin-edit-form");
+  const closeEditModalBtn = document.getElementById("close-edit-modal-btn");
+  const cancelEditBtn = document.getElementById("cancel-edit-btn");
+  const editVideoId = document.getElementById("edit-video-id");
+  const editTitle = document.getElementById("edit-title");
+  const editLevel = document.getElementById("edit-level");
+  const editSpeaker = document.getElementById("edit-speaker");
+  const editChannel = document.getElementById("edit-channel");
+  const editIntro = document.getElementById("edit-intro");
+  const editModalError = document.getElementById("edit-modal-error");
+  const saveEditBtn = document.getElementById("save-edit-btn");
 
   // Nav buttons
   const navAllBtn = document.getElementById("nav-all-btn");
@@ -91,6 +106,7 @@ document.addEventListener("DOMContentLoaded", async () => {
   renderMainCards();
   renderChannelsExplorer();
   renderSpeakersExplorer();
+  updateSelectionBar();
 
   // 2. Initialize Admin Controller
   AdminController.init(async (newItem) => {
@@ -446,6 +462,19 @@ document.addEventListener("DOMContentLoaded", async () => {
     if (adminUnhideBtn) {
       adminUnhideBtn.style.display = hasHidden ? "inline-flex" : "none";
     }
+    if (adminEditBtn) {
+      if (count === 1) {
+        adminEditBtn.style.display = "inline-flex";
+        adminEditBtn.disabled = false;
+        adminEditBtn.title = "선택한 영상 정보 수정";
+      } else if (count > 1) {
+        adminEditBtn.style.display = "inline-flex";
+        adminEditBtn.disabled = true;
+        adminEditBtn.title = "1개 영상만 선택 시 수정 가능합니다";
+      } else {
+        adminEditBtn.style.display = "none";
+      }
+    }
   }
 
   if (adminClearSelectBtn) {
@@ -575,6 +604,127 @@ document.addEventListener("DOMContentLoaded", async () => {
   }
   if (adminUnhideBtn) {
     adminUnhideBtn.addEventListener("click", () => executeVisibilityMutation("unhide"));
+  }
+
+  // Edit Modal Event Handlers
+  function openEditModal() {
+    if (selectedVideoIds.size !== 1) return;
+    const vid = Array.from(selectedVideoIds)[0];
+    const item = allItems.find(i => i.video_id === vid);
+    if (!item) return;
+
+    editVideoId.value = item.video_id;
+    editTitle.value = item.title || "";
+    editLevel.value = String(item.level || 1);
+    editSpeaker.value = item.speaker || "";
+    editChannel.value = item.channel || "";
+    editIntro.value = item.introEn || "";
+    if (editModalError) {
+      editModalError.style.display = "none";
+      editModalError.textContent = "";
+    }
+    if (adminEditModal) {
+      adminEditModal.classList.add("active");
+      adminEditModal.hidden = false;
+    }
+  }
+
+  function closeEditModal() {
+    if (adminEditModal) {
+      adminEditModal.classList.remove("active");
+      adminEditModal.hidden = true;
+    }
+    if (editModalError) {
+      editModalError.style.display = "none";
+      editModalError.textContent = "";
+    }
+  }
+
+  if (adminEditBtn) {
+    adminEditBtn.addEventListener("click", openEditModal);
+  }
+  if (closeEditModalBtn) {
+    closeEditModalBtn.addEventListener("click", closeEditModal);
+  }
+  if (cancelEditBtn) {
+    cancelEditBtn.addEventListener("click", closeEditModal);
+  }
+  if (adminEditModal) {
+    adminEditModal.addEventListener("click", (e) => {
+      if (e.target === adminEditModal) closeEditModal();
+    });
+  }
+
+  if (adminEditForm) {
+    adminEditForm.addEventListener("submit", async (e) => {
+      e.preventDefault();
+      const vid = editVideoId.value;
+      const title = editTitle.value.trim();
+      const level = parseInt(editLevel.value, 10);
+      const speaker = editSpeaker.value.trim() || null;
+      const channel = editChannel.value.trim();
+      const introEn = editIntro.value.trim();
+
+      if (!title || !channel) {
+        if (editModalError) {
+          editModalError.style.display = "block";
+          editModalError.textContent = "제목과 채널명은 필수 항목입니다.";
+        }
+        return;
+      }
+      if (saveEditBtn) {
+        saveEditBtn.disabled = true;
+        saveEditBtn.textContent = "저장 및 배포 중...";
+      }
+      try {
+        const resp = await fetch("/api/videos/update", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({
+            video_id: vid,
+            title,
+            level,
+            speaker,
+            channel,
+            introEn,
+          }),
+        });
+        const data = await resp.json();
+        if (!resp.ok || data.status === "ERROR") {
+          throw new Error(data.message || "수정 요청 실패");
+        }
+
+        closeEditModal();
+        selectedVideoIds.clear();
+        const updatedCatalog = await DataSource.loadCatalog(true);
+        allItems = sortCatalogNewestFirst(updatedCatalog.items || []);
+        updateStats();
+        renderChannelChips();
+        renderMainCards();
+        renderChannelsExplorer();
+        renderSpeakersExplorer();
+        updateSelectionBar();
+
+        if (adminBarStatus) {
+          adminBarStatus.style.display = "flex";
+          adminBarStatus.textContent = `[수정] Private 저장 완료 · 공개 배포 시작 (ID: ${data.batch_id?.slice(0, 8) || "진행 중"})...`;
+        }
+
+        if (data.batch_id) {
+          pollBatchPublication(data.batch_id, "수정");
+        }
+      } catch (err) {
+        if (editModalError) {
+          editModalError.style.display = "block";
+          editModalError.textContent = `오류: ${err.message}`;
+        }
+      } finally {
+        if (saveEditBtn) {
+          saveEditBtn.disabled = false;
+          saveEditBtn.textContent = "저장 및 배포";
+        }
+      }
+    });
   }
 
   function escapeHtml(str) {
